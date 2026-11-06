@@ -6,7 +6,7 @@
 <a id="p-2116042775007474169"></a>
 ### Cozy Korean Girl Lifestyle Mini Vlog
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg?format=webp&name=small" height="300" alt="Cozy Korean Girl Lifestyle Mini Vlog — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2116042775007474169&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg?format=webp&name=small" height="300" alt="Cozy Korean Girl Lifestyle Mini Vlog — Seedance 2.0"></a>
 
 A 15-second vlog following a woman in a maroon hoodie from waking up through timed scenes, with consistent character details.
 
@@ -41,14 +41,14 @@ Maintain exactly the same face, hairstyle, outfit, and body proportions in every
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Lianaalane/status/2116042775007474169) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2116042775007474169&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Lianaalane/status/2116042775007474169) · [↑ Top](#top)
 
 ---
 
 <a id="p-2113151262103621812"></a>
 ### Busan Coastal Street Stroll
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2113151216423464960/img/SJvM_pN5DzSQwVAb.jpg?format=webp&name=small" height="300" alt="Busan Coastal Street Stroll — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2113151262103621812&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2113151216423464960/img/SJvM_pN5DzSQwVAb.jpg?format=webp&name=small" height="300" alt="Busan Coastal Street Stroll — Seedance 2.5"></a>
 
 A 10-second 4K clip of a woman in pastel clothes on a sloping coastal street, written as timed scenes.
 
@@ -75,14 +75,14 @@ Scene 4 (7.5–10s): She playfully reaches for the camera, laughs, and ends with
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MissDelulu9/status/2113151262103621812) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2113151262103621812&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MissDelulu9/status/2113151262103621812) · [↑ Top](#top)
 
 ---
 
 <a id="p-2112745556644946344"></a>
 ### First-Person 2000s Camcorder Day
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2112745338192932864/img/c3k-9rjryfuF8TRz.jpg?format=webp&name=small" height="300" alt="First-Person 2000s Camcorder Day — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2112745556644946344&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2112745338192932864/img/c3k-9rjryfuF8TRz.jpg?format=webp&name=small" height="300" alt="First-Person 2000s Camcorder Day — Seedance 2.5"></a>
 
 A 30-second first-person clip styled as a camcorder tape with a timestamp, using a style rule and timed shots.
 
@@ -117,14 +117,14 @@ SOUND RULE: Layered ambient audio: alarm bell, cartoon TV, bus chatter, chalkboa
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Diplomeme/status/2112745556644946344) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2112745556644946344&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Diplomeme/status/2112745556644946344) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110223635667439793"></a>
 ### Korean Morning Routine Home Video
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110223537797824512/img/u6P0YWDfeaIpE7kl.jpg?format=webp&name=small" height="300" alt="Korean Morning Routine Home Video — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110223635667439793&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110223537797824512/img/u6P0YWDfeaIpE7kl.jpg?format=webp&name=small" height="300" alt="Korean Morning Routine Home Video — Seedance 2.5"></a>
 
 A 30-second 2003-style home camcorder video of an ordinary morning, with a character block and an unpolished feel.
 
@@ -161,7 +161,7 @@ NEGATIVE: No cinematic commercial look, professional lighting, gimbal shots, mod
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2110223635667439793) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110223635667439793&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2110223635667439793) · [↑ Top](#top)
 
 ---
 
@@ -246,7 +246,7 @@ Output: 30 seconds, 16:9 landscape, photorealistic, continuous character and out
 <a id="p-2107824210899055039"></a>
 ### Korean Vlog Yoga Morning
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107824166292643840/img/QzMiWBn2jucVqJoU.jpg?format=webp&name=small" height="300" alt="Korean Vlog Yoga Morning — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107824210899055039&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107824166292643840/img/QzMiWBn2jucVqJoU.jpg?format=webp&name=small" height="300" alt="Korean Vlog Yoga Morning — Seedance 2.5"></a>
 
 A handheld vlog-style yoga session in a modern apartment, split into timecoded segments with an identity-preservation line for the reference image.
 
@@ -279,14 +279,14 @@ Natural movements and ambient sounds only: spray bottle, distant TV, fabric, nai
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2107824210899055039) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107824210899055039&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2107824210899055039) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107320440683417827"></a>
 ### Early-2000s Camcorder Day With a Pet Dog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107320373599731712/img/I633bb5tQtljn1Qc.jpg?format=webp&name=small" height="300" alt="Early-2000s Camcorder Day With a Pet Dog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107320440683417827&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107320373599731712/img/I633bb5tQtljn1Qc.jpg?format=webp&name=small" height="300" alt="Early-2000s Camcorder Day With a Pet Dog — Seedance 2.5"></a>
 
 A 30-second Seoul neighborhood walk with a dog filmed in a retro DV camcorder look, using an attached image as the character reference.
 
@@ -325,14 +325,14 @@ NEGATIVE: Music, narration, subtitles, text, watermark, beauty filters, CGI appe
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2107320440683417827) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107320440683417827&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2107320440683417827) · [↑ Top](#top)
 
 ---
 
 <a id="p-2106975072917311820"></a>
 ### Get Ready With Me Morning Selfie Vlog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2106974433902837761/img/3IwcEYzjEBmnIr6k.jpg?format=webp&name=small" height="300" alt="Get Ready With Me Morning Selfie Vlog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2106975072917311820&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2106974433902837761/img/3IwcEYzjEBmnIr6k.jpg?format=webp&name=small" height="300" alt="Get Ready With Me Morning Selfie Vlog — Seedance 2.5"></a>
 
 A 30-second continuous handheld front-camera morning vlog of the same woman, with face and hair kept identical throughout.
 
@@ -395,7 +395,7 @@ The final result should feel like an authentic, imperfect morning vlog recorded 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MahiraEhan/status/2106975072917311820) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2106975072917311820&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MahiraEhan/status/2106975072917311820) · [↑ Top](#top)
 
 ---
 
@@ -504,7 +504,7 @@ No CGI look, no 3D rendering, no cartoon animals, no fantasy environment, no art
 <a id="p-2106951270380802264"></a>
 ### Rainy Korean City Day in a Lifestyle Vlog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2106950739985833984/img/5WvyikEB4OzudkYJ.jpg?format=webp&name=small" height="300" alt="Rainy Korean City Day in a Lifestyle Vlog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2106951270380802264&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2106950739985833984/img/5WvyikEB4OzudkYJ.jpg?format=webp&name=small" height="300" alt="Rainy Korean City Day in a Lifestyle Vlog — Seedance 2.5"></a>
 
 A cinematic vlog following a woman from a cozy apartment on a rainy day through getting ready, with a misty city view.
 
@@ -523,7 +523,7 @@ A beautiful Korean girl in a realistic cinematic lifestyle vlog, starting inside
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Lianaalane/status/2106951270380802264) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2106951270380802264&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Lianaalane/status/2106951270380802264) · [↑ Top](#top)
 
 ---
 
@@ -572,7 +572,7 @@ Natural neighborhood audio only: footsteps, birds, distant traffic, children pla
 <a id="p-2105146792681832481"></a>
 ### Friend-Filmed Birthday Vlog in Early-2000s Korea
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105146696913375232/img/hRZx4zyp5PkkFLzs.jpg?format=webp&name=small" height="300" alt="Friend-Filmed Birthday Vlog in Early-2000s Korea — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2105146792681832481&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105146696913375232/img/hRZx4zyp5PkkFLzs.jpg?format=webp&name=small" height="300" alt="Friend-Filmed Birthday Vlog in Early-2000s Korea — Seedance 2.5"></a>
 
 A 30-second birthday vlog styled as casual consumer camcorder footage from the early 2000s, avoiding a modern look.
 
@@ -620,14 +620,14 @@ FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every sc
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2105146792681832481) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2105146792681832481&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2105146792681832481) · [↑ Top](#top)
 
 ---
 
 <a id="p-2105135568078381416"></a>
 ### Korean Couple Shopping in an Early-2000s Camcorder Style
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105135492560031744/img/Vlj-asxZ_9a_97EN.jpg?format=webp&name=small" height="300" alt="Korean Couple Shopping in an Early-2000s Camcorder Style — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2105135568078381416&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105135492560031744/img/Vlj-asxZ_9a_97EN.jpg?format=webp&name=small" height="300" alt="Korean Couple Shopping in an Early-2000s Camcorder Style — Seedance 2.5"></a>
 
 A 30-second home video of a couple shopping in Seoul, with the girl's outfit listed in detail and a deliberately imperfect camcorder feel.
 
@@ -650,14 +650,14 @@ Keep the same faces, outfits, hairstyles and appearance throughout. Raw handheld
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2105135568078381416) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2105135568078381416&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2105135568078381416) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104776214066188611"></a>
 ### Early-2000s Couple Drive Through Seoul
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104776124110925824/img/uW_s0ffgHltaO2zn.jpg?format=webp&name=small" height="300" alt="Early-2000s Couple Drive Through Seoul — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104776214066188611&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104776124110925824/img/uW_s0ffgHltaO2zn.jpg?format=webp&name=small" height="300" alt="Early-2000s Couple Drive Through Seoul — Seedance 2.5"></a>
 
 A 30-second home-camcorder style afternoon drive of a young Korean couple, with labeled character sections and an imperfect, spontaneous feel.
 
@@ -714,14 +714,14 @@ No cinematic commercial look, no gimbal shots, no drone shots, no dramatic light
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2104776214066188611) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104776214066188611&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2104776214066188611) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104408252670939438"></a>
 ### Gym Workout Day Told as a Home Video
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104408177249050625/img/ma4toaDCetSIwiHF.jpg?format=webp&name=small" height="300" alt="Gym Workout Day Told as a Home Video — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104408252670939438&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104408177249050625/img/ma4toaDCetSIwiHF.jpg?format=webp&name=small" height="300" alt="Gym Workout Day Told as a Home Video — Seedance 2.5"></a>
 
 A 30-second home-video style clip of a young Korean woman leaving home with a gym bag and doing a simple workout, using a character reference image.
 
@@ -760,7 +760,7 @@ Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossibl
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2104408252670939438) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104408252670939438&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2104408252670939438) · [↑ Top](#top)
 
 ---
 
@@ -815,7 +815,7 @@ Ultra-realistic skin, hair, hands, clothing and movement; tropical light, shadow
 <a id="p-2104187027935973745"></a>
 ### Weekly Wrap-Up Gym Vlog With Tape Look
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104186935543799809/img/W6i0lXi5Zu5e61E9.jpg?format=webp&name=small" height="300" alt="Weekly Wrap-Up Gym Vlog With Tape Look — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104187027935973745&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104186935543799809/img/W6i0lXi5Zu5e61E9.jpg?format=webp&name=small" height="300" alt="Weekly Wrap-Up Gym Vlog With Tape Look — Seedance 2.5"></a>
 
 A calm end-of-week gym vlog in a camcorder style, with a Korean idol character, nostalgic warm tone and a faint timestamp.
 
@@ -856,14 +856,14 @@ SETTING: Quiet gym mat area after evening session; mirror wall, water bottle, du
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2104187027935973745) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104187027935973745&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2104187027935973745) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104060877540610239"></a>
 ### Early-2000s Home Video Date in Seoul
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104060793075752960/img/EzBHfzHyMcDeRPz7.jpg?format=webp&name=small" height="300" alt="Early-2000s Home Video Date in Seoul — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104060877540610239&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104060793075752960/img/EzBHfzHyMcDeRPz7.jpg?format=webp&name=small" height="300" alt="Early-2000s Home Video Date in Seoul — Seedance 2.5"></a>
 
 A 30-second imitation of an early-2000s consumer DV home video of a Korean couple out for an afternoon, with detailed character and camera notes.
 
@@ -898,14 +898,14 @@ Keep both faces, hairstyles, outfits, accessories, bags and bottled drink identi
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2104060877540610239) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104060877540610239&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2104060877540610239) · [↑ Top](#top)
 
 ---
 
 <a id="p-2103701422252683461"></a>
 ### Two Friends on a Spontaneous Road Trip Day
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2103701305185472512/img/bFvcJNZqgZU3xhYO.jpg?format=webp&name=small" height="300" alt="Two Friends on a Spontaneous Road Trip Day — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2103701422252683461&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2103701305185472512/img/bFvcJNZqgZU3xhYO.jpg?format=webp&name=small" height="300" alt="Two Friends on a Spontaneous Road Trip Day — Seedance 2.0"></a>
 
 A 30-second nostalgic lifestyle short that opens from inside a shopping cart and follows two young women through a carefree day out.
 
@@ -924,14 +924,14 @@ Creative 30-second video, cinematic lifestyle road-trip short film with a warm, 
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/aiwithaayat/status/2103701422252683461) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2103701422252683461&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/aiwithaayat/status/2103701422252683461) · [↑ Top](#top)
 
 ---
 
 <a id="p-2103476205760774263"></a>
 ### Core Workout Vlog on a Tape Camcorder
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg?format=webp&name=small" height="300" alt="Core Workout Vlog on a Tape Camcorder — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2103476205760774263&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg?format=webp&name=small" height="300" alt="Core Workout Vlog on a Tape Camcorder — Seedance 2.5"></a>
 
 A camcorder-style gym clip where a Korean idol character pushes through core exercises on a mat, with playful complaining, shaky framing and a character sheet.
 
@@ -979,14 +979,14 @@ A gym mat area in the evening — mirror wall nearby, water bottle on the floor,
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2103476205760774263) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2103476205760774263&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2103476205760774263) · [↑ Top](#top)
 
 ---
 
 <a id="p-2102992059938587000"></a>
 ### Gym Vlog With Shaky Legs on a Camcorder
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2102992034529411073/img/QpOJMOPDUYmSQCdL.jpg?format=webp&name=small" height="300" alt="Gym Vlog With Shaky Legs on a Camcorder — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2102992059938587000&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2102992034529411073/img/QpOJMOPDUYmSQCdL.jpg?format=webp&name=small" height="300" alt="Gym Vlog With Shaky Legs on a Camcorder — Seedance 2.5"></a>
 
 A tape-camcorder style gym vlog where a Korean idol character complains and laughs through a workout, with handheld shake, soft tape noise and flickering exposure.
 
@@ -1038,7 +1038,7 @@ A gym in the evening — squat rack, leg press machine, a water fountain across 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/QAiStudio/status/2102992059938587000) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2102992059938587000&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/QAiStudio/status/2102992059938587000) · [↑ Top](#top)
 
 ---
 
@@ -1299,7 +1299,7 @@ NO AI-SLOP.
 <a id="p-2102254554398228983"></a>
 ### Seoul Day Out Lifestyle Vlog in 30 Seconds
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2102254173261815808/img/1Eh_ricDwvzQL39O.jpg?format=webp&name=small" height="300" alt="Seoul Day Out Lifestyle Vlog in 30 Seconds — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2102254554398228983&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2102254173261815808/img/1Eh_ricDwvzQL39O.jpg?format=webp&name=small" height="300" alt="Seoul Day Out Lifestyle Vlog in 30 Seconds — Seedance 2.5"></a>
 
 A 30-second photorealistic Seoul lifestyle video following one woman through small adventures, with a detailed character description to keep her look consistent across shots.
 
@@ -1336,7 +1336,7 @@ Style: Premium Korean lifestyle commercial × cinematic vlog, cute, playful, ene
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MissDelulu9/status/2102254554398228983) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2102254554398228983&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MissDelulu9/status/2102254554398228983) · [↑ Top](#top)
 
 ---
 
@@ -1650,7 +1650,7 @@ Prioritize natural human behavior, realistic movement, continuity, imperfect han
 <a id="p-2101889590621536594"></a>
 ### Playful Day at a Colorful Playground
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg?format=webp&name=small" height="300" alt="Playful Day at a Colorful Playground — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2101889590621536594&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg?format=webp&name=small" height="300" alt="Playful Day at a Colorful Playground — Seedance 2.0"></a>
 
 A Korean girl in a white shirt lies on a slide then sits quietly on a swing; the prompt lists those moments with a transition between them.
 
@@ -1677,7 +1677,7 @@ Keep the Korean girl’s identity and appearance consistent throughout the entir
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Lianaalane/status/2101889590621536594) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2101889590621536594&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Lianaalane/status/2101889590621536594) · [↑ Top](#top)
 
 ---
 
@@ -1836,7 +1836,7 @@ Prompt - REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for th
 <a id="p-2097616213371478242"></a>
 ### Mirror Selfie Interrupted by a Playful Dog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097614865154404352/img/P3gtFvUuGcb4CejG.jpg?format=webp&name=small" height="300" alt="Mirror Selfie Interrupted by a Playful Dog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2097616213371478242&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097614865154404352/img/P3gtFvUuGcb4CejG.jpg?format=webp&name=small" height="300" alt="Mirror Selfie Interrupted by a Playful Dog — Seedance 2.5"></a>
 
 A woman's mirror selfie keeps getting taken over by one small dog; the prompt locks a reference image for the woman and forbids duplicate animals.
 
@@ -1855,14 +1855,14 @@ REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Strength04_X/status/2097616213371478242) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2097616213371478242&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2097616213371478242) · [↑ Top](#top)
 
 ---
 
 <a id="p-2097564633242779830"></a>
 ### Taiwanese Summer Evening in a 2000s Home Video Style
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097564485234135040/img/2j29g6wO0ySPe9uF.jpg?format=webp&name=small" height="300" alt="Taiwanese Summer Evening in a 2000s Home Video Style — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2097564633242779830&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097564485234135040/img/2j29g6wO0ySPe9uF.jpg?format=webp&name=small" height="300" alt="Taiwanese Summer Evening in a 2000s Home Video Style — Seedance 2.5"></a>
 
 A first-person view of a young woman's ordinary summer evening, styled like a 2000s home recording; the prompt gives format, subject and wardrobe details.
 
@@ -1904,14 +1904,14 @@ Continuity: Real dogs and environmental actions. No repeated characters, distort
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/harboriis/status/2097564633242779830) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2097564633242779830&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/harboriis/status/2097564633242779830) · [↑ Top](#top)
 
 ---
 
 <a id="p-2097556131623432569"></a>
 ### Korean Countryside Morning Routine Vlog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097555749077651456/img/YJ9uJx2O9YASjb57.jpg?format=webp&name=small" height="300" alt="Korean Countryside Morning Routine Vlog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2097556131623432569&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097555749077651456/img/YJ9uJx2O9YASjb57.jpg?format=webp&name=small" height="300" alt="Korean Countryside Morning Routine Vlog — Seedance 2.5"></a>
 
 A woman opens a chicken coop, feeds hens, collects eggs and cooks breakfast; the prompt lists the routine as an arrow-separated action chain.
 
@@ -1932,14 +1932,14 @@ Authentic 2026 Korean rural life, natural human movement, realistic chicken beha
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/aiwithaly/status/2097556131623432569) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2097556131623432569&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/aiwithaly/status/2097556131623432569) · [↑ Top](#top)
 
 ---
 
 <a id="p-2096931238460178592"></a>
 ### Early-2000s Home Video of a Seoul Summer Evening
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096930950760304645/img/4btRZbNEx0NVeT9W.jpg?format=webp&name=small" height="300" alt="Early-2000s Home Video of a Seoul Summer Evening — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2096931238460178592&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096930950760304645/img/4btRZbNEx0NVeT9W.jpg?format=webp&name=small" height="300" alt="Early-2000s Home Video of a Seoul Summer Evening — Seedance 2.5"></a>
 
 A woman spends an ordinary summer evening in an older Seoul neighborhood, shot like a vintage DV home video; the prompt specifies format, subject and era look.
 
@@ -2048,14 +2048,14 @@ Natural human reactions, imperfect timing, realistic physics, consistent objects
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/SimplyAnnisa/status/2096931238460178592) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2096931238460178592&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/SimplyAnnisa/status/2096931238460178592) · [↑ Top](#top)
 
 ---
 
 <a id="p-2096424933366931946"></a>
 ### Sunday Afternoon in an Older Seoul Neighborhood
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096424851888300032/img/GsfbwnQVERijOEJp.jpg?format=webp&name=small" height="300" alt="Sunday Afternoon in an Older Seoul Neighborhood — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2096424933366931946&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096424851888300032/img/GsfbwnQVERijOEJp.jpg?format=webp&name=small" height="300" alt="Sunday Afternoon in an Older Seoul Neighborhood — Seedance 2.5"></a>
 
 A 30-second early-2000s DV home-video style clip of a woman spending a quiet Sunday, with a detailed outfit and appearance description.
 
@@ -2100,14 +2100,14 @@ Negative: CGI look, plastic skin, identity drift, outfit changes, teleporting ob
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2096424933366931946) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2096424933366931946&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2096424933366931946) · [↑ Top](#top)
 
 ---
 
 <a id="p-2095485437821464808"></a>
 ### Courtyard Mishap in a Small Apartment Block
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095485347132272640/img/svAkuHSvEKZqg9gH.jpg?format=webp&name=small" height="300" alt="Courtyard Mishap in a Small Apartment Block — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2095485437821464808&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095485347132272640/img/svAkuHSvEKZqg9gH.jpg?format=webp&name=small" height="300" alt="Courtyard Mishap in a Small Apartment Block — Seedance 2.5"></a>
 
 A woman in a peach T-shirt and pajama pants has an unexpected moment in a small Korean apartment courtyard, written in labeled character and location blocks.
 
@@ -2137,7 +2137,7 @@ Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2095485437821464808) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2095485437821464808&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2095485437821464808) · [↑ Top](#top)
 
 ---
 
@@ -2260,7 +2260,7 @@ NEGATIVE PROMPT: No CGI look, synthetic skin, beauty filter, excessive sharpenin
 <a id="p-2094420859960045616"></a>
 ### New York Sidewalk Walk With a Golden Retriever
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2094420825935859712/img/RoLBylwPMsSjObWz.jpg?format=webp&name=small" height="300" alt="New York Sidewalk Walk With a Golden Retriever — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2094420859960045616&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2094420825935859712/img/RoLBylwPMsSjObWz.jpg?format=webp&name=small" height="300" alt="New York Sidewalk Walk With a Golden Retriever — Seedance 2.5"></a>
 
 A stylish woman walks a golden-hour New York sidewalk with a phone, iced coffee and a golden retriever, until a sudden event interrupts the stroll.
 
@@ -2279,14 +2279,14 @@ A stylish young woman walking confidently down a busy New York city sidewalk dur
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AvelyrahnAI/status/2094420859960045616) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2094420859960045616&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AvelyrahnAI/status/2094420859960045616) · [↑ Top](#top)
 
 ---
 
 <a id="p-2093659312212291914"></a>
 ### Pastel Outfit Walk With a Korean Friend
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2093659274388074496/img/MrchnMTY5e2Ey1hV.jpg?format=webp&name=small" height="300" alt="Pastel Outfit Walk With a Korean Friend — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2093659312212291914&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2093659274388074496/img/MrchnMTY5e2Ey1hV.jpg?format=webp&name=small" height="300" alt="Pastel Outfit Walk With a Korean Friend — Seedance 2.5"></a>
 
 A young woman in a pastel-pink top and cream pants with a messy side ponytail, described through detailed appearance, location and action paragraphs.
 
@@ -2346,7 +2346,7 @@ FINAL FEEL: A completely ordinary Korean summer afternoon accidentally captured 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2093659312212291914) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2093659312212291914&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2093659312212291914) · [↑ Top](#top)
 
 ---
 
@@ -2396,7 +2396,7 @@ Sound: No BGM. Locker-room echo, distant locker clanks, shoelace tightening, ear
 <a id="p-2093191801763233991"></a>
 ### Camcorder-Style Workout Footage
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2093191730137120768/img/Gdp3tzSwwKTeIbZi.jpg?format=webp&name=small" height="300" alt="Camcorder-Style Workout Footage — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2093191801763233991&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2093191730137120768/img/Gdp3tzSwwKTeIbZi.jpg?format=webp&name=small" height="300" alt="Camcorder-Style Workout Footage — Seedance 2.5"></a>
 
 A shaky 16mm DV tape camcorder look following a self-filmed workout, with a detailed camera and look header describing noise, zooms and cutoffs.
 
@@ -2435,14 +2435,14 @@ SETTING: Evening gym open floor, mats, mirrors, small speaker/phone, water bottl
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2093191801763233991) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2093191801763233991&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2093191801763233991) · [↑ Top](#top)
 
 ---
 
 <a id="p-2092492677384437909"></a>
 ### Selfie Phone Footage With Gold Hoops
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2092492625311838208/img/t_7Md-sfnC4AN12L.jpg?format=webp&name=small" height="300" alt="Selfie Phone Footage With Gold Hoops — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2092492677384437909&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2092492625311838208/img/t_7Md-sfnC4AN12L.jpg?format=webp&name=small" height="300" alt="Selfie Phone Footage With Gold Hoops — Seedance 2.5"></a>
 
 An ultra-realistic selfie-style phone clip of a woman filming herself, with identity details like gold hoop earrings and a ban on beauty filters or CGI feel.
 
@@ -2493,7 +2493,7 @@ AUDIO: authentic rain, footsteps, traffic, café ambience, food-stall sounds, wi
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/HustleXR/status/2092492677384437909) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2092492677384437909&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/HustleXR/status/2092492677384437909) · [↑ Top](#top)
 
 ---
 
@@ -3327,7 +3327,7 @@ This character reference will be used as the SAME FEMALE PROTAGONIST throughout 
 <a id="p-2091175465037746522"></a>
 ### Korean Neighborhood Summer Street Walk
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2091175377687511040/img/_P8hUjYhuPhXtkmT.jpg?format=webp&name=small" height="300" alt="Korean Neighborhood Summer Street Walk — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2091175465037746522&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2091175377687511040/img/_P8hUjYhuPhXtkmT.jpg?format=webp&name=small" height="300" alt="Korean Neighborhood Summer Street Walk — Seedance 2.5"></a>
 
 A young woman in a pink top and cream pants strolls an older residential neighborhood on a hot day, with the prompt split into subject, location and action blocks.
 
@@ -3355,14 +3355,14 @@ Audio: Summer insects, birds, bicycle chain, distant children, wind through leav
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2091175465037746522) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2091175465037746522&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2091175465037746522) · [↑ Top](#top)
 
 ---
 
 <a id="p-2090631530175680751"></a>
 ### Beach House Sofa Scene With Friends
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2090631464488755200/img/uNKJjnOZk6vijs4m.jpg?format=webp&name=small" height="300" alt="Beach House Sofa Scene With Friends — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2090631530175680751&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2090631464488755200/img/uNKJjnOZk6vijs4m.jpg?format=webp&name=small" height="300" alt="Beach House Sofa Scene With Friends — Seedance 2.5"></a>
 
 A young woman in a white crop top sits on a sofa in a modern beach house while friends laugh behind her, with one paragraph covering outfit, light and mood.
 
@@ -3388,14 +3388,14 @@ Bright natural sunlight, warm coastal color palette, realistic water physics, ca
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2090631530175680751) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2090631530175680751&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2090631530175680751) · [↑ Top](#top)
 
 ---
 
 <a id="p-2090412232815636902"></a>
 ### Pensive Woman at a Parisian House Party
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2090412137911083008/img/auFJ78nwJ6LGx7sj.jpg?format=webp&name=small" height="300" alt="Pensive Woman at a Parisian House Party — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2090412232815636902&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2090412137911083008/img/auFJ78nwJ6LGx7sj.jpg?format=webp&name=small" height="300" alt="Pensive Woman at a Parisian House Party — Seedance 2.5"></a>
 
 A young woman sits thoughtfully on a sofa while friends dance around her in a bright suburban house, described in one flowing paragraph of subject, setting and crowd motion.
 
@@ -3424,14 +3424,14 @@ Bright natural summer daylight, warm sunlit color palette, candid documentary en
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2090412232815636902) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2090412232815636902&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2090412232815636902) · [↑ Top](#top)
 
 ---
 
 <a id="p-2089683226696577531"></a>
 ### Early-2000s Camcorder Day in a Cozy Seoul Apartment
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2089682886459019264/img/LlqkDg_Y0opDJgYr.jpg?format=webp&name=small" height="300" alt="Early-2000s Camcorder Day in a Cozy Seoul Apartment — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2089683226696577531&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2089682886459019264/img/LlqkDg_Y0opDJgYr.jpg?format=webp&name=small" height="300" alt="Early-2000s Camcorder Day in a Cozy Seoul Apartment — Seedance 2.5"></a>
 
 A 5-shot, 15-second clip in a 4:3 handheld home-video style, following a young woman in a cardigan with identity and outfit locked across shots.
 
@@ -3469,14 +3469,14 @@ CUT TO BLACK at 15 seconds. Keep the laughter spontaneous and natural, with cons
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/iamahmedfaraz66/status/2089683226696577531) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2089683226696577531&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/iamahmedfaraz66/status/2089683226696577531) · [↑ Top](#top)
 
 ---
 
 <a id="p-2089299068514148655"></a>
 ### Friends Walk Through a Night Out in Raw Phone Footage
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2089298453318832128/img/4Lhii1hbWHygYAJ3.jpg?format=webp&name=small" height="300" alt="Friends Walk Through a Night Out in Raw Phone Footage — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2089299068514148655&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2089298453318832128/img/4Lhii1hbWHygYAJ3.jpg?format=webp&name=small" height="300" alt="Friends Walk Through a Night Out in Raw Phone Footage — Seedance 2.5"></a>
 
 A vertical 30-second clip filmed like a friend's phone video, following a woman in a purple dress and three friends in party dresses at night.
 
@@ -3523,14 +3523,14 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/mightyking/status/2089299068514148655) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2089299068514148655&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/mightyking/status/2089299068514148655) · [↑ Top](#top)
 
 ---
 
 <a id="p-2089204108175741157"></a>
 ### Indonesian Neighborhood Morning Walk Vlog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2089204070997532672/img/UAx5Q6w1RA3C8pNG.jpg?format=webp&name=small" height="300" alt="Indonesian Neighborhood Morning Walk Vlog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2089204108175741157&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2089204070997532672/img/UAx5Q6w1RA3C8pNG.jpg?format=webp&name=small" height="300" alt="Indonesian Neighborhood Morning Walk Vlog — Seedance 2.5"></a>
 
 A short vlog of a young woman in a mustard shirt and wrap skirt, with a long scene description of a narrow residential lane in late morning.
 
@@ -3571,7 +3571,7 @@ Goal: Authentic Indonesian neighborhood life captured like a forgotten home vide
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/RishuaVR/status/2089204108175741157) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2089204108175741157&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/RishuaVR/status/2089204108175741157) · [↑ Top](#top)
 
 ---
 
@@ -3711,7 +3711,7 @@ Reference image locked for character identity.
 <a id="p-2088661091253682616"></a>
 ### Pizza-Making Sequence With Crunch Close-Ups
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088661035859529730/img/k_3IqlVLoQ0kKHcn.jpg?format=webp&name=small" height="300" alt="Pizza-Making Sequence With Crunch Close-Ups — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088661091253682616&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088661035859529730/img/k_3IqlVLoQ0kKHcn.jpg?format=webp&name=small" height="300" alt="Pizza-Making Sequence With Crunch Close-Ups — Seedance 2.5"></a>
 
 A 15-second cooking sequence with a girl in an apron kneading and baking, keeping her face from a reference image across every shot.
 
@@ -3746,14 +3746,14 @@ Audio: Natural diegetic sounds only — dough slapping, flour scattering, sauce 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2088661091253682616) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088661091253682616&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2088661091253682616) · [↑ Top](#top)
 
 ---
 
 <a id="p-2088605003112235033"></a>
 ### Tokyo Side-Street Food Vlog on a Smartphone
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088604954567335936/img/KNGtTcHTSoKt3AZ3.jpg?format=webp&name=small" height="300" alt="Tokyo Side-Street Food Vlog on a Smartphone — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088605003112235033&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088604954567335936/img/KNGtTcHTSoKt3AZ3.jpg?format=webp&name=small" height="300" alt="Tokyo Side-Street Food Vlog on a Smartphone — Seedance 2.5"></a>
 
 A 30-second food vlog that has to look like a real flagship phone recording, following a young woman through a narrow Tokyo street in the early evening.
 
@@ -3786,14 +3786,14 @@ Authentic Japanese environment, realistic human behavior, natural walking physic
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2088605003112235033) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088605003112235033&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2088605003112235033) · [↑ Top](#top)
 
 ---
 
 <a id="p-2085943905577734483"></a>
 ### Rushed Morning Routine in a Shot-by-Shot Sound Effect List
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085943870660247552/img/tuHyuiPWJOdCqBUe.jpg?format=webp&name=small" height="300" alt="Rushed Morning Routine in a Shot-by-Shot Sound Effect List — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2085943905577734483&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085943870660247552/img/tuHyuiPWJOdCqBUe.jpg?format=webp&name=small" height="300" alt="Rushed Morning Routine in a Shot-by-Shot Sound Effect List — Seedance 2.5"></a>
 
 A woman wakes to an alarm and hurries through her morning, written as a numbered list of shots each with lens, camera move and sound effects.
 
@@ -3840,14 +3840,14 @@ SHOT 15: WS, 24mm pull-out / Match cut back to the bedroom composition from the 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2085943905577734483) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2085943905577734483&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2085943905577734483) · [↑ Top](#top)
 
 ---
 
 <a id="p-2085422370362110168"></a>
 ### Morning Dog Walk Vlog in Handheld Camcorder Style
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085417535650820096/img/aZuUimW67xW4-upN.jpg?format=webp&name=small" height="300" alt="Morning Dog Walk Vlog in Handheld Camcorder Style — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2085422370362110168&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085417535650820096/img/aZuUimW67xW4-upN.jpg?format=webp&name=small" height="300" alt="Morning Dog Walk Vlog in Handheld Camcorder Style — Seedance 2.5"></a>
 
 A woman films a daily vlog at arm's length while leaving her building with her dog, then sets the camera on park surfaces for wider shots.
 
@@ -3906,7 +3906,7 @@ She gives a small wave and ends the recording.
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/maxxmalist/status/2085422370362110168) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2085422370362110168&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/maxxmalist/status/2085422370362110168) · [↑ Top](#top)
 
 ---
 
@@ -3959,7 +3959,7 @@ Natural ambience only: birds, palm leaves rustling, village conversations, cocon
 <a id="p-2084614599928852918"></a>
 ### Retro Camcorder Self-Filmed Vlog With Handheld Shake
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084614558040408064/img/ASDC6Te9rypkanxV.jpg?format=webp&name=small" height="300" alt="Retro Camcorder Self-Filmed Vlog With Handheld Shake — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2084614599928852918&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084614558040408064/img/ASDC6Te9rypkanxV.jpg?format=webp&name=small" height="300" alt="Retro Camcorder Self-Filmed Vlog With Handheld Shake — Seedance 2.0"></a>
 
 A young woman records herself on a grainy 16mm-style camcorder, and the prompt is split into labeled camera and look blocks that describe the shake, autofocus drift and tape texture.
 
@@ -4024,7 +4024,7 @@ Voiceover: "...I remember they're all here for me."
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2084614599928852918) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2084614599928852918&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2084614599928852918) · [↑ Top](#top)
 
 ---
 
@@ -4064,7 +4064,7 @@ A realistic handheld travel vlog filmed by a friend following the main character
 <a id="p-2081716168180809949"></a>
 ### Multi-Location Day Out Vlog on a Camcorder
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2081716122769043456/img/4q8nCPk0x_Sg4XsN.jpg?format=webp&name=small" height="300" alt="Multi-Location Day Out Vlog on a Camcorder — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2081716168180809949&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2081716122769043456/img/4q8nCPk0x_Sg4XsN.jpg?format=webp&name=small" height="300" alt="Multi-Location Day Out Vlog on a Camcorder — Seedance 2.0"></a>
 
 A handheld camcorder-style vlog moving through several locations, with a camera block covering shake, focus pulls and imperfect framing.
 
@@ -4116,14 +4116,14 @@ Dorm room (morning) → van interior (daytime) → practice room (afternoon) →
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2081716168180809949) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2081716168180809949&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2081716168180809949) · [↑ Top](#top)
 
 ---
 
 <a id="p-2081195428922708039"></a>
 ### Bicycle Path Walk by the Han River in Spring
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2081195352338964480/img/FbUOcVHHSMLzqxxd.jpg?format=webp&name=small" height="300" alt="Bicycle Path Walk by the Han River in Spring — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2081195428922708039&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2081195352338964480/img/FbUOcVHHSMLzqxxd.jpg?format=webp&name=small" height="300" alt="Bicycle Path Walk by the Han River in Spring — Seedance 2.0"></a>
 
 A documentary-realism clip of a young woman by a river path with cherry trees, shot in an early-2000s MiniDV look with a detailed identity block.
 
@@ -4169,14 +4169,14 @@ Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bic
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ZephyraLeigh/status/2081195428922708039) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2081195428922708039&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ZephyraLeigh/status/2081195428922708039) · [↑ Top](#top)
 
 ---
 
 <a id="p-2080644588507959448"></a>
 ### Badminton Vlog Filmed Like a Home Video
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2080644535827279872/img/4QA_YPTulkEuYIYW.jpg?format=webp&name=small" height="300" alt="Badminton Vlog Filmed Like a Home Video — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2080644588507959448&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2080644535827279872/img/4QA_YPTulkEuYIYW.jpg?format=webp&name=small" height="300" alt="Badminton Vlog Filmed Like a Home Video — Seedance 2.0"></a>
 
 A photorealistic badminton clip in an early-2000s camcorder look, following a young woman with handheld shake and soft autofocus.
 
@@ -4195,14 +4195,14 @@ A photorealistic badminton vlog filmed like a real home video with a DV 16mm han
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2080644588507959448) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2080644588507959448&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2080644588507959448) · [↑ Top](#top)
 
 ---
 
 <a id="p-2080634720824807476"></a>
 ### Hair Salon Beauty Vlog on a Retro Camcorder
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2080634692878123009/img/IN0Hwj3wCiTv-sNG.jpg?format=webp&name=small" height="300" alt="Hair Salon Beauty Vlog on a Retro Camcorder — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2080634720824807476&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2080634692878123009/img/IN0Hwj3wCiTv-sNG.jpg?format=webp&name=small" height="300" alt="Hair Salon Beauty Vlog on a Retro Camcorder — Seedance 2.0"></a>
 
 A relaxed vanity-mirror vlog in an old camcorder look with a numbered storyboard of lines, inserts and stylist hands entering the frame.
 
@@ -4239,14 +4239,14 @@ STORYBOARD:
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2080634720824807476) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2080634720824807476&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2080634720824807476) · [↑ Top](#top)
 
 ---
 
 <a id="p-2079204021072716193"></a>
 ### Road Trip Pit Stop Phone Montage
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2079203463431585792/img/_-0sMGXpxNxXC4ay.jpg?format=webp&name=small" height="300" alt="Road Trip Pit Stop Phone Montage — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2079204021072716193&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2079203463431585792/img/_-0sMGXpxNxXC4ay.jpg?format=webp&name=small" height="300" alt="Road Trip Pit Stop Phone Montage — Seedance 2.0"></a>
 
 Casual smartphone-style footage of a roadside stop with natural handheld shake and a rapid montage of jump cuts every one to two seconds.
 
@@ -4275,7 +4275,7 @@ Natural smartphone video quality, slight handheld shake, smooth motion, authenti
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Strength04_X/status/2079204021072716193) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2079204021072716193&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2079204021072716193) · [↑ Top](#top)
 
 ---
 
@@ -4358,7 +4358,7 @@ IMPORTANT GENERATION REQUIREMENTS:
 <a id="p-2075934550048256199"></a>
 ### Night Beach Couple Filmed on a Camcorder
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2075934509565091840/pu/img/dql7-LGPFRMUxhFe.jpg?format=webp&name=small" height="300" alt="Night Beach Couple Filmed on a Camcorder — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2075934550048256199&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2075934509565091840/pu/img/dql7-LGPFRMUxhFe.jpg?format=webp&name=small" height="300" alt="Night Beach Couple Filmed on a Camcorder — Seedance 2.0"></a>
 
 A camcorder-style clip filmed from the man's point of view at a beach at night, with deliberate handheld flaws and two character images as inputs.
 
@@ -4419,14 +4419,14 @@ Audio recorded with an old camcorder, including noticeable tape hiss and recordi
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2075934550048256199) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2075934550048256199&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2075934550048256199) · [↑ Top](#top)
 
 ---
 
 <a id="p-2048593804547215837"></a>
 ### Young Woman's Day in a 1980s Look
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2048593741372624896/pu/img/1BLhJjKSgJsTiLVs.jpg?format=webp&name=small" height="300" alt="Young Woman's Day in a 1980s Look — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2048593804547215837&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2048593741372624896/pu/img/1BLhJjKSgJsTiLVs.jpg?format=webp&name=small" height="300" alt="Young Woman's Day in a 1980s Look — Seedance 2.0"></a>
 
 A 15-second nostalgic video following a young woman through her day, with period outfits, film grain, pastel tones and subtle neon lighting.
 
@@ -4457,6 +4457,6 @@ Create a high-quality 4K cinematic storyboard in a soft 1980s aesthetic, showing
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ZaraIrahh/status/2048593804547215837) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2048593804547215837&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ZaraIrahh/status/2048593804547215837) · [↑ Top](#top)
 
 ---

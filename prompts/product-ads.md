@@ -6,7 +6,7 @@
 <a id="p-2108101531426083045"></a>
 ### Fast Makeup Transformation Reveal
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108101454208933888/img/q2IToNhJb9AexeRu.jpg?format=webp&name=small" height="300" alt="Fast Makeup Transformation Reveal — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108101531426083045&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108101454208933888/img/q2IToNhJb9AexeRu.jpg?format=webp&name=small" height="300" alt="Fast Makeup Transformation Reveal — Seedance 2.5"></a>
 
 A 10-second beauty-commercial makeup transformation from bare face to glam, with timecoded beats and whip-pan transitions.
 
@@ -33,14 +33,14 @@ Creare 10-second ultra-realistic Douyin-style makeup transformation of the same 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MissDelulu9/status/2108101531426083045) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108101531426083045&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MissDelulu9/status/2108101531426083045) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107081013583089797"></a>
 ### Wireless Headphone Commercial for a Fictional Brand
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107080928808046592/img/AMzRkYdMVC2HMg6S.jpg?format=webp&name=small" height="300" alt="Wireless Headphone Commercial for a Fictional Brand — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107081013583089797&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107080928808046592/img/AMzRkYdMVC2HMg6S.jpg?format=webp&name=small" height="300" alt="Wireless Headphone Commercial for a Fictional Brand — Seedance 2.5"></a>
 
 An ultra-realistic cinematic ad featuring a stylish young woman in pastel blue with white shorts, written for an invented headphone brand.
 
@@ -71,14 +71,14 @@ Negative: No headphone morphing, identity drift, outfit changes, distorted anato
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2107081013583089797) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107081013583089797&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2107081013583089797) · [↑ Top](#top)
 
 ---
 
 <a id="p-2105297994736394705"></a>
 ### Chinese Chef Cooks Spicy-and-Sour Fish
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105297934476849152/img/4GpwaJ3TbjOxJ9VU.jpg?format=webp&name=small" height="300" alt="Chinese Chef Cooks Spicy-and-Sour Fish — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2105297994736394705&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105297934476849152/img/4GpwaJ3TbjOxJ9VU.jpg?format=webp&name=small" height="300" alt="Chinese Chef Cooks Spicy-and-Sour Fish — Seedance 2.5"></a>
 
 A 30-second cooking video in a professional kitchen with fast, precise movements and realistic fire, steam and oil physics.
 
@@ -123,14 +123,14 @@ Ultra-realistic food cinematography, photorealistic chef, authentic Chinese cook
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Naiknelofar788/status/2105297994736394705) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2105297994736394705&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Naiknelofar788/status/2105297994736394705) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104895614412837085"></a>
 ### Young Woman Showcases a Compact Camera in the City
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104895537292189697/img/e4y80qmlwp_eJEV0.jpg?format=webp&name=small" height="300" alt="Young Woman Showcases a Compact Camera in the City — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104895614412837085&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104895537292189697/img/e4y80qmlwp_eJEV0.jpg?format=webp&name=small" height="300" alt="Young Woman Showcases a Compact Camera in the City — Seedance 2.5"></a>
 
 A UGC style clip of a woman talking about a camera's design and image quality while shooting everyday moments around the city.
 
@@ -150,14 +150,14 @@ Style: authentic creator content, handheld smartphone feel, natural lighting, re
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2104895614412837085) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104895614412837085&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2104895614412837085) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104507598695489678"></a>
 ### Premium Running Shoe Advertisement Setup
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104507344088662016/img/y9LNGMXa3KnI2_OM.jpg?format=webp&name=small" height="300" alt="Premium Running Shoe Advertisement Setup — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104507598695489678&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104507344088662016/img/y9LNGMXa3KnI2_OM.jpg?format=webp&name=small" height="300" alt="Premium Running Shoe Advertisement Setup — Seedance 2.5"></a>
 
 A product-ad prompt that builds a reference image of a white-mesh running shoe with a black midsole for a high-end sports campaign.
 
@@ -190,14 +190,14 @@ No people, no feet, no additional shoes, no text, no logo, no watermark, no extr
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Strength04_X/status/2104507598695489678) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104507598695489678&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2104507598695489678) · [↑ Top](#top)
 
 ---
 
 <a id="p-2103689025676828948"></a>
 ### Casual UGC Video Showing a New Everyday Bag
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2103688930457743361/img/fG2--fvwMnXToN5V.jpg?format=webp&name=small" height="300" alt="Casual UGC Video Showing a New Everyday Bag — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2103689025676828948&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2103688930457743361/img/fG2--fvwMnXToN5V.jpg?format=webp&name=small" height="300" alt="Casual UGC Video Showing a New Everyday Bag — Seedance 2.5"></a>
 
 A 30-second creator-style social video of a young woman showing and using a new bag, deliberately written to feel authentic rather than like a polished ad.
 
@@ -246,14 +246,14 @@ Maintain the exact same bag design, color, logo, materials and proportions throu
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2103689025676828948) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2103689025676828948&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2103689025676828948) · [↑ Top](#top)
 
 ---
 
 <a id="p-2102952087823044888"></a>
 ### Unboxing and Applying a Pink Lip Gloss
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2102952041752715264/img/Y_s6Ma6KLmmT8sp6.jpg?format=webp&name=small" height="300" alt="Unboxing and Applying a Pink Lip Gloss — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2102952087823044888&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2102952041752715264/img/Y_s6Ma6KLmmT8sp6.jpg?format=webp&name=small" height="300" alt="Unboxing and Applying a Pink Lip Gloss — Seedance 2.0"></a>
 
 A realistic 10-second vertical beauty clip that follows hands opening a small box, lifting out a pink lip gloss and revealing its silver cap and applicator.
 
@@ -272,7 +272,7 @@ Create a realistic 10-second vertical beauty product video showing hands opening
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Aiwithmaha/status/2102952087823044888) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2102952087823044888&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Aiwithmaha/status/2102952087823044888) · [↑ Top](#top)
 
 ---
 
@@ -590,7 +590,7 @@ A 30-second commercial is one over-the-shoulder tracking shot with transitions h
 <a id="p-2097545178013950280"></a>
 ### Retro Pink Bedroom Morning Fashion Commercial
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097545078915129344/img/wt5xjifGTW9sdyBu.jpg?format=webp&name=small" height="300" alt="Retro Pink Bedroom Morning Fashion Commercial — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2097545178013950280&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097545078915129344/img/wt5xjifGTW9sdyBu.jpg?format=webp&name=small" height="300" alt="Retro Pink Bedroom Morning Fashion Commercial — Seedance 2.5"></a>
 
 A cozy 90s-style pink bedroom leads into a glamorous fashion transformation; the prompt is written as numbered scenes with a fixed pastel color palette.
 
@@ -625,14 +625,14 @@ Visual style: ultra-realistic cinematic photography, pastel pink tones, warm nat
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/noorlewisx/status/2097545178013950280) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2097545178013950280&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/noorlewisx/status/2097545178013950280) · [↑ Top](#top)
 
 ---
 
 <a id="p-2096930655615758734"></a>
 ### Bedroom UGC Review of a New Camera
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096930601689567232/img/UisHINkD3YDTiWka.jpg?format=webp&name=small" height="300" alt="Bedroom UGC Review of a New Camera — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2096930655615758734&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096930601689567232/img/UisHINkD3YDTiWka.jpg?format=webp&name=small" height="300" alt="Bedroom UGC Review of a New Camera — Seedance 2.5"></a>
 
 A young woman talks to camera in her bedroom about a camera she just bought; the prompt separates main subject, setting and handheld UGC style into labeled sections.
 
@@ -682,7 +682,7 @@ No commercial acting, no perfect studio lighting, no staged influencer poses, no
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2096930655615758734) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2096930655615758734&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2096930655615758734) · [↑ Top](#top)
 
 ---
 
@@ -801,7 +801,7 @@ Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic trans
 <a id="p-2092783528887083290"></a>
 ### Obsidian Scorpion Transforms Into an Elegant Woman
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2092783461610209280/img/ccdqQbgi9n08TAMS.jpg?format=webp&name=small" height="300" alt="Obsidian Scorpion Transforms Into an Elegant Woman — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2092783528887083290&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2092783461610209280/img/ccdqQbgi9n08TAMS.jpg?format=webp&name=small" height="300" alt="Obsidian Scorpion Transforms Into an Elegant Woman — Seedance 2.0"></a>
 
 A vertical close-up where a bare foot steps on a ruby-and-gold scorpion statue, which morphs into a stylish figure, described shot by shot.
 
@@ -820,14 +820,14 @@ A close-up vertical shot in 4K resolution depicting a magical transformation. A 
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/juliaevee/status/2092783528887083290) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2092783528887083290&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/juliaevee/status/2092783528887083290) · [↑ Top](#top)
 
 ---
 
 <a id="p-2089323117709865174"></a>
 ### Chocolate Commercial With Glossy Macro Details
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2089323002710372352/img/GRu6xKdefZL3XPAZ.jpg?format=webp&name=small" height="300" alt="Chocolate Commercial With Glossy Macro Details — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2089323117709865174&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2089323002710372352/img/GRu6xKdefZL3XPAZ.jpg?format=webp&name=small" height="300" alt="Chocolate Commercial With Glossy Macro Details — Seedance 2.5"></a>
 
 A 15-second live-action style ad that keeps a woman's look from a reference image and highlights rich chocolate physics in macro shots.
 
@@ -878,14 +878,14 @@ Negative Prompt: No subtitles, no captions, no watermarks, no duplicate characte
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2089323117709865174) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2089323117709865174&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2089323117709865174) · [↑ Top](#top)
 
 ---
 
 <a id="p-2089319827639091542"></a>
 ### Playful Skincare Jar UGC Video With Spoken Lines
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2089319783087108096/img/uRTxQQ7DxZoP06n1.jpg?format=webp&name=small" height="300" alt="Playful Skincare Jar UGC Video With Spoken Lines — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2089319827639091542&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2089319783087108096/img/uRTxQQ7DxZoP06n1.jpg?format=webp&name=small" height="300" alt="Playful Skincare Jar UGC Video With Spoken Lines — Seedance 2.5"></a>
 
 A 15-second creator-style skincare clip following an uploaded storyboard, with the speaker's lines in quotes and macro shots of the pink cream.
 
@@ -912,14 +912,14 @@ Use authentic handheld smartphone movement, natural facial expressions, quick ju
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2089319827639091542) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2089319827639091542&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2089319827639091542) · [↑ Top](#top)
 
 ---
 
 <a id="p-2086286356201066501"></a>
 ### UGC Sunglasses Showcase With Locked Product References
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2086286294611865600/img/ahXKrH4Jx_Olt_xU.jpg?format=webp&name=small" height="300" alt="UGC Sunglasses Showcase With Locked Product References — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2086286356201066501&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2086286294611865600/img/ahXKrH4Jx_Olt_xU.jpg?format=webp&name=small" height="300" alt="UGC Sunglasses Showcase With Locked Product References — Seedance 2.5"></a>
 
 A creator-style clip that keeps one woman's look from a reference image and locks the sunglasses, box and carrying case as product references.
 
@@ -952,14 +952,14 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2086286356201066501) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2086286356201066501&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2086286356201066501) · [↑ Top](#top)
 
 ---
 
 <a id="p-2083049970597577156"></a>
 ### Iced Coffee Moment With a Consistent Character
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2083049932706217984/img/yrzdXQlTTuJD_lU0.jpg?format=webp&name=small" height="300" alt="Iced Coffee Moment With a Consistent Character — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2083049970597577156&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2083049932706217984/img/yrzdXQlTTuJD_lU0.jpg?format=webp&name=small" height="300" alt="Iced Coffee Moment With a Consistent Character — Seedance 2.5"></a>
 
 A multi-shot lifestyle clip with the same iced coffee bottle and the same woman, relying on an uploaded reference image for her appearance.
 
@@ -1004,14 +1004,14 @@ Negative Prompt: No text, no subtitles, no logos beyond the product packaging, n
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2083049970597577156) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2083049970597577156&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2083049970597577156) · [↑ Top](#top)
 
 ---
 
 <a id="p-2081371164728041980"></a>
 ### Fixed-Camera Room Renovation Timelapse
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2081371136861073408/img/odGPx4kpxS6S49GU.jpg?format=webp&name=small" height="300" alt="Fixed-Camera Room Renovation Timelapse — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2081371164728041980&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2081371136861073408/img/odGPx4kpxS6S49GU.jpg?format=webp&name=small" height="300" alt="Fixed-Camera Room Renovation Timelapse — Seedance 2.0"></a>
 
 A 15-second renovation animation where the camera never moves, so only the room's surfaces and furnishings transform between stages.
 
@@ -1053,7 +1053,7 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Naiknelofar788/status/2081371164728041980) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2081371164728041980&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Naiknelofar788/status/2081371164728041980) · [↑ Top](#top)
 
 ---
 
@@ -1115,7 +1115,7 @@ The video should have realistic smartphone camera quality, natural handheld move
 <a id="p-2077197938753953971"></a>
 ### Skincare Product Review in Eight Quick Scenes
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/media/HNOwK5xacAAlZgm.jpg?format=webp&name=small" height="300" alt="Skincare Product Review in Eight Quick Scenes — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2077197938753953971&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/media/HNOwK5xacAAlZgm.jpg?format=webp&name=small" height="300" alt="Skincare Product Review in Eight Quick Scenes — Seedance 2.0"></a>
 
 A 9:16 beauty review storyboard of eight 1-second scenes covering packaging, texture, application, before and after, and a nozzle close-up.
 
@@ -1136,14 +1136,14 @@ Create a professional 9:16 vertical beauty product review storyboard for a 10-se
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/HaniaAi12/status/2077197938753953971) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2077197938753953971&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/HaniaAi12/status/2077197938753953971) · [↑ Top](#top)
 
 ---
 
 <a id="p-2076891330622689602"></a>
 ### Premium Product Ad Storyboard in a 12-Panel Grid
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/media/HNKZVjYbkAAx42h.jpg?format=webp&name=small" height="300" alt="Premium Product Ad Storyboard in a 12-Panel Grid — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2076891330622689602&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/media/HNKZVjYbkAAx42h.jpg?format=webp&name=small" height="300" alt="Premium Product Ad Storyboard in a 12-Panel Grid — Seedance 2.0"></a>
 
 A request for an A3 landscape commercial storyboard with twelve panels in a four-by-three grid, photorealistic product style and navy accents.
 
@@ -1232,14 +1232,14 @@ Generate an agency-quality, print-ready storyboard with sharp, realistic details
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Ciri_ai/status/2076891330622689602) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2076891330622689602&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Ciri_ai/status/2076891330622689602) · [↑ Top](#top)
 
 ---
 
 <a id="p-2076552852194123851"></a>
 ### Luxury Perfume Unboxing Commercial Storyboard
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2076552451113840640/img/2wl2R-9CNuBB9nZ5.jpg?format=webp&name=small" height="300" alt="Luxury Perfume Unboxing Commercial Storyboard — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2076552852194123851&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2076552451113840640/img/2wl2R-9CNuBB9nZ5.jpg?format=webp&name=small" height="300" alt="Luxury Perfume Unboxing Commercial Storyboard — Seedance 2.0"></a>
 
 A 12-panel agency-style storyboard prompt for a 30-second unboxing ad of a premium perfume, laid out on a white presentation board.
 
@@ -1324,7 +1324,7 @@ How to Refill (3 simple icon steps)
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Ciri_ai/status/2076552852194123851) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2076552852194123851&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Ciri_ai/status/2076552852194123851) · [↑ Top](#top)
 
 ---
 
@@ -1375,7 +1375,7 @@ Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mell
 <a id="p-2074441553469116470"></a>
 ### Fast-Cut Chef Cooking Commercial
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074441442655678464/pu/img/9_UvYp-DGgzflhsk.jpg?format=webp&name=small" height="300" alt="Fast-Cut Chef Cooking Commercial — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2074441553469116470&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074441442655678464/pu/img/9_UvYp-DGgzflhsk.jpg?format=webp&name=small" height="300" alt="Fast-Cut Chef Cooking Commercial — Seedance 2.0"></a>
 
 A 15-second commercial of ten rapid scenes with whip-pan and speed-ramp transitions, taking fresh ingredients to a plated dish.
 
@@ -1394,14 +1394,14 @@ THE FLAME CHEF - 15 second high-energy cinematic cooking film, 10 rapid scenes, 
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Xaroon_x/status/2074441553469116470) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2074441553469116470&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Xaroon_x/status/2074441553469116470) · [↑ Top](#top)
 
 ---
 
 <a id="p-2067464091476853121"></a>
 ### Woman Dances on an SUV Roof in the Snowy Mountains
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2067464014582501376/pu/img/lRLiRK4jcetbUmdi.jpg?format=webp&name=small" height="300" alt="Woman Dances on an SUV Roof in the Snowy Mountains — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2067464091476853121&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2067464014582501376/pu/img/lRLiRK4jcetbUmdi.jpg?format=webp&name=small" height="300" alt="Woman Dances on an SUV Roof in the Snowy Mountains — Seedance 2.0"></a>
 
 A wide shot of a young woman in grey casual wear performing fluid rhythmic dance moves on top of a dark SUV in a snowy mountain range.
 
@@ -1432,14 +1432,14 @@ Cinematography: Wide-angle, cinematic lifestyle photography, cool color grading,
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/itxabdullaa/status/2067464091476853121) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2067464091476853121&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/itxabdullaa/status/2067464091476853121) · [↑ Top](#top)
 
 ---
 
 <a id="p-2053876767178506301"></a>
 ### Luxury Spa Retreat Storyboard Pitch
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053876404891303938/pu/img/VkFTe36AvzKGojmq.jpg?format=webp&name=small" height="300" alt="Luxury Spa Retreat Storyboard Pitch — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2053876767178506301&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053876404891303938/pu/img/VkFTe36AvzKGojmq.jpg?format=webp&name=small" height="300" alt="Luxury Spa Retreat Storyboard Pitch — Seedance 2.0"></a>
 
 A two-step prompt that first builds a 12-frame luxury spa storyboard grid and then turns it into a video following arrival, release and renewal.
 
@@ -1465,14 +1465,14 @@ Step 2: Take each frame into Seedance 2.0. Set to 1080p to preserve text clarity
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Strength04_X/status/2053876767178506301) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2053876767178506301&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2053876767178506301) · [↑ Top](#top)
 
 ---
 
 <a id="p-2051236367079006422"></a>
 ### High-Fashion Outfit Transformation Storyboard
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2051236302947819520/pu/img/0oHyeEWYAzNGJ2Yz.jpg?format=webp&name=small" height="300" alt="High-Fashion Outfit Transformation Storyboard — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2051236367079006422&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2051236302947819520/pu/img/0oHyeEWYAzNGJ2Yz.jpg?format=webp&name=small" height="300" alt="High-Fashion Outfit Transformation Storyboard — Seedance 2.0"></a>
 
 A cinematic fashion storyboard prompt with a control panel for product, character and tone, built around a confident outfit transformation.
 
@@ -1520,14 +1520,14 @@ editorial fashion layout
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ZaraIrahh/status/2051236367079006422) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2051236367079006422&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ZaraIrahh/status/2051236367079006422) · [↑ Top](#top)
 
 ---
 
 <a id="p-2050843651379744922"></a>
 ### House Construction From Empty Land to Finished Home
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2050843509037690880/img/jpyPGIG6Uv4wPtN-.jpg?format=webp&name=small" height="300" alt="House Construction From Empty Land to Finished Home — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2050843651379744922&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2050843509037690880/img/jpyPGIG6Uv4wPtN-.jpg?format=webp&name=small" height="300" alt="House Construction From Empty Land to Finished Home — Seedance 2.0"></a>
 
 A 16-frame, 4 by 4 storyboard grid listing each construction stage from bare land and foundation to brick walls, finishes and the completed house.
 
@@ -1588,14 +1588,14 @@ Clear, educational, visually satisfying construction storyboard
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Diplomeme/status/2050843651379744922) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2050843651379744922&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Diplomeme/status/2050843651379744922) · [↑ Top](#top)
 
 ---
 
 <a id="p-2047882444557242512"></a>
 ### Livestream Seller Presents a Vitamin C Serum
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2047882352266014720/pu/img/FgkYqF8bbvI-BAEh.jpg?format=webp&name=small" height="300" alt="Livestream Seller Presents a Vitamin C Serum — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2047882444557242512&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2047882352266014720/pu/img/FgkYqF8bbvI-BAEh.jpg?format=webp&name=small" height="300" alt="Livestream Seller Presents a Vitamin C Serum — Seedance 2.0"></a>
 
 A cheerful influencer pitches a serum bottle to camera in a livestream style, with a specified spoken accent and tone for the sales pitch.
 
@@ -1623,6 +1623,6 @@ Speaking speed: natural, slightly fast (livestream style)
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ZaraIrahh/status/2047882444557242512) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2047882444557242512&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ZaraIrahh/status/2047882444557242512) · [↑ Top](#top)
 
 ---

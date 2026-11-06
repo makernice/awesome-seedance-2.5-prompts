@@ -6,7 +6,7 @@
 <a id="p-2117442957347606909"></a>
 ### Toddler Girls Build a Block Tower
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2117442916302110720/img/Mzp1hemDnBFXC6FJ.jpg?format=webp&name=small" height="300" alt="Toddler Girls Build a Block Tower — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2117442957347606909&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2117442916302110720/img/Mzp1hemDnBFXC6FJ.jpg?format=webp&name=small" height="300" alt="Toddler Girls Build a Block Tower — Seedance 2.5"></a>
 
 A 16-second 3D animated family comedy of two toddlers playing with a stacking block tower on a living-room rug.
 
@@ -39,14 +39,14 @@ Format: Vertical 9:16, 4K quality, smooth 24 FPS animation.
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2117442957347606909) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2117442957347606909&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2117442957347606909) · [↑ Top](#top)
 
 ---
 
 <a id="p-2114684135327633478"></a>
 ### Crying Toddlers and Their Parents Comedy
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2114684098757402625/img/4trWiV1Q5ArxC6AD.jpg?format=webp&name=small" height="300" alt="Crying Toddlers and Their Parents Comedy — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2114684135327633478&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2114684098757402625/img/4trWiV1Q5ArxC6AD.jpg?format=webp&name=small" height="300" alt="Crying Toddlers and Their Parents Comedy — Seedance 2.5"></a>
 
 A 20-second 3D animated family comedy with timecoded scenes, opening on an extreme close-up of an angry little girl.
 
@@ -83,14 +83,14 @@ Audio: Natural toddler crying, subtle indoor ambience, soft footsteps, and light
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2114684135327633478) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2114684135327633478&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2114684135327633478) · [↑ Top](#top)
 
 ---
 
 <a id="p-2114235357961306286"></a>
 ### Boy and Fox Creature Mountain Adventure
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2114235307159846912/img/VNYFigNwgClG9Ymq.jpg?format=webp&name=small" height="300" alt="Boy and Fox Creature Mountain Adventure — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2114235357961306286&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2114235307159846912/img/VNYFigNwgClG9Ymq.jpg?format=webp&name=small" height="300" alt="Boy and Fox Creature Mountain Adventure — Seedance 2.5"></a>
 
 A 30-second 3D animated fantasy where a boy befriends a small fox-like creature in a golden mountain meadow, written as a chain of camera moves.
 
@@ -109,14 +109,14 @@ Create a 30-second cinematic, ultra-detailed 3D animated fantasy adventure set i
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Elvorya/status/2114235357961306286) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2114235357961306286&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Elvorya/status/2114235357961306286) · [↑ Top](#top)
 
 ---
 
 <a id="p-2113820262743646446"></a>
 ### Grumpy Toddler Doctor Comedy
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2113820228509687808/img/rYr90ESJH9_uReTX.jpg?format=webp&name=small" height="300" alt="Grumpy Toddler Doctor Comedy — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2113820262743646446&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2113820228509687808/img/rYr90ESJH9_uReTX.jpg?format=webp&name=small" height="300" alt="Grumpy Toddler Doctor Comedy — Seedance 2.5"></a>
 
 A 30-second 3D animated comedy of a toddler dressed as a doctor with a serious face, written scene by scene.
 
@@ -151,14 +151,14 @@ Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2113820262743646446) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2113820262743646446&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2113820262743646446) · [↑ Top](#top)
 
 ---
 
 <a id="p-2111280639295275309"></a>
 ### Baby Gets a Shot at the Pediatric Clinic
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2111280444012670976/img/q3HWyRzhLdqWSgjA.jpg?format=webp&name=small" height="300" alt="Baby Gets a Shot at the Pediatric Clinic — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2111280639295275309&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2111280444012670976/img/q3HWyRzhLdqWSgjA.jpg?format=webp&name=small" height="300" alt="Baby Gets a Shot at the Pediatric Clinic — Seedance 2.5"></a>
 
 A 10-second 3D animated comedy where a baby on her father's lap faces a masked nurse and a vaccine.
 
@@ -191,14 +191,14 @@ Important: Maintain consistent character appearances, natural body movements, ac
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2111280639295275309) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2111280639295275309&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2111280639295275309) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110921224788578390"></a>
 ### Baby Meets a Giant Lion in a Fantasy Village
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110921138880847872/img/wrHkbd3jo2fQbcQS.jpg?format=webp&name=small" height="300" alt="Baby Meets a Giant Lion in a Fantasy Village — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110921224788578390&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110921138880847872/img/wrHkbd3jo2fQbcQS.jpg?format=webp&name=small" height="300" alt="Baby Meets a Giant Lion in a Fantasy Village — Seedance 2.5"></a>
 
 A 15-second animated scene where a curious baby in a colorful village encounters a gentle giant lion.
 
@@ -217,14 +217,14 @@ A cute little baby walks through a colorful fantasy village surrounded by beauti
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2110921224788578390) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110921224788578390&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2110921224788578390) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110654938472952253"></a>
 ### Husky Meets Wild Animals in Snowy Mountains
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110654844193374208/img/CSqQfWz-A8X_1DIB.jpg?format=webp&name=small" height="300" alt="Husky Meets Wild Animals in Snowy Mountains — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110654938472952253&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110654844193374208/img/CSqQfWz-A8X_1DIB.jpg?format=webp&name=small" height="300" alt="Husky Meets Wild Animals in Snowy Mountains — Seedance 2.5"></a>
 
 An 81-second realistic snowy mountain sunset scene following a husky and the animals it meets.
 
@@ -278,14 +278,14 @@ Maintain consistent animal appearances throughout the entire video.
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/RizwanAly07/status/2110654938472952253) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110654938472952253&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/RizwanAly07/status/2110654938472952253) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110558398492348605"></a>
 ### Baby, Parents and Dog Kitchen Mess
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110558237301014528/img/Sv-TVutSOFEHybvk.jpg?format=webp&name=small" height="300" alt="Baby, Parents and Dog Kitchen Mess — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110558398492348605&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110558237301014528/img/Sv-TVutSOFEHybvk.jpg?format=webp&name=small" height="300" alt="Baby, Parents and Dog Kitchen Mess — Seedance 2.5"></a>
 
 A 60-second 3D animated family comedy about a baby making a mess while the family dog follows along.
 
@@ -304,14 +304,14 @@ Create an ultra-realistic, cinematic 3D animated family comedy featuring an ador
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2110558398492348605) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110558398492348605&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2110558398492348605) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110193320047898957"></a>
 ### Toddler Girl's School Day Adventure
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110193023753887744/img/mqS2Y9ZL2NgzSAhL.jpg?format=webp&name=small" height="300" alt="Toddler Girl's School Day Adventure — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110193320047898957&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110193023753887744/img/mqS2Y9ZL2NgzSAhL.jpg?format=webp&name=small" height="300" alt="Toddler Girl's School Day Adventure — Seedance 2.5"></a>
 
 A 30-second 3D animated short following a toddler girl with braids from a school morning through several scenes.
 
@@ -348,14 +348,14 @@ Important: Maintain the same character identity, clothing, hairstyle, backpack, 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2110193320047898957) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110193320047898957&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2110193320047898957) · [↑ Top](#top)
 
 ---
 
 <a id="p-2109964438225002843"></a>
 ### Baby Plays With Colored Balls
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2109964284637966336/img/eJ9XMBV5mEIF9m6c.jpg?format=webp&name=small" height="300" alt="Baby Plays With Colored Balls — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2109964438225002843&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2109964284637966336/img/eJ9XMBV5mEIF9m6c.jpg?format=webp&name=small" height="300" alt="Baby Plays With Colored Balls — Seedance 2.5"></a>
 
 An 18-second vertical 3D animated clip of a toddler playing with large shiny balls, organized scene by scene by color.
 
@@ -394,14 +394,14 @@ Output: 9:16 vertical video, 1080 × 1920 resolution, approximately 18–20 seco
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2109964438225002843) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2109964438225002843&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2109964438225002843) · [↑ Top](#top)
 
 ---
 
 <a id="p-2109460837043708104"></a>
 ### Elemental Realms Sword Duel
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2109460605870497794/img/kNg-4iZFatTMzHm8.jpg?format=webp&name=small" height="300" alt="Elemental Realms Sword Duel — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2109460837043708104&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2109460605870497794/img/kNg-4iZFatTMzHm8.jpg?format=webp&name=small" height="300" alt="Elemental Realms Sword Duel — Seedance 2.5"></a>
 
 A 3D animated wuxia epic where a robed warrior with a glowing energy sword fights across four elemental landscapes, from cherry blossoms onward.
 
@@ -420,14 +420,14 @@ Cinematic 3D animation, Wuxia martial arts epic style. A skilled warrior woman w
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/juliaevee/status/2109460837043708104) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2109460837043708104&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/juliaevee/status/2109460837043708104) · [↑ Top](#top)
 
 ---
 
 <a id="p-2109109590067675629"></a>
 ### Toddler Spills Flour in Mom's Kitchen
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2109109406088798208/img/X4QuksWPnBXcIQ2g.jpg?format=webp&name=small" height="300" alt="Toddler Spills Flour in Mom's Kitchen — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2109109590067675629&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2109109406088798208/img/X4QuksWPnBXcIQ2g.jpg?format=webp&name=small" height="300" alt="Toddler Spills Flour in Mom's Kitchen — Seedance 2.5"></a>
 
 A 15-second vertical 3D animated comedy where a toddler tears a flour bag while his mother bakes in a sunlit kitchen.
 
@@ -446,14 +446,14 @@ Create a 15-second vertical 3D animated cinematic comedy video. A young mother i
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2109109590067675629) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2109109590067675629&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2109109590067675629) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108832872433893567"></a>
 ### Toddler Learns Vehicle Words in the City
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108832810240819200/img/9oK3aVywM7DXU_AI.jpg?format=webp&name=small" height="300" alt="Toddler Learns Vehicle Words in the City — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108832872433893567&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108832810240819200/img/9oK3aVywM7DXU_AI.jpg?format=webp&name=small" height="300" alt="Toddler Learns Vehicle Words in the City — Seedance 2.5"></a>
 
 A 15-second 3D educational clip where a toddler meets a car, bus and airplane, with on-screen words and a timecoded structure.
 
@@ -478,14 +478,14 @@ Main character: Cute toddler boy wearing blue overalls.
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/abs_crea8or/status/2108832872433893567) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108832872433893567&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/abs_crea8or/status/2108832872433893567) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108504570603491475"></a>
 ### Fruit Paradise Along a Pink River
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108504410074890240/img/x-oucIymt2vB0dCE.jpg?format=webp&name=small" height="300" alt="Fruit Paradise Along a Pink River — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108504570603491475&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108504410074890240/img/x-oucIymt2vB0dCE.jpg?format=webp&name=small" height="300" alt="Fruit Paradise Along a Pink River — Seedance 2.5"></a>
 
 A 17-second 3D animated scene in a fantasy garden of giant strawberries, watermelons and grapes beside a pink river.
 
@@ -528,14 +528,14 @@ Audio: Gentle flowing water, soft splashes, cheerful baby giggles, cute animal s
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2108504570603491475) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108504570603491475&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2108504570603491475) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108381024417993043"></a>
 ### Baby Girl Preschool Lesson
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108380729046601728/img/CrYpzTENmy1rsHVy.jpg?format=webp&name=small" height="300" alt="Baby Girl Preschool Lesson — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108381024417993043&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108380729046601728/img/CrYpzTENmy1rsHVy.jpg?format=webp&name=small" height="300" alt="Baby Girl Preschool Lesson — Seedance 2.5"></a>
 
 A 20-second 3D animated educational clip of a toddler girl at a small table in a pastel preschool classroom.
 
@@ -594,14 +594,14 @@ No scary elements, no distorted faces, no extra fingers, and no character change
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2108381024417993043) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108381024417993043&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2108381024417993043) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107781626818383911"></a>
 ### Toddler and Dad Pajama Comedy
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107781199175589888/img/m13v_fLiJXQpcpcp.jpg?format=webp&name=small" height="300" alt="Toddler and Dad Pajama Comedy — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107781626818383911&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107781199175589888/img/m13v_fLiJXQpcpcp.jpg?format=webp&name=small" height="300" alt="Toddler and Dad Pajama Comedy — Seedance 2.5"></a>
 
 A 3D animated scene of a mischievous toddler in duck-pattern pajamas and his father, with each character described in a numbered list.
 
@@ -671,14 +671,14 @@ Ultra-detailed 3D animation, 9:16 vertical format, 4K quality, smooth motion, ci
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107781626818383911) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107781626818383911&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107781626818383911) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107426089652117759"></a>
 ### Fluffy Baby Birds for Each Weekday
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107425294051401728/img/ihxQv3UxbOOzbSi0.jpg?format=webp&name=small" height="300" alt="Fluffy Baby Birds for Each Weekday — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107426089652117759&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107425294051401728/img/ihxQv3UxbOOzbSi0.jpg?format=webp&name=small" height="300" alt="Fluffy Baby Birds for Each Weekday — Seedance 2.5"></a>
 
 A short 3D animated weekly set with one fluffy baby bird per day on a pastel backdrop, each with its day name in bubble letters.
 
@@ -697,14 +697,14 @@ Create a cute 3D animated weekly video featuring adorable fluffy baby birds, one
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107426089652117759) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107426089652117759&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107426089652117759) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107293811714191628"></a>
 ### Cartoon Meadow Animal Lesson for Kids
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107293577986670592/img/JOJvMJqy7oV-aPW9.jpg?format=webp&name=small" height="300" alt="Cartoon Meadow Animal Lesson for Kids — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107293811714191628&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107293577986670592/img/JOJvMJqy7oV-aPW9.jpg?format=webp&name=small" height="300" alt="Cartoon Meadow Animal Lesson for Kids — Seedance 2.5"></a>
 
 A 50-second vertical 3D cartoon educational video set in a bright storybook meadow, with the scene and style spelled out in labeled prompt sections.
 
@@ -778,14 +778,14 @@ Overall feeling: cheerful, wholesome, educational, playful, colorful preschool a
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107293811714191628) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107293811714191628&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107293811714191628) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107066879038857330"></a>
 ### Curly-Haired Toddler in Overalls Educational Video
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107066728752844800/img/uVydGUBeR-QTu18U.jpg?format=webp&name=small" height="300" alt="Curly-Haired Toddler in Overalls Educational Video — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107066879038857330&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107066728752844800/img/uVydGUBeR-QTu18U.jpg?format=webp&name=small" height="300" alt="Curly-Haired Toddler in Overalls Educational Video — Seedance 2.5"></a>
 
 A colorful 3D animated educational clip centered on a toddler boy in a cream shirt and blue overalls with expressive eyes.
 
@@ -842,14 +842,14 @@ Format: 9:16 vertical, high resolution, smooth animation, clean composition, no 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107066879038857330) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107066879038857330&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2107066879038857330) · [↑ Top](#top)
 
 ---
 
 <a id="p-2106974836887318797"></a>
 ### Pasta Mishap in an Animated Restaurant
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2106974747330531328/img/pP-paJlXKcwsnaWm.jpg?format=webp&name=small" height="300" alt="Pasta Mishap in an Animated Restaurant — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2106974836887318797&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2106974747330531328/img/pP-paJlXKcwsnaWm.jpg?format=webp&name=small" height="300" alt="Pasta Mishap in an Animated Restaurant — Seedance 2.5"></a>
 
 A 15-second 3D animated restaurant scene with expressive characters, comedic reactions and an opening wide establishing shot.
 
@@ -872,14 +872,14 @@ Style: polished cinematic 3D animation, expressive facial animation, charming fa
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Elvorya/status/2106974836887318797) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2106974836887318797&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Elvorya/status/2106974836887318797) · [↑ Top](#top)
 
 ---
 
 <a id="p-2106560621932384657"></a>
 ### Toddler and Dad at the Bathroom Mirror
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2106560393976131584/img/BwTkyODIfeCas_GB.jpg?format=webp&name=small" height="300" alt="Toddler and Dad at the Bathroom Mirror — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2106560621932384657&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2106560393976131584/img/BwTkyODIfeCas_GB.jpg?format=webp&name=small" height="300" alt="Toddler and Dad at the Bathroom Mirror — Seedance 2.5"></a>
 
 A funny 9:16 3D animated scene of a toddler on the bathroom floor with a soap dispenser while his father shaves in the mirror.
 
@@ -912,14 +912,14 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2106560621932384657) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2106560621932384657&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2106560621932384657) · [↑ Top](#top)
 
 ---
 
 <a id="p-2105256819623129130"></a>
 ### Furry Beaver Creature and Gorilla Friend in a Meadow
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105256467683332096/img/a9TOyfr5mH5etegm.jpg?format=webp&name=small" height="300" alt="Furry Beaver Creature and Gorilla Friend in a Meadow — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2105256819623129130&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105256467683332096/img/a9TOyfr5mH5etegm.jpg?format=webp&name=small" height="300" alt="Furry Beaver Creature and Gorilla Friend in a Meadow — Seedance 2.0"></a>
 
 A high-quality 3D animated short in a sunlit forest meadow with two anthropomorphic animal characters, described in detail.
 
@@ -974,14 +974,14 @@ Use cinematic establishing shots, extreme close-ups, medium shots, tracking shot
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2105256819623129130) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2105256819623129130&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2105256819623129130) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104881979485463035"></a>
 ### Tiny Witch Halloween Adventure in a Macro World
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104881741920120833/img/LyY3AkRKWg4rEC7c.jpg?format=webp&name=small" height="300" alt="Tiny Witch Halloween Adventure in a Macro World — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104881979485463035&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104881741920120833/img/LyY3AkRKWg4rEC7c.jpg?format=webp&name=small" height="300" alt="Tiny Witch Halloween Adventure in a Macro World — Seedance 2.5"></a>
 
 A 15-second stop-motion look miniature fantasy that places a handcrafted witch character inside a realistic macro environment.
 
@@ -1064,14 +1064,14 @@ No human-scale character, no face drift, no second witch, no extra people, no sc
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ImaStudio_ai/status/2104881979485463035) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104881979485463035&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ImaStudio_ai/status/2104881979485463035) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104764823091490851"></a>
 ### Toddler Nursery-Rhyme Style Kids Video
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104764586226565120/img/W8WBlhmxvceutAJg.jpg?format=webp&name=small" height="300" alt="Toddler Nursery-Rhyme Style Kids Video — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104764823091490851&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104764586226565120/img/W8WBlhmxvceutAJg.jpg?format=webp&name=small" height="300" alt="Toddler Nursery-Rhyme Style Kids Video — Seedance 2.5"></a>
 
 A vertical 3D animated educational clip with a chubby two-year-old boy in a blue T-shirt, bright colors and a nursery-rhyme tone.
 
@@ -1139,14 +1139,14 @@ Smooth toddler walking and reaching movements, natural hand interaction with eve
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104764823091490851) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104764823091490851&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104764823091490851) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104541346711343205"></a>
 ### Shy Toddler Behind a Sheer Curtain at Golden Hour
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104541226599079936/img/ulXnvUlYFR3Xs9J8.jpg?format=webp&name=small" height="300" alt="Shy Toddler Behind a Sheer Curtain at Golden Hour — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104541346711343205&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104541226599079936/img/ulXnvUlYFR3Xs9J8.jpg?format=webp&name=small" height="300" alt="Shy Toddler Behind a Sheer Curtain at Golden Hour — Seedance 2.5"></a>
 
 A warm 3D animated scene of a curly-haired toddler girl peeking playfully from behind a sunlit curtain in a family living room.
 
@@ -1177,14 +1177,14 @@ No text, no subtitles, no watermark, no distorted hands, no extra fingers, no du
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104541346711343205) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104541346711343205&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104541346711343205) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104397688511103374"></a>
 ### Duckling in a Blue Scarf Explores a Peach Orchard
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104397352656326656/img/IJIgWhRPnAGwKb7z.jpg?format=webp&name=small" height="300" alt="Duckling in a Blue Scarf Explores a Peach Orchard — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104397688511103374&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104397352656326656/img/IJIgWhRPnAGwKb7z.jpg?format=webp&name=small" height="300" alt="Duckling in a Blue Scarf Explores a Peach Orchard — Seedance 2.5"></a>
 
 A 30-second vertical 3D short with a scarf-wearing duckling exploring an orchard beside a stream, laid out as timed scenes.
 
@@ -1230,14 +1230,14 @@ Maintain the exact same duckling appearance, yellow fluffy feathers, large expre
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104397688511103374) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104397688511103374&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104397688511103374) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104162259065086147"></a>
 ### Toddler Wakes and Plays With His Sleeping Mother
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104162066903060480/img/svRN97kz8rvA9bYe.jpg?format=webp&name=small" height="300" alt="Toddler Wakes and Plays With His Sleeping Mother — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104162259065086147&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104162066903060480/img/svRN97kz8rvA9bYe.jpg?format=webp&name=small" height="300" alt="Toddler Wakes and Plays With His Sleeping Mother — Seedance 2.5"></a>
 
 A warm 3D animated scene where a mother sleeps in a sunlit bedroom while her toddler sits up, stretches and playfully interacts with her.
 
@@ -1256,14 +1256,14 @@ Create a heartwarming cinematic 3D animated video of a young mother and her ador
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104162259065086147) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104162259065086147&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2104162259065086147) · [↑ Top](#top)
 
 ---
 
 <a id="p-2103672061613019181"></a>
 ### Duckling and Blue Elephant in a Wheat Field
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2103671866544226304/img/IvOupg8XOYU8wTuA.jpg?format=webp&name=small" height="300" alt="Duckling and Blue Elephant in a Wheat Field — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2103672061613019181&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2103671866544226304/img/IvOupg8XOYU8wTuA.jpg?format=webp&name=small" height="300" alt="Duckling and Blue Elephant in a Wheat Field — Seedance 2.5"></a>
 
 A 24-second whimsical 3D animated short at sunset where a tiny duckling in a straw nest meets a gentle baby-blue elephant.
 
@@ -1290,14 +1290,14 @@ Style: high-quality cinematic 3D animation, adorable character design, soft real
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2103672061613019181) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2103672061613019181&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2103672061613019181) · [↑ Top](#top)
 
 ---
 
 <a id="p-2103436558422638792"></a>
 ### Baby Wakes Beside His Sleeping Mother
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2103436207174864896/img/5VfykFlOifxFn_a1.jpg?format=webp&name=small" height="300" alt="Baby Wakes Beside His Sleeping Mother — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2103436558422638792&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2103436207174864896/img/5VfykFlOifxFn_a1.jpg?format=webp&name=small" height="300" alt="Baby Wakes Beside His Sleeping Mother — Seedance 2.5"></a>
 
 A vertical family-animation style 3D short where a chubby baby stirs beside his sleeping mother in a cozy bedroom, written as numbered scenes.
 
@@ -1342,14 +1342,14 @@ Maintain consistent character identity throughout the entire video. Keep the bab
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2103436558422638792) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2103436558422638792&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2103436558422638792) · [↑ Top](#top)
 
 ---
 
 <a id="p-2102946546035945875"></a>
 ### Animated Chef Turns Dinner Into a Kitchen Show
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2102946491866468352/img/ob8X7hHPsSNGRcO2.jpg?format=webp&name=small" height="300" alt="Animated Chef Turns Dinner Into a Kitchen Show — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2102946546035945875&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2102946491866468352/img/ob8X7hHPsSNGRcO2.jpg?format=webp&name=small" height="300" alt="Animated Chef Turns Dinner Into a Kitchen Show — Seedance 2.5"></a>
 
 A 15-second 3D animated cooking scene in a restaurant kitchen where a young chef in a red apron puts on a showy performance with a large burner.
 
@@ -1373,14 +1373,14 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AynahhX/status/2102946546035945875) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2102946546035945875&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AynahhX/status/2102946546035945875) · [↑ Top](#top)
 
 ---
 
 <a id="p-2102622012351131832"></a>
 ### Bicycle Courier Races Through a Busy Downtown
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2102621941333204992/img/7wPEPMwchsfLUwXV.jpg?format=webp&name=small" height="300" alt="Bicycle Courier Races Through a Busy Downtown — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2102622012351131832&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2102621941333204992/img/7wPEPMwchsfLUwXV.jpg?format=webp&name=small" height="300" alt="Bicycle Courier Races Through a Busy Downtown — Seedance 2.5"></a>
 
 A 15-second animated-style urban delivery run that opens with a low-angle street establishing shot and follows a bike courier weaving through traffic.
 
@@ -1407,14 +1407,14 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Elvorya/status/2102622012351131832) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2102622012351131832&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Elvorya/status/2102622012351131832) · [↑ Top](#top)
 
 ---
 
 <a id="p-2102580065972486422"></a>
 ### Brave Mother Hen Protects Chicks From a Hawk
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2102579859029651456/img/EMpuafGaV2PPEUka.jpg?format=webp&name=small" height="300" alt="Brave Mother Hen Protects Chicks From a Hawk — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2102580065972486422&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2102579859029651456/img/EMpuafGaV2PPEUka.jpg?format=webp&name=small" height="300" alt="Brave Mother Hen Protects Chicks From a Hawk — Seedance 2.5"></a>
 
 A 30-second vertical family-style 3D cartoon about a hen defending her chicks from a hawk, with instructions to keep character designs and proportions consistent between scenes.
 
@@ -1463,14 +1463,14 @@ End with the hen standing sadly but protectively beside her little chicks in the
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2102580065972486422) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2102580065972486422&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2102580065972486422) · [↑ Top](#top)
 
 ---
 
 <a id="p-2101989437181988957"></a>
 ### Baby Penguin Girl in a Cozy Home Short Film
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101989236971089920/img/NXj2YLGpmJ_Wm-KY.jpg?format=webp&name=small" height="300" alt="Baby Penguin Girl in a Cozy Home Short Film — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2101989437181988957&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101989236971089920/img/NXj2YLGpmJ_Wm-KY.jpg?format=webp&name=small" height="300" alt="Baby Penguin Girl in a Cozy Home Short Film — Seedance 2.5"></a>
 
 A fluffy baby penguin with a pink bow stands shy on a striped rug in a warm home, told through labeled scenes of a cute 3D short.
 
@@ -1516,14 +1516,14 @@ Keep the exact same baby penguin character throughout the entire video. Preserve
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2101989437181988957) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2101989437181988957&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2101989437181988957) · [↑ Top](#top)
 
 ---
 
 <a id="p-2101493389115953586"></a>
 ### Fluffy Hamster With Headphones in a Cozy Home
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101493338876887042/img/u8ED1onwQDGAR9iH.jpg?format=webp&name=small" height="300" alt="Fluffy Hamster With Headphones in a Cozy Home — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2101493389115953586&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101493338876887042/img/u8ED1onwQDGAR9iH.jpg?format=webp&name=small" height="300" alt="Fluffy Hamster With Headphones in a Cozy Home — Seedance 2.5"></a>
 
 A tiny golden-and-white hamster with a pink bow and oversized headphones in a warm home interior, written as a vertical ultra-realistic 3D animated clip.
 
@@ -1564,7 +1564,7 @@ No text, no subtitles, no watermark, no extra characters, no distorted anatomy, 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2101493389115953586) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2101493389115953586&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2101493389115953586) · [↑ Top](#top)
 
 ---
 
@@ -1599,7 +1599,7 @@ Using the reference image as the exact final frame, create a 10-second stop-moti
 <a id="p-2099683790717325390"></a>
 ### Two Fluffy Rabbits Try Lipstick on a Beige Sofa
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2099683461472866304/img/mC1lY-vPpC-Kdkex.jpg?format=webp&name=small" height="300" alt="Two Fluffy Rabbits Try Lipstick on a Beige Sofa — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2099683790717325390&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2099683461472866304/img/mC1lY-vPpC-Kdkex.jpg?format=webp&name=small" height="300" alt="Two Fluffy Rabbits Try Lipstick on a Beige Sofa — Seedance 2.5"></a>
 
 Two plush 3D rabbits sit on a sofa while the pink one applies lipstick and makes confident faces; the prompt details each rabbit's clothing and jewelry.
 
@@ -1622,14 +1622,14 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2099683790717325390) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2099683790717325390&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2099683790717325390) · [↑ Top](#top)
 
 ---
 
 <a id="p-2098728793703899603"></a>
 ### Two Baby Bunnies on a Cozy Living Room Sofa
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2098728547464691712/img/2TYa5GE5iXwXcZd5.jpg?format=webp&name=small" height="300" alt="Two Baby Bunnies on a Cozy Living Room Sofa — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2098728793703899603&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2098728547464691712/img/2TYa5GE5iXwXcZd5.jpg?format=webp&name=small" height="300" alt="Two Baby Bunnies on a Cozy Living Room Sofa — Seedance 2.5"></a>
 
 A 9:16 animated clip shows two cute bunnies in a warm living room; the prompt lists each character's outfit and necklace in a CHARACTERS block.
 
@@ -1680,14 +1680,14 @@ Photorealistic fur detail combined with stylized 3D animation, cinematic composi
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2098728793703899603) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2098728793703899603&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2098728793703899603) · [↑ Top](#top)
 
 ---
 
 <a id="p-2098468425421259070"></a>
 ### Boy and Baby Dragon Play in a Tropical Jungle
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2098468366684196864/img/QdoJyp6EhYr_tvCK.jpg?format=webp&name=small" height="300" alt="Boy and Baby Dragon Play in a Tropical Jungle — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2098468425421259070&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2098468366684196864/img/QdoJyp6EhYr_tvCK.jpg?format=webp&name=small" height="300" alt="Boy and Baby Dragon Play in a Tropical Jungle — Seedance 2.5"></a>
 
 A boy and a small white dragon play on giant leaves until a huge green-and-gold dragon flies overhead, in a very long 3D animated adventure scene.
 
@@ -1710,7 +1710,7 @@ Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pi
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/aaassa120/status/2098468425421259070) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2098468425421259070&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/aaassa120/status/2098468425421259070) · [↑ Top](#top)
 
 ---
 
@@ -1815,7 +1815,7 @@ Premium cinematic 3D animation, high-quality character rendering, realistic soft
 <a id="p-2096791786807275583"></a>
 ### Beach Stone Figure Comes Alive in Stop-Motion
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg?format=webp&name=small" height="300" alt="Beach Stone Figure Comes Alive in Stop-Motion — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2096791786807275583&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg?format=webp&name=small" height="300" alt="Beach Stone Figure Comes Alive in Stop-Motion — Seedance 2.0"></a>
 
 A vertical 21-second stop-motion scene where a small humanoid made of smooth beach stones wakes in a tidal pool, with each body part specified.
 
@@ -1850,14 +1850,14 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/arsalannazir07/status/2096791786807275583) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2096791786807275583&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/arsalannazir07/status/2096791786807275583) · [↑ Top](#top)
 
 ---
 
 <a id="p-2096566193058693197"></a>
 ### Fantasy Bird Creature by a Magical Waterfall
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096566001878110208/img/h9lKCloZnZQhnfW9.jpg?format=webp&name=small" height="300" alt="Fantasy Bird Creature by a Magical Waterfall — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2096566193058693197&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096566001878110208/img/h9lKCloZnZQhnfW9.jpg?format=webp&name=small" height="300" alt="Fantasy Bird Creature by a Magical Waterfall — Seedance 2.5"></a>
 
 A 60-second animated short about a rounded, funny-beaked bird creature resting beside a forest waterfall, opening on a described first shot.
 
@@ -1898,14 +1898,14 @@ Visual style: high-end cinematic 3D animation, ultra-detailed fluffy characters,
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zarnab_with_Ai/status/2096566193058693197) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2096566193058693197&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zarnab_with_Ai/status/2096566193058693197) · [↑ Top](#top)
 
 ---
 
 <a id="p-2091397686104588650"></a>
 ### Stop-Motion Claymation Diorama Scene
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2091397668194889728/img/1a74faZZ6xaI1Kxm.jpg?format=webp&name=small" height="300" alt="Stop-Motion Claymation Diorama Scene — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2091397686104588650&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2091397668194889728/img/1a74faZZ6xaI1Kxm.jpg?format=webp&name=small" height="300" alt="Stop-Motion Claymation Diorama Scene — Seedance 2.0"></a>
 
 A recreated stop-motion claymation look with visible fingerprint smudges, warm soft-box light and tilt-shift miniature diorama scale, described through a style list.
 
@@ -1935,14 +1935,14 @@ Smooth isometric and eye-level camera transitions, macro lens perspective, warm 
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MayaAiCreator/status/2091397686104588650) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2091397686104588650&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MayaAiCreator/status/2091397686104588650) · [↑ Top](#top)
 
 ---
 
 <a id="p-2091385137133219971"></a>
 ### A Busy Cat's Day From Morning to Night
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2091384164763459584/img/S0gphFE1BfStvneS.jpg?format=webp&name=small" height="300" alt="A Busy Cat's Day From Morning to Night — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2091385137133219971&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2091384164763459584/img/S0gphFE1BfStvneS.jpg?format=webp&name=small" height="300" alt="A Busy Cat's Day From Morning to Night — Seedance 2.5"></a>
 
 A 60-second realistic day-in-the-life of one cat from waking to sleeping, with a strict no-speech, no-narration rule stated up front in the prompt.
 
@@ -2076,14 +2076,14 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ZaraIrahh/status/2091385137133219971) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2091385137133219971&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ZaraIrahh/status/2091385137133219971) · [↑ Top](#top)
 
 ---
 
 <a id="p-2089969922617266257"></a>
 ### Curious Fox Films a Mountain Stream Vlog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2089969759790219264/img/-Lx4G6Th-EFd-F_H.jpg?format=webp&name=small" height="300" alt="Curious Fox Films a Mountain Stream Vlog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2089969922617266257&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2089969759790219264/img/-Lx4G6Th-EFd-F_H.jpg?format=webp&name=small" height="300" alt="Curious Fox Films a Mountain Stream Vlog — Seedance 2.5"></a>
 
 A 30-second continuous self-filmed vlog held by an animal character, with a running timestamp in the corner and no cuts.
 
@@ -2122,14 +2122,14 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MrDasCreates/status/2089969922617266257) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2089969922617266257&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MrDasCreates/status/2089969922617266257) · [↑ Top](#top)
 
 ---
 
 <a id="p-2088866007918268515"></a>
 ### Paper Fold Becomes a Papercraft City
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088865943921528832/img/ACj33PYyBD5RI7qH.jpg?format=webp&name=small" height="300" alt="Paper Fold Becomes a Papercraft City — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088866007918268515&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088865943921528832/img/ACj33PYyBD5RI7qH.jpg?format=webp&name=small" height="300" alt="Paper Fold Becomes a Papercraft City — Seedance 2.5"></a>
 
 A 30-second cinematic piece set in a world made of paper, with each timecoded section naming lens and camera move, from a macro fold to the city and a reveal.
 
@@ -2234,14 +2234,14 @@ Photorealistic 4K • tactile materials • feature-film cinematography • soph
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ChillaiKalan__/status/2088866007918268515) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088866007918268515&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ChillaiKalan__/status/2088866007918268515) · [↑ Top](#top)
 
 ---
 
 <a id="p-2080744222571848176"></a>
 ### Claymation Hero Faces a Giant Sea Giant
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2080744009933168640/img/iLAhUnLHel8CZmN_.jpg?format=webp&name=small" height="300" alt="Claymation Hero Faces a Giant Sea Giant — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2080744222571848176&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2080744009933168640/img/iLAhUnLHel8CZmN_.jpg?format=webp&name=small" height="300" alt="Claymation Hero Faces a Giant Sea Giant — Seedance 2.0"></a>
 
 A claymation caricature of an ancient hero sailing a tiny wooden ship through a stormy miniature sea as a gigantic one-eyed giant rises.
 
@@ -2260,14 +2260,14 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/miilesus/status/2080744222571848176) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2080744222571848176&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/miilesus/status/2080744222571848176) · [↑ Top](#top)
 
 ---
 
 <a id="p-2080354151750668360"></a>
 ### Oversleeping Man Races Through a Rainy City
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2080354087519014912/img/foxiW1DDBfw2tgIt.jpg?format=webp&name=small" height="300" alt="Oversleeping Man Races Through a Rainy City — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2080354151750668360&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2080354087519014912/img/foxiW1DDBfw2tgIt.jpg?format=webp&name=small" height="300" alt="Oversleeping Man Races Through a Rainy City — Seedance 2.0"></a>
 
 A humorous cartoon short about a panicked morning, a missed bus and a stressful moment with the boss that turns out to be a nightmare.
 
@@ -2286,14 +2286,14 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/noorwithwifi/status/2080354151750668360) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2080354151750668360&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/noorwithwifi/status/2080354151750668360) · [↑ Top](#top)
 
 ---
 
 <a id="p-2079818537137475762"></a>
 ### Claymation Footballer Carries a Giant Leek
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2079818487246262272/img/nTEnTheL1tec1KYk.jpg?format=webp&name=small" height="300" alt="Claymation Footballer Carries a Giant Leek — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2079818537137475762&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2079818487246262272/img/nTEnTheL1tec1KYk.jpg?format=webp&name=small" height="300" alt="Claymation Footballer Carries a Giant Leek — Seedance 2.0"></a>
 
 A claymation caricature of a blond footballer in a red kit walking across a plain green background with a giant leek and a bucket of leeks.
 
@@ -2312,14 +2312,14 @@ Create a 3D claymation-style animation of a cute caricature of Erling Haaland we
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/noorwithwifi/status/2079818537137475762) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2079818537137475762&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/noorwithwifi/status/2079818537137475762) · [↑ Top](#top)
 
 ---
 
 <a id="p-2078535850745626926"></a>
 ### Claymation Cat Paints a Grey World With Color
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2078535751650942976/img/pjx7U3T51GWkIAnf.jpg?format=webp&name=small" height="300" alt="Claymation Cat Paints a Grey World With Color — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2078535850745626926&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2078535751650942976/img/pjx7U3T51GWkIAnf.jpg?format=webp&name=small" height="300" alt="Claymation Cat Paints a Grey World With Color — Seedance 2.0"></a>
 
 A claymation prompt where a black-and-white cat flips and runs, and each step splashes rainbow paint that brings grass, rivers and houses to life.
 
@@ -2338,7 +2338,7 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/noorwithwifi/status/2078535850745626926) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2078535850745626926&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/noorwithwifi/status/2078535850745626926) · [↑ Top](#top)
 
 ---
 

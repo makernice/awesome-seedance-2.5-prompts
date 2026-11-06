@@ -6,7 +6,7 @@
 <a id="p-2107164974078722307"></a>
 ### Black-and-White Ink Heroine in a Stone Wasteland
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107164910962806785/img/yHJVQQSv1gMkbj8Q.jpg?format=webp&name=small" height="300" alt="Black-and-White Ink Heroine in a Stone Wasteland — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107164974078722307&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107164910962806785/img/yHJVQQSv1gMkbj8Q.jpg?format=webp&name=small" height="300" alt="Black-and-White Ink Heroine in a Stone Wasteland — Seedance 2.5"></a>
 
 A 30-second anime action sequence with timecoded moves, a calm heroine, ink-spreading steps and water-mirror effects in a vast gray landscape.
 
@@ -45,14 +45,14 @@ STYLE: ultra-realistic cinematic anime, realistic human proportions, physically 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Goodmanprotocol/status/2107164974078722307) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107164974078722307&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Goodmanprotocol/status/2107164974078722307) · [↑ Top](#top)
 
 ---
 
 <a id="p-2105619247393321169"></a>
 ### Tiny Doodle Chef Makes Giant Popcorn
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105619185024057345/img/kJrER7Lab7T6U0c1.jpg?format=webp&name=small" height="300" alt="Tiny Doodle Chef Makes Giant Popcorn — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2105619247393321169&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105619185024057345/img/kJrER7Lab7T6U0c1.jpg?format=webp&name=small" height="300" alt="Tiny Doodle Chef Makes Giant Popcorn — Seedance 2.5"></a>
 
 A hand-drawn 2D girl in a pink apron makes a huge bowl of popcorn in a realistic kitchen, using the mixed-reality doodle style.
 
@@ -99,14 +99,14 @@ Audio: Kernel rattles, spoon clinks, popcorn popping, tiny footsteps, bowl vibra
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2105619247393321169) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2105619247393321169&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2105619247393321169) · [↑ Top](#top)
 
 ---
 
 <a id="p-2105129836750786993"></a>
 ### Tiny Doodle Chef in a Giant Real Kitchen
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105129787266347008/img/TiTUjyqaA3HFWxWM.jpg?format=webp&name=small" height="300" alt="Tiny Doodle Chef in a Giant Real Kitchen — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2105129836750786993&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105129787266347008/img/TiTUjyqaA3HFWxWM.jpg?format=webp&name=small" height="300" alt="Tiny Doodle Chef in a Giant Real Kitchen — Seedance 2.5"></a>
 
 A hand-drawn 2D girl in a yellow apron cooks inside a photorealistic kitchen, mixing doodle animation with live-action backgrounds.
 
@@ -150,14 +150,14 @@ Audio: Playful kitchen ambience, whisking, batter splashes, pancake flip, tiny f
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2105129836750786993) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2105129836750786993&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2105129836750786993) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104106520808157221"></a>
 ### Tiny Doodle Skateboarder Rides Across an Office Desk
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104106404512768000/img/1sdfH6ZGz9dyHM69.jpg?format=webp&name=small" height="300" alt="Tiny Doodle Skateboarder Rides Across an Office Desk — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104106520808157221&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104106404512768000/img/1sdfH6ZGz9dyHM69.jpg?format=webp&name=small" height="300" alt="Tiny Doodle Skateboarder Rides Across an Office Desk — Seedance 2.5"></a>
 
 A hand-drawn 2D girl on a skateboard rides over real office desk items, combining doodle animation with live-action footage in a mixed-reality style.
 
@@ -196,7 +196,7 @@ Visual: Close-up as she launches into the air, does a 360 spin with her board, a
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/harboriis/status/2104106520808157221) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104106520808157221&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/harboriis/status/2104106520808157221) · [↑ Top](#top)
 
 ---
 
@@ -272,7 +272,7 @@ Desktop fully restored, all icons back in their original positions, characters o
 <a id="p-2095496077764100446"></a>
 ### Anime-Style Grilled Skewers and Pomegranate Drink
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095495651044073472/img/IeglgkMgOO2xeiox.jpg?format=webp&name=small" height="300" alt="Anime-Style Grilled Skewers and Pomegranate Drink — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2095496077764100446&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095495651044073472/img/IeglgkMgOO2xeiox.jpg?format=webp&name=small" height="300" alt="Anime-Style Grilled Skewers and Pomegranate Drink — Seedance 2.5"></a>
 
 A 10-second anime food video showing a chef cubing and seasoning meat for skewers, then squeezing a ripe pomegranate into a drink.
 
@@ -291,14 +291,14 @@ Create a short anime-style food video showing the step-by-step preparation of gr
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/aiwithlumi/status/2095496077764100446) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2095496077764100446&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/aiwithlumi/status/2095496077764100446) · [↑ Top](#top)
 
 ---
 
 <a id="p-2079565454436426187"></a>
 ### Pirate Ship Battle in Stormy Seas in 2D Animation
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2079565430973435904/img/NH4eTEPPXq_iv1Jx.jpg?format=webp&name=small" height="300" alt="Pirate Ship Battle in Stormy Seas in 2D Animation — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2079565454436426187&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2079565430973435904/img/NH4eTEPPXq_iv1Jx.jpg?format=webp&name=small" height="300" alt="Pirate Ship Battle in Stormy Seas in 2D Animation — Seedance 2.0"></a>
 
 A timecoded sequence of short shots in a stylized 2D animated look, with a rival ship in fog and rain, a cannon flash and the navigator at the wheel.
 
@@ -347,14 +347,14 @@ Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consis
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/itsshara_ai/status/2079565454436426187) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2079565454436426187&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/itsshara_ai/status/2079565454436426187) · [↑ Top](#top)
 
 ---
 
 <a id="p-2021412306291392535"></a>
 ### Otter Pilots a Giant Mech Against a Marble Octopus
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2021412238716817408/img/7a2NXCgo5vLqDMGI.jpg?format=webp&name=small" height="300" alt="Otter Pilots a Giant Mech Against a Marble Octopus — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2021412306291392535&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2021412238716817408/img/7a2NXCgo5vLqDMGI.jpg?format=webp&name=small" height="300" alt="Otter Pilots a Giant Mech Against a Marble Octopus — Seedance 2.0"></a>
 
 A short anime concept with quick cuts of gears and mechanical parts, a grim thumbs-up from an otter pilot, and a flying battle with an octopus made of marble.
 
@@ -375,14 +375,14 @@ Again, this was the very first try
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/emollick/status/2021412306291392535) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2021412306291392535&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/emollick/status/2021412306291392535) · [↑ Top](#top)
 
 ---
 
 <a id="p-2021295886978908547"></a>
 ### Cosmic Tournament Arena Announced by a Bored Swordsman
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2021294949258465280/img/8K1jqsPqMDeE_AFM.jpg?format=webp&name=small" height="300" alt="Cosmic Tournament Arena Announced by a Bored Swordsman — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2021295886978908547&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2021294949258465280/img/8K1jqsPqMDeE_AFM.jpg?format=webp&name=small" height="300" alt="Cosmic Tournament Arena Announced by a Bored Swordsman — Seedance 2.0"></a>
 
 An anime crossover where a relaxed wooden-sword narrator announces tournament rules in a vast cosmic arena, with spoken lines and camera glides to platforms.
 
@@ -430,6 +430,6 @@ Comedy and catastrophe collide.
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/NACHOS2D_/status/2021295886978908547) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2021295886978908547&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/NACHOS2D_/status/2021295886978908547) · [↑ Top](#top)
 
 ---

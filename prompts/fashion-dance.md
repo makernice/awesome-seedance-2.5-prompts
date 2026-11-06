@@ -6,7 +6,7 @@
 <a id="p-2113469700541911254"></a>
 ### Seoul Morning Routine and Outfit Styling
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2113469646729072640/img/oITMM4xTSEMCrWi3.jpg?format=webp&name=small" height="300" alt="Seoul Morning Routine and Outfit Styling — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2113469700541911254&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2113469646729072640/img/oITMM4xTSEMCrWi3.jpg?format=webp&name=small" height="300" alt="Seoul Morning Routine and Outfit Styling — Seedance 2.5"></a>
 
 A 30-second sequence of skincare, makeup and a black outfit in a luxury apartment, written as a flowing description.
 
@@ -29,14 +29,14 @@ NEGATIVE: Cartoon, anime, artificial skin, face morphing, inconsistent outfits, 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2113469700541911254) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2113469700541911254&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2113469700541911254) · [↑ Top](#top)
 
 ---
 
 <a id="p-2113244959990329635"></a>
 ### Day in the Life of a Seoul Fashion Girl
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2113244892843622400/img/h_r4juw--K9Fy0Zo.jpg?format=webp&name=small" height="300" alt="Day in the Life of a Seoul Fashion Girl — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2113244959990329635&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2113244892843622400/img/h_r4juw--K9Fy0Zo.jpg?format=webp&name=small" height="300" alt="Day in the Life of a Seoul Fashion Girl — Seedance 2.5"></a>
 
 A 30-second street-fashion montage built from numbered shots that begin with an alarm and close-ups.
 
@@ -85,7 +85,7 @@ SHOT 15 ECU to WS, 85mm pull-out / Final beauty close-up of her eyes, glossy lip
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2113244959990329635) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2113244959990329635&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2113244959990329635) · [↑ Top](#top)
 
 ---
 
@@ -132,7 +132,7 @@ Critical requirement: Create a true five-shot cinematic beauty film, not a singl
 <a id="p-2109896989475516789"></a>
 ### K-pop Couple Dance Studio Session
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2109896921884340224/img/ZtRF5bKzaHKdk0wb.jpg?format=webp&name=small" height="300" alt="K-pop Couple Dance Studio Session — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2109896989475516789&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2109896921884340224/img/ZtRF5bKzaHKdk0wb.jpg?format=webp&name=small" height="300" alt="K-pop Couple Dance Studio Session — Seedance 2.5"></a>
 
 A 10-second realistic video of a couple dancing in a Korean studio, with character outfits described and timecoded beats.
 
@@ -169,14 +169,14 @@ Negative Prompt: No cartoon, CGI faces, distorted anatomy, extra limbs, robotic 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MissDelulu9/status/2109896989475516789) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2109896989475516789&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MissDelulu9/status/2109896989475516789) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108060187840180394"></a>
 ### Overhead Shot Through a Ceiling Fan
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108060140574560256/img/tQOHztLi8LK-Vwy9.jpg?format=webp&name=small" height="300" alt="Overhead Shot Through a Ceiling Fan — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108060187840180394&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108060140574560256/img/tQOHztLi8LK-Vwy9.jpg?format=webp&name=small" height="300" alt="Overhead Shot Through a Ceiling Fan — Seedance 2.5"></a>
 
 A top-down view of a woman resting on a Persian rug in a warm living room, seen through slowly spinning fan blades.
 
@@ -199,14 +199,14 @@ Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless tr
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zoyavelle/status/2108060187840180394) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108060187840180394&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zoyavelle/status/2108060187840180394) · [↑ Top](#top)
 
 ---
 
 <a id="p-2105845066514436402"></a>
 ### Fashion Runway Walk From a Reference Image
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/media/HTl2pvJXcAAsViG.jpg?format=webp&name=small" height="300" alt="Fashion Runway Walk From a Reference Image — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2105845066514436402&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/media/HTl2pvJXcAAsViG.jpg?format=webp&name=small" height="300" alt="Fashion Runway Walk From a Reference Image — Seedance 2.5"></a>
 
 A smooth full-body fashion walk that keeps the face, outfit and proportions from a reference image throughout.
 
@@ -230,7 +230,7 @@ Smooth camera tracking, subtle cinematic camera movement, realistic walking phys
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/HaniaAi12/status/2105845066514436402) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2105845066514436402&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/HaniaAi12/status/2105845066514436402) · [↑ Top](#top)
 
 ---
 
@@ -390,7 +390,7 @@ Cinematic fashion film, editorial movement, motion blur, anamorphic flares, gold
 <a id="p-2101148067458347258"></a>
 ### Outfit Board Animation With a 360 Degree Model Spin
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101148034981875712/img/Lb8TtAzos4Csy5Xc.jpg?format=webp&name=small" height="300" alt="Outfit Board Animation With a 360 Degree Model Spin — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2101148067458347258&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101148034981875712/img/Lb8TtAzos4Csy5Xc.jpg?format=webp&name=small" height="300" alt="Outfit Board Animation With a 360 Degree Model Spin — Seedance 2.5"></a>
 
 A clean 8-second fashion infographic keeps an outfit-board layout on white while the model on the right rotates smoothly through a full turn.
 
@@ -409,14 +409,14 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2101148067458347258) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2101148067458347258&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2101148067458347258) · [↑ Top](#top)
 
 ---
 
 <a id="p-2100456445900710158"></a>
 ### White to Red Parisian Fashion Transformation Walk
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg?format=webp&name=small" height="300" alt="White to Red Parisian Fashion Transformation Walk — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2100456445900710158&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg?format=webp&name=small" height="300" alt="White to Red Parisian Fashion Transformation Walk — Seedance 2.0"></a>
 
 A woman strolls Parisian streets in a white summer dress and magically changes into a bold red outfit; the prompt describes it as a single fashion transformation.
 
@@ -435,14 +435,14 @@ Created a cinematic fashion transformation video featuring a beautiful young wom
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ayzalnooor24521/status/2100456445900710158) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2100456445900710158&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ayzalnooor24521/status/2100456445900710158) · [↑ Top](#top)
 
 ---
 
 <a id="p-2096826123330138410"></a>
 ### Fashion Walk Toward Camera on a Snowy Alpine Slope
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096826069827649536/img/JBC6h2kwPjyrB7bX.jpg?format=webp&name=small" height="300" alt="Fashion Walk Toward Camera on a Snowy Alpine Slope — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2096826123330138410&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096826069827649536/img/JBC6h2kwPjyrB7bX.jpg?format=webp&name=small" height="300" alt="Fashion Walk Toward Camera on a Snowy Alpine Slope — Seedance 2.5"></a>
 
 A woman in a cream faux-fur coat walks toward camera carrying skis at golden hour; the prompt is one dense editorial still-style description with lens, lighting and grain cues.
 
@@ -461,14 +461,14 @@ Cinematic fashion film still, low-angle shot of a beautiful young woman with wav
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/noorlewisx/status/2096826123330138410) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2096826123330138410&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/noorlewisx/status/2096826123330138410) · [↑ Top](#top)
 
 ---
 
 <a id="p-2088847910121484296"></a>
 ### Fashion Model Behind-the-Scenes Outdoor Photoshoot
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088847852785336320/img/sKDv0Do9ZAMCoWa9.jpg?format=webp&name=small" height="300" alt="Fashion Model Behind-the-Scenes Outdoor Photoshoot — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088847910121484296&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088847852785336320/img/sKDv0Do9ZAMCoWa9.jpg?format=webp&name=small" height="300" alt="Fashion Model Behind-the-Scenes Outdoor Photoshoot — Seedance 2.5"></a>
 
 A fast-paced behind-the-scenes sequence of a model preparing for an outdoor shoot, in which the photographer is never visible and her look follows a reference image.
 
@@ -530,14 +530,14 @@ No photographer visible, no camera visible, no logos, no subtitles, no watermark
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2088847910121484296) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088847910121484296&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2088847910121484296) · [↑ Top](#top)
 
 ---
 
 <a id="p-2088839988792434997"></a>
 ### Choosing a Sunday Party Dress in a Fashion Vlog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088839929967280128/img/qOBGgzOI6qSYbbp9.jpg?format=webp&name=small" height="300" alt="Choosing a Sunday Party Dress in a Fashion Vlog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088839988792434997&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088839929967280128/img/qOBGgzOI6qSYbbp9.jpg?format=webp&name=small" height="300" alt="Choosing a Sunday Party Dress in a Fashion Vlog — Seedance 2.5"></a>
 
 A 15-second vlog that opens as a handheld selfie in a bedroom, with the girl speaking to the camera and her appearance locked to a reference image.
 
@@ -570,14 +570,14 @@ Audio: Natural room ambience, footsteps, wardrobe movement, finger snaps with sa
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2088839988792434997) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088839988792434997&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2088839988792434997) · [↑ Top](#top)
 
 ---
 
 <a id="p-2088115229590753754"></a>
 ### K-pop Star Character Sheet in Three Panels
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088115085122428929/img/JPj4dNROdIN1oI14.jpg?format=webp&name=small" height="300" alt="K-pop Star Character Sheet in Three Panels — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088115229590753754&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088115085122428929/img/JPj4dNROdIN1oI14.jpg?format=webp&name=small" height="300" alt="K-pop Star Character Sheet in Three Panels — Seedance 2.5"></a>
 
 A single-image character sheet showing a K-pop star from several angles in a sequined teal and gold bodysuit, with borders, dividers and text labels banned.
 
@@ -613,7 +613,7 @@ She steps to center stage beneath dazzling spotlights. Wind machines lift her ha
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2088115229590753754) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088115229590753754&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2088115229590753754) · [↑ Top](#top)
 
 ---
 
@@ -653,7 +653,7 @@ Natural ambient audio only: can opening, fizzy bubbles, splashing fountain water
 <a id="p-2081353850779550056"></a>
 ### Fitting Room Fashion Vlog on a Camcorder
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2081353808064749568/img/AZk7LPTaBOSnMNfZ.jpg?format=webp&name=small" height="300" alt="Fitting Room Fashion Vlog on a Camcorder — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2081353850779550056&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2081353808064749568/img/AZk7LPTaBOSnMNfZ.jpg?format=webp&name=small" height="300" alt="Fitting Room Fashion Vlog on a Camcorder — Seedance 2.0"></a>
 
 A playful backstage fitting-room vlog filmed on a handheld camcorder, with mirror setups and quick outfit moments.
 
@@ -672,6 +672,6 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2081353850779550056) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2081353850779550056&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2081353850779550056) · [↑ Top](#top)
 
 ---

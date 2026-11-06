@@ -144,7 +144,7 @@ Strict constraints: No character changes, no outfit changes, no face morphing, n
 <a id="p-2113472557827645730"></a>
 ### FPV Drone Launch Over Seoul
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2113472487308869632/img/5KmIIqOuG3rH6aL8.jpg?format=webp&name=small" height="300" alt="FPV Drone Launch Over Seoul — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2113472557827645730&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2113472487308869632/img/5KmIIqOuG3rH6aL8.jpg?format=webp&name=small" height="300" alt="FPV Drone Launch Over Seoul — Seedance 2.5"></a>
 
 A 30-second cinematic clip starting with a woman launching a drone, then flying over Seoul in first-person view.
 
@@ -175,14 +175,14 @@ NEGATIVE CONSTRAINTS: No abrupt cuts, flickering, distorted buildings, duplicate
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2113472557827645730) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2113472557827645730&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2113472557827645730) · [↑ Top](#top)
 
 ---
 
 <a id="p-2113109872707502464"></a>
 ### FPV Drone Flight Over Golden-Hour Tokyo
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2113109774061719552/img/ucy2mHcJTgVS56Ts.jpg?format=webp&name=small" height="300" alt="FPV Drone Flight Over Golden-Hour Tokyo — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2113109872707502464&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2113109774061719552/img/ucy2mHcJTgVS56Ts.jpg?format=webp&name=small" height="300" alt="FPV Drone Flight Over Golden-Hour Tokyo — Seedance 2.5"></a>
 
 A fast 30-second FPV drone shot weaving between skyscrapers and over busy crossings in Tokyo.
 
@@ -211,14 +211,14 @@ Negative constraints: No cuts, no camera jumps, no flickering, no distorted buil
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2113109872707502464) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2113109872707502464&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2113109872707502464) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110600258871013510"></a>
 ### Coastal City Coffee and Ocean Breeze
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110600189677633536/img/63wYZ5pzZByOdTgp.jpg?format=webp&name=small" height="300" alt="Coastal City Coffee and Ocean Breeze — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110600258871013510&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110600189677633536/img/63wYZ5pzZByOdTgp.jpg?format=webp&name=small" height="300" alt="Coastal City Coffee and Ocean Breeze — Seedance 2.5"></a>
 
 A 25-second lifestyle film moving from a coffee shop to seaside moments in a coastal city, in a calm mood.
 
@@ -237,14 +237,14 @@ Created a 25 second video, beautiful Korean girls, cinematic lifestyle film set 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/aiwithaayat/status/2110600258871013510) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110600258871013510&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/aiwithaayat/status/2110600258871013510) · [↑ Top](#top)
 
 ---
 
 <a id="p-2106439652278411435"></a>
 ### FPV Flight Through a Futuristic Istanbul
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2106439575665364992/img/Lmryb57gSh4C23Cw.jpg?format=webp&name=small" height="300" alt="FPV Flight Through a Futuristic Istanbul — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2106439652278411435&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2106439575665364992/img/Lmryb57gSh4C23Cw.jpg?format=webp&name=small" height="300" alt="FPV Flight Through a Futuristic Istanbul — Seedance 2.5"></a>
 
 A 30-second drone-style travel film blending cyberpunk technology with historic architecture, coastlines and night imagery.
 
@@ -286,7 +286,7 @@ AUDIO: cinematic electronic pulse building with the speed of the visuals, Istanb
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Naiknelofar788/status/2106439652278411435) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2106439652278411435&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Naiknelofar788/status/2106439652278411435) · [↑ Top](#top)
 
 ---
 
@@ -335,7 +335,7 @@ Consistency: Maintain exactly the same woman, hairstyle, outfit, facial features
 <a id="p-2103533820263944679"></a>
 ### Woman Strolls Through a City in a Travel Vlog
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2103533759698182144/img/4hJ3SlCsdeWyfgol.jpg?format=webp&name=small" height="300" alt="Woman Strolls Through a City in a Travel Vlog — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2103533820263944679&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2103533759698182144/img/4hJ3SlCsdeWyfgol.jpg?format=webp&name=small" height="300" alt="Woman Strolls Through a City in a Travel Vlog — Seedance 2.5"></a>
 
 A 30-second photorealistic travel vlog with timecoded segments, following a young woman in a white crop top and jeans as she walks through streets and sights.
 
@@ -386,14 +386,14 @@ Make the entire 30-second sequence feel like authentic footage captured inside a
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Goodmanprotocol/status/2103533820263944679) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2103533820263944679&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Goodmanprotocol/status/2103533820263944679) · [↑ Top](#top)
 
 ---
 
 <a id="p-2101683541629354348"></a>
 ### Ink-Wash Landscape Transforms From Waves to Moonlit Water
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101683493856321536/img/1IQE2LdTpM9gl19n.jpg?format=webp&name=small" height="300" alt="Ink-Wash Landscape Transforms From Waves to Moonlit Water — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2101683541629354348&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101683493856321536/img/1IQE2LdTpM9gl19n.jpg?format=webp&name=small" height="300" alt="Ink-Wash Landscape Transforms From Waves to Moonlit Water — Seedance 2.5"></a>
 
 Blue ocean waves turn into misty mountains, autumn trees, cherry blossoms and a rising moon in one seamless Chinese watercolor animation with chained transitions.
 
@@ -412,7 +412,7 @@ A seamless traditional Chinese ink-wash watercolor animation begins with deep bl
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/noorwithwifi/status/2101683541629354348) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2101683541629354348&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/noorwithwifi/status/2101683541629354348) · [↑ Top](#top)
 
 ---
 
@@ -525,7 +525,7 @@ The final film should look like genuine footage captured by an elite travel film
 <a id="p-2094635608849166589"></a>
 ### Train Journey Travel Vlog With English Speech
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2094635508756353024/img/2Ai2Gba61mQNwysW.jpg?format=webp&name=small" height="300" alt="Train Journey Travel Vlog With English Speech — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2094635608849166589&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2094635508756353024/img/2Ai2Gba61mQNwysW.jpg?format=webp&name=small" height="300" alt="Train Journey Travel Vlog With English Speech — Seedance 2.5"></a>
 
 A young woman films her first train trip on her own smartphone and speaks fluent English with lip sync, in a 30-second realistic vlog.
 
@@ -544,7 +544,7 @@ Ultra-realistic casual smartphone travel vlog of one consistent young Korean wom
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2094635608849166589) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2094635608849166589&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2094635608849166589) · [↑ Top](#top)
 
 ---
 
@@ -786,7 +786,7 @@ Final target: The finished 30-second video must be indistinguishable from a genu
 <a id="p-2092109145055150431"></a>
 ### Hillside Villa Aerial and Interior Tour
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2092109046212124672/img/Q9d9v2EAdBCVbtyz.jpg?format=webp&name=small" height="300" alt="Hillside Villa Aerial and Interior Tour — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2092109145055150431&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2092109046212124672/img/Q9d9v2EAdBCVbtyz.jpg?format=webp&name=small" height="300" alt="Hillside Villa Aerial and Interior Tour — Seedance 2.5"></a>
 
 A luxury real-estate tour of a white hillside villa, combining circling drone shots of the pool and gardens with interior walkthroughs at golden hour.
 
@@ -807,7 +807,7 @@ Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/noorlewisx/status/2092109145055150431) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2092109145055150431&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/noorlewisx/status/2092109145055150431) · [↑ Top](#top)
 
 ---
 
@@ -950,7 +950,7 @@ Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌,
 <a id="p-2088099038839316601"></a>
 ### Maldives Resort Handheld Tracking Shot
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088061312874004480/img/xeEkxAGKfiNCA-xv.jpg?format=webp&name=small" height="300" alt="Maldives Resort Handheld Tracking Shot — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088099038839316601&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088061312874004480/img/xeEkxAGKfiNCA-xv.jpg?format=webp&name=small" height="300" alt="Maldives Resort Handheld Tracking Shot — Seedance 2.5"></a>
 
 A documentary-style tracking shot of a young woman at a luxury island resort with turquoise water and white sand, in soft tropical light and 35mm grain.
 
@@ -995,14 +995,14 @@ Photorealistic, heavy natural film grain, sharp skin and fabric detail, realisti
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/techhalla/status/2088099038839316601) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088099038839316601&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/techhalla/status/2088099038839316601) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087737206459044262"></a>
 ### Slow Morning Coffee and Exploring Vlog in a European Town
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087736954947600384/img/8cPcwQrg4OZP-0ir.jpg?format=webp&name=small" height="300" alt="Slow Morning Coffee and Exploring Vlog in a European Town — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2087737206459044262&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087736954947600384/img/8cPcwQrg4OZP-0ir.jpg?format=webp&name=small" height="300" alt="Slow Morning Coffee and Exploring Vlog in a European Town — Seedance 2.5"></a>
 
 A 15-second travel vlog that must pass as real creator footage, written as timecoded shots that start with a selfie-style handheld frame.
 
@@ -1043,7 +1043,7 @@ The final result should feel like an actual 15-second travel vlog filmed spontan
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/SyntheSarah/status/2087737206459044262) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2087737206459044262&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/SyntheSarah/status/2087737206459044262) · [↑ Top](#top)
 
 ---
 
@@ -1127,7 +1127,7 @@ Same hands, sleeve and wrist cord across all four segments. Same rod, knife, boa
 <a id="p-2086677274217381905"></a>
 ### Hawaii Summer Travel Vlog Montage
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2086677140645527552/img/n5w112NSm1mOmd-F.jpg?format=webp&name=small" height="300" alt="Hawaii Summer Travel Vlog Montage — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2086677274217381905&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2086677140645527552/img/n5w112NSm1mOmd-F.jpg?format=webp&name=small" height="300" alt="Hawaii Summer Travel Vlog Montage — Seedance 2.5"></a>
 
 A 15-second tropical vacation montage with the same young woman in every shot, with consistent face, hair and styling stated at the start of the prompt.
 
@@ -1159,14 +1159,14 @@ Avoid: cartoon/CGI appearance, plastic skin, unrealistic face, inconsistent char
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/im_shahid7/status/2086677274217381905) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2086677274217381905&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/im_shahid7/status/2086677274217381905) · [↑ Top](#top)
 
 ---
 
 <a id="p-2085307691937767921"></a>
 ### Handheld Smartphone Travel Vlog With Natural Shake
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085307544994504704/img/Nh8d-zCMPMOrUZmj.jpg?format=webp&name=small" height="300" alt="Handheld Smartphone Travel Vlog With Natural Shake — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2085307691937767921&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085307544994504704/img/Nh8d-zCMPMOrUZmj.jpg?format=webp&name=small" height="300" alt="Handheld Smartphone Travel Vlog With Natural Shake — Seedance 2.5"></a>
 
 A 30-second travel vlog that must look like real phone footage, with subtle shake, autofocus shifts and no beauty filters, keeping one character's face from a reference.
 
@@ -1194,14 +1194,14 @@ Audio: Natural ambience only—airport announcements, rolling suitcase wheels, a
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2085307691937767921) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2085307691937767921&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2085307691937767921) · [↑ Top](#top)
 
 ---
 
 <a id="p-2079422224004698416"></a>
 ### Paragliding Adventure Travel Vlog
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2079420688155463680/img/3hvJO3u2PXI14W4P.jpg?format=webp&name=small" height="300" alt="Paragliding Adventure Travel Vlog — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2079422224004698416&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2079420688155463680/img/3hvJO3u2PXI14W4P.jpg?format=webp&name=small" height="300" alt="Paragliding Adventure Travel Vlog — Seedance 2.0"></a>
 
 A live-action style travel vlog that keeps the same paragliding outfit and woman across two videos, with strict no-CGI wording.
 
@@ -1235,14 +1235,14 @@ Natural handheld vlog camera mixed with cinematic tracking shots, realistic wind
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/CaliraVal/status/2079422224004698416) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2079422224004698416&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/CaliraVal/status/2079422224004698416) · [↑ Top](#top)
 
 ---
 
 <a id="p-2078794504354799754"></a>
 ### Bullet Train Window Travel Diary
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2078794431054962689/img/bNnjmwV9F-NLOpSg.jpg?format=webp&name=small" height="300" alt="Bullet Train Window Travel Diary — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2078794504354799754&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2078794431054962689/img/bNnjmwV9F-NLOpSg.jpg?format=webp&name=small" height="300" alt="Bullet Train Window Travel Diary — Seedance 2.0"></a>
 
 A cheerful traveler films scenery from a Japanese bullet train and steps out at stations to capture landmarks, using a reference image of the woman.
 
@@ -1262,6 +1262,6 @@ A cheerful young woman (@ image) starts her day by boarding a Japanese bullet tr
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2078794504354799754) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2078794504354799754&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2078794504354799754) · [↑ Top](#top)
 
 ---

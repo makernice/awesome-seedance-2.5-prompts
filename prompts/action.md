@@ -6,7 +6,7 @@
 <a id="p-2114373454946615618"></a>
 ### Tiny Woman Explores a Stationery Shop
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2114373360637599744/img/ypirC5P1UYri5h5U.jpg?format=webp&name=small" height="300" alt="Tiny Woman Explores a Stationery Shop — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2114373454946615618&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2114373360637599744/img/ypirC5P1UYri5h5U.jpg?format=webp&name=small" height="300" alt="Tiny Woman Explores a Stationery Shop — Seedance 2.5"></a>
 
 A 30-second photoreal miniature adventure inside a stationery shop, with a style header and macro camera notes.
 
@@ -41,14 +41,14 @@ NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated characte
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2114373454946615618) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2114373454946615618&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2114373454946615618) · [↑ Top](#top)
 
 ---
 
 <a id="p-2113841913065615450"></a>
 ### Subway Revenge Slap Scene
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2113841860036993024/img/Vu5EYw5_pgcIuYJH.jpg?format=webp&name=small" height="300" alt="Subway Revenge Slap Scene — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2113841913065615450&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2113841860036993024/img/Vu5EYw5_pgcIuYJH.jpg?format=webp&name=small" height="300" alt="Subway Revenge Slap Scene — Seedance 2.5"></a>
 
 A live-action revenge comedy in a Seoul subway station with handheld camera, cold lighting and a no-animation instruction.
 
@@ -85,14 +85,14 @@ VISUAL REQUIREMENTS: Maintain consistent faces, hairstyles, outfits, and locatio
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2113841913065615450) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2113841913065615450&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2113841913065615450) · [↑ Top](#top)
 
 ---
 
 <a id="p-2112025080335339907"></a>
 ### Futuristic Supercar Through Seoul Traffic
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2112025010189856768/img/CK62dXdGETLwX706.jpg?format=webp&name=small" height="300" alt="Futuristic Supercar Through Seoul Traffic — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2112025080335339907&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2112025010189856768/img/CK62dXdGETLwX706.jpg?format=webp&name=small" height="300" alt="Futuristic Supercar Through Seoul Traffic — Seedance 2.5"></a>
 
 A 30-second golden-hour clip of a white futuristic supercar weaving through busy highway traffic, opening on an aerial view.
 
@@ -111,14 +111,14 @@ Created a video, 30 second, featuring a futuristic white supercar driving throug
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/aiwithaayat/status/2112025080335339907) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2112025080335339907&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/aiwithaayat/status/2112025080335339907) · [↑ Top](#top)
 
 ---
 
 <a id="p-2111657888733442529"></a>
 ### Tiny Woman Conquers a Supermarket
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2111657832991043584/img/ES9RwZNNZGJ5G2im.jpg?format=webp&name=small" height="300" alt="Tiny Woman Conquers a Supermarket — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2111657888733442529&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2111657832991043584/img/ES9RwZNNZGJ5G2im.jpg?format=webp&name=small" height="300" alt="Tiny Woman Conquers a Supermarket — Seedance 2.5"></a>
 
 A 30-second photoreal miniature adventure where a small athletic woman climbs a shopping cart, with a lock on her face and scale.
 
@@ -145,14 +145,14 @@ NEGATIVE: Cartoon, anime, toy-like appearance, plastic skin, duplicated characte
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2111657888733442529) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2111657888733442529&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2111657888733442529) · [↑ Top](#top)
 
 ---
 
 <a id="p-2111517673276240251"></a>
 ### Helicopter Pursuit in Raw News Style
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2111517619652096001/pu/img/dlq7vji417qTnPov.jpg?format=webp&name=small" height="300" alt="Helicopter Pursuit in Raw News Style — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2111517673276240251&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2111517619652096001/pu/img/dlq7vji417qTnPov.jpg?format=webp&name=small" height="300" alt="Helicopter Pursuit in Raw News Style — Seedance 2.5"></a>
 
 A 30-second Los Angeles daylight chase seen from a single news helicopter, with deliberately shaky long-lens footage.
 
@@ -194,14 +194,14 @@ One continuous helicopter perspective, strong amateur-news authenticity, same ri
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/CharaspowerAI/status/2111517673276240251) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2111517673276240251&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/CharaspowerAI/status/2111517673276240251) · [↑ Top](#top)
 
 ---
 
 <a id="p-2111296614904336739"></a>
 ### Shopping Mall Revenge Fight
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2111296528606449664/img/4MnL7fb9u-H_JK4m.jpg?format=webp&name=small" height="300" alt="Shopping Mall Revenge Fight — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2111296614904336739&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2111296528606449664/img/4MnL7fb9u-H_JK4m.jpg?format=webp&name=small" height="300" alt="Shopping Mall Revenge Fight — Seedance 2.5"></a>
 
 A live-action revenge comedy in a busy Seoul mall, with handheld camera and reflective-floor details written into the prompt.
 
@@ -232,14 +232,14 @@ Maintain identical faces, hairstyles, outfits, and location throughout. Include 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2111296614904336739) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2111296614904336739&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2111296614904336739) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110699529041310046"></a>
 ### Tiny Woman's Shower Survival Ordeal
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110699444597579777/img/XRN2eQD8Yjlae4tn.jpg?format=webp&name=small" height="300" alt="Tiny Woman's Shower Survival Ordeal — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110699529041310046&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110699444597579777/img/XRN2eQD8Yjlae4tn.jpg?format=webp&name=small" height="300" alt="Tiny Woman's Shower Survival Ordeal — Seedance 2.5"></a>
 
 A 30-second photoreal miniature-person comedy where an ordinary shower becomes a survival course, with macro and handheld camera notes.
 
@@ -296,14 +296,14 @@ Use synchronized, exaggerated but realistic sound effects: shower valve click, t
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2110699529041310046) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110699529041310046&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2110699529041310046) · [↑ Top](#top)
 
 ---
 
 <a id="p-2110235870473461970"></a>
 ### Hanfu Swordswoman in Bamboo Rain
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2110235832473026560/img/VGM0PTCvQhaO4K7A.jpg?format=webp&name=small" height="300" alt="Hanfu Swordswoman in Bamboo Rain — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2110235870473461970&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2110235832473026560/img/VGM0PTCvQhaO4K7A.jpg?format=webp&name=small" height="300" alt="Hanfu Swordswoman in Bamboo Rain — Seedance 2.5"></a>
 
 A cinematic wuxia scene where a woman in a mint hanfu stands surrounded by masked assassins in a rainy bamboo forest.
 
@@ -344,14 +344,14 @@ Negative Prompt: Cartoon, anime, CGI appearance, plastic skin, blurry faces, dis
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zoyavelle/status/2110235870473461970) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2110235870473461970&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zoyavelle/status/2110235870473461970) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108760866422415701"></a>
 ### Subway Station Revenge Fight
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108760797463863297/img/OaTdhhoyw59_1RJC.jpg?format=webp&name=small" height="300" alt="Subway Station Revenge Fight — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108760866422415701&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108760797463863297/img/OaTdhhoyw59_1RJC.jpg?format=webp&name=small" height="300" alt="Subway Station Revenge Fight — Seedance 2.5"></a>
 
 A live-action revenge comedy in a Seoul subway station, with handheld camera, cold lighting and real-time action cues in the prompt.
 
@@ -378,14 +378,14 @@ Maintain identical faces, hairstyles, outfits, and location throughout. Include 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2108760866422415701) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108760866422415701&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2108760866422415701) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108459477649543194"></a>
 ### Concert Stage Outbreak Fight
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108458026781036544/img/OUty86L7KIEv5gaR.jpg?format=webp&name=small" height="300" alt="Concert Stage Outbreak Fight — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108459477649543194&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108458026781036544/img/OUty86L7KIEv5gaR.jpg?format=webp&name=small" height="300" alt="Concert Stage Outbreak Fight — Seedance 2.5"></a>
 
 A 30-second night-time horror-action short where a guitarist fights attackers on stage, with a character lock and a dynamic camera brief.
 
@@ -455,14 +455,14 @@ Cinematic horror-action short film set at an outdoor music concert at night, ope
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/auqibhabib/status/2108459477649543194) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108459477649543194&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/auqibhabib/status/2108459477649543194) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108422475730309602"></a>
 ### Pink-Robed Warrior in a Temple Hall
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108422298021814272/img/T7cCDQLfh5zCegpj.jpg?format=webp&name=small" height="300" alt="Pink-Robed Warrior in a Temple Hall — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108422475730309602&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108422298021814272/img/T7cCDQLfh5zCegpj.jpg?format=webp&name=small" height="300" alt="Pink-Robed Warrior in a Temple Hall — Seedance 2.5"></a>
 
 A 15-second photoreal martial-arts short in a misty ancient temple hall with light beams and a flowing-robed female fighter.
 
@@ -491,14 +491,14 @@ Maintain consistent facial identity, hairstyle, outfit, body proportions, and te
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/aynellex/status/2108422475730309602) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108422475730309602&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/aynellex/status/2108422475730309602) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108180243244818861"></a>
 ### Tiny Woman Survives Laundry Day
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108180194288877570/img/nCtjHfz7PkDX8Jj6.jpg?format=webp&name=small" height="300" alt="Tiny Woman Survives Laundry Day — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2108180243244818861&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108180194288877570/img/nCtjHfz7PkDX8Jj6.jpg?format=webp&name=small" height="300" alt="Tiny Woman Survives Laundry Day — Seedance 2.5"></a>
 
 A 30-second photoreal miniature-person adventure through a household laundry setting, using macro photography and handheld camera notes.
 
@@ -533,14 +533,14 @@ NEGATIVE: Cartoon, anime, toy-like appearance, animation, plastic-looking miniat
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2108180243244818861) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2108180243244818861&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2108180243244818861) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107346452494381298"></a>
 ### Suburban Street Outbreak Fight
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107346318624686080/img/ll8xfUQSN6d_XnvY.jpg?format=webp&name=small" height="300" alt="Suburban Street Outbreak Fight — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2107346452494381298&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107346318624686080/img/ll8xfUQSN6d_XnvY.jpg?format=webp&name=small" height="300" alt="Suburban Street Outbreak Fight — Seedance 2.5"></a>
 
 A 30-second horror-action short that opens on an instant attack, written as a second-by-second shot list with a character lock.
 
@@ -613,14 +613,14 @@ Cinematic horror-action short film, opens with an instant attack, no slow build,
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/auqibhabib/status/2107346452494381298) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2107346452494381298&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/auqibhabib/status/2107346452494381298) · [↑ Top](#top)
 
 ---
 
 <a id="p-2106955772395659431"></a>
 ### Zombie Infection Outbreak in a University Lab
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2106955703277744128/img/7EiiPYgZtHNk2S0-.jpg?format=webp&name=small" height="300" alt="Zombie Infection Outbreak in a University Lab — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2106955772395659431&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2106955703277744128/img/7EiiPYgZtHNk2S0-.jpg?format=webp&name=small" height="300" alt="Zombie Infection Outbreak in a University Lab — Seedance 2.5"></a>
 
 A photorealistic horror sequence in a science lab where a Korean college student in a lab coat faces an outbreak during a practical session.
 
@@ -667,14 +667,14 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithSynthia/status/2106955772395659431) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2106955772395659431&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithSynthia/status/2106955772395659431) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104802751435911223"></a>
 ### Train Compartment Fight Against Several Men
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104802675439398912/img/D0SMwje2_jmICFxT.jpg?format=webp&name=small" height="300" alt="Train Compartment Fight Against Several Men — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104802751435911223&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104802675439398912/img/D0SMwje2_jmICFxT.jpg?format=webp&name=small" height="300" alt="Train Compartment Fight Against Several Men — Seedance 2.5"></a>
 
 A fast fight inside a crowded passenger train, where a young woman in a denim jacket dodges and strikes multiple opponents in black.
 
@@ -700,14 +700,14 @@ Quality: 4K cinematic realism
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zoyavelle/status/2104802751435911223) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104802751435911223&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zoyavelle/status/2104802751435911223) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104793144743108833"></a>
 ### Classroom Gunfight and Martial Arts Showdown
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104792885485088768/img/vymOJS_0V_eSnNdy.jpg?format=webp&name=small" height="300" alt="Classroom Gunfight and Martial Arts Showdown — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104793144743108833&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104792885485088768/img/vymOJS_0V_eSnNdy.jpg?format=webp&name=small" height="300" alt="Classroom Gunfight and Martial Arts Showdown — Seedance 2.5"></a>
 
 A 60-second action thriller with a red-scarfed woman in a dim classroom, structured as numbered scenes mixing gunplay and acrobatic fighting.
 
@@ -779,14 +779,14 @@ IMPORTANT CONSISTENCY INSTRUCTIONS
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Noor_ul_ain43/status/2104793144743108833) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104793144743108833&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Noor_ul_ain43/status/2104793144743108833) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104536535370457576"></a>
 ### Dual-Pistol Gunfight in a Japanese Action Film
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104536480836378624/img/X0D6C5vgT4r862-I.jpg?format=webp&name=small" height="300" alt="Dual-Pistol Gunfight in a Japanese Action Film — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104536535370457576&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104536480836378624/img/X0D6C5vgT4r862-I.jpg?format=webp&name=small" height="300" alt="Dual-Pistol Gunfight in a Japanese Action Film — Seedance 2.5"></a>
 
 A 20-second two-part action piece with a continuity lock on the lead and his twin pistols, using smoke, debris and IMAX-style framing.
 
@@ -835,14 +835,14 @@ cartoon, anime, game graphics, glossy CGI, plastic skin, AI faces, weapon swappi
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/itxsarmadd/status/2104536535370457576) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104536535370457576&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/itxsarmadd/status/2104536535370457576) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104450675656835476"></a>
 ### Wet Subway Platform Fight Scene
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104450622233931777/img/cvVBuPCALTn6L_y4.jpg?format=webp&name=small" height="300" alt="Wet Subway Platform Fight Scene — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2104450675656835476&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104450622233931777/img/cvVBuPCALTn6L_y4.jpg?format=webp&name=small" height="300" alt="Wet Subway Platform Fight Scene — Seedance 2.5"></a>
 
 A 10-second action scene where a determined woman confronts a larger attacker on a wet underground platform, with character details kept consistent.
 
@@ -869,14 +869,14 @@ Negative prompt: distorted faces, changing faces, character morphing, extra limb
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Elvorya/status/2104450675656835476) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2104450675656835476&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Elvorya/status/2104450675656835476) · [↑ Top](#top)
 
 ---
 
 <a id="p-2104390191352103147"></a>
 ### Armored Superheroine Runs From a Blast in a Ruined City
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104389789583810560/img/Nwu4qrlYAxzqERN0.jpg?format=webp&name=small" height="300" alt="Armored Superheroine Runs From a Blast in a Ruined City — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2104390191352103147&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104389789583810560/img/Nwu4qrlYAxzqERN0.jpg?format=webp&name=small" height="300" alt="Armored Superheroine Runs From a Blast in a Ruined City — Seedance 2.0"></a>
 
 A 31-second action sequence of a black-suited heroine running down a wrecked street as an explosion erupts, then moving into a dark urban setting.
 
@@ -895,14 +895,14 @@ Create a 31-second ultra-realistic cinematic action sequence set in a destroyed 
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Aiwithmaha/status/2104390191352103147) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2104390191352103147&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Aiwithmaha/status/2104390191352103147) · [↑ Top](#top)
 
 ---
 
 <a id="p-2103665834019209256"></a>
 ### Pink-Haired Heroine Fights Through a School Hallway
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2103665732844179456/img/PvyGPYL3KJFDvyTk.jpg?format=webp&name=small" height="300" alt="Pink-Haired Heroine Fights Through a School Hallway — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2103665834019209256&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2103665732844179456/img/PvyGPYL3KJFDvyTk.jpg?format=webp&name=small" height="300" alt="Pink-Haired Heroine Fights Through a School Hallway — Seedance 2.5"></a>
 
 A dynamic action shot of a pink-haired young woman in a leather jacket confronting aggressive opponents in a locker-lined school hallway.
 
@@ -921,14 +921,14 @@ Cinematic dynamic action shot in a high school hallway lined with grey metal loc
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/juliaevee/status/2103665834019209256) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2103665834019209256&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/juliaevee/status/2103665834019209256) · [↑ Top](#top)
 
 ---
 
 <a id="p-2101963091647033700"></a>
 ### Two Women Fight Inside a Cluttered Apartment Studio
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101963019131682816/img/xxxSjhICQEmr1crt.jpg?format=webp&name=small" height="300" alt="Two Women Fight Inside a Cluttered Apartment Studio — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2101963091647033700&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101963019131682816/img/xxxSjhICQEmr1crt.jpg?format=webp&name=small" height="300" alt="Two Women Fight Inside a Cluttered Apartment Studio — Seedance 2.5"></a>
 
 A 13-second hand-to-hand fight starts with a wide shot of a messy room full of books and posters, then follows the escalating confrontation.
 
@@ -959,14 +959,14 @@ Ultra-realistic human movement, authentic fight choreography, detailed facial ex
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Noor_ul_ain43/status/2101963091647033700) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2101963091647033700&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Noor_ul_ain43/status/2101963091647033700) · [↑ Top](#top)
 
 ---
 
 <a id="p-2101911598889857028"></a>
 ### Pink Energy Superhero Rescues Hostages in a Street Fight
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911411991703552/img/E3TPvpFyEQK7RRsC.jpg?format=webp&name=small" height="300" alt="Pink Energy Superhero Rescues Hostages in a Street Fight — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2101911598889857028&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911411991703552/img/E3TPvpFyEQK7RRsC.jpg?format=webp&name=small" height="300" alt="Pink Energy Superhero Rescues Hostages in a Street Fight — Seedance 2.5"></a>
 
 A hero with glowing red eyes and pink energy trails takes on masked criminals outside an office building; the prompt is a scene-by-scene breakdown with timecodes.
 
@@ -1010,7 +1010,7 @@ Cartoon, 3d render, animation, anime, painting, illustration, low quality, low r
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/itsSaira_1/status/2101911598889857028) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2101911598889857028&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/itsSaira_1/status/2101911598889857028) · [↑ Top](#top)
 
 ---
 
@@ -1093,7 +1093,7 @@ Photorealistic live-action, practical-effects horror, realistic Japanese classro
 <a id="p-2100444829880914240"></a>
 ### Korean Martial-Arts Courtyard Warrior Portrait
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg?format=webp&name=small" height="300" alt="Korean Martial-Arts Courtyard Warrior Portrait — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2100444829880914240&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg?format=webp&name=small" height="300" alt="Korean Martial-Arts Courtyard Warrior Portrait — Seedance 2.0"></a>
 
 A fierce woman in a black martial-arts uniform stands in a traditional courtyard with wind in her short hair; the prompt is a single dense cinematic description.
 
@@ -1112,14 +1112,14 @@ Ultra-realistic cinematic scene of a fierce young woman standing confidently in 
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithMinal/status/2100444829880914240) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2100444829880914240&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithMinal/status/2100444829880914240) · [↑ Top](#top)
 
 ---
 
 <a id="p-2100181300049232193"></a>
 ### Midnight Rooftop Heist in 35 Shots
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2100181168352264192/img/PZNdKAWaCKtfEpsw.jpg?format=webp&name=small" height="300" alt="Midnight Rooftop Heist in 35 Shots — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2100181300049232193&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2100181168352264192/img/PZNdKAWaCKtfEpsw.jpg?format=webp&name=small" height="300" alt="Midnight Rooftop Heist in 35 Shots — Seedance 2.5"></a>
 
 A noir rooftop heist in a neon city is cut into 35 numbered shots over 30 seconds, with a reference image holding the lead's face and outfit.
 
@@ -1176,14 +1176,14 @@ Style: high-end cinematic action thriller, realistic tactical movement, neon noi
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2100181300049232193) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2100181300049232193&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2100181300049232193) · [↑ Top](#top)
 
 ---
 
 <a id="p-2100085430976930255"></a>
 ### Silver-Haired Warrior's Desert Martial-Arts Duel
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2100085395803561984/img/-bFHYEWzDDM5zFKh.jpg?format=webp&name=small" height="300" alt="Silver-Haired Warrior's Desert Martial-Arts Duel — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2100085430976930255&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2100085395803561984/img/-bFHYEWzDDM5zFKh.jpg?format=webp&name=small" height="300" alt="Silver-Haired Warrior's Desert Martial-Arts Duel — Seedance 2.5"></a>
 
 A white-robed warrior with long silver hair fights in a stormy desert in a 17-second fantasy martial-arts sequence.
 
@@ -1234,14 +1234,14 @@ Fast but controlled cinematic camera movement, low-angle tracking shots, overhea
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Noor_ul_ain43/status/2100085430976930255) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2100085430976930255&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Noor_ul_ain43/status/2100085430976930255) · [↑ Top](#top)
 
 ---
 
 <a id="p-2099006619988459985"></a>
 ### Fire Sword Warrior Against a Shadow Beast Swarm
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2099006429449592832/img/UrRUbiJBITg2GIEC.jpg?format=webp&name=small" height="300" alt="Fire Sword Warrior Against a Shadow Beast Swarm — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2099006619988459985&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2099006429449592832/img/UrRUbiJBITg2GIEC.jpg?format=webp&name=small" height="300" alt="Fire Sword Warrior Against a Shadow Beast Swarm — Seedance 2.5"></a>
 
 A black-robed swordsman slashes a blazing sword leaving fiery arcs as shadow beasts charge across a grass field; the prompt is a low-angle tracking shot description.
 
@@ -1260,14 +1260,14 @@ Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A ma
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/itsSaira_1/status/2099006619988459985) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2099006619988459985&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/itsSaira_1/status/2099006619988459985) · [↑ Top](#top)
 
 ---
 
 <a id="p-2098633792126677496"></a>
 ### Superbike Chase Through a Modern City Street
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2098633719540232192/img/Ktm8pccgFiuWy9Ra.jpg?format=webp&name=small" height="300" alt="Superbike Chase Through a Modern City Street — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2098633792126677496&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2098633719540232192/img/Ktm8pccgFiuWy9Ra.jpg?format=webp&name=small" height="300" alt="Superbike Chase Through a Modern City Street — Seedance 2.0"></a>
 
 A woman in a black racing suit rides a fast superbike through city streets; the prompt asks for a low-angle tracking shot with heavy motion blur.
 
@@ -1286,7 +1286,7 @@ Ultra-realistic cinematic action scene of a fierce young woman riding a sleek bl
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithMinal/status/2098633792126677496) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2098633792126677496&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithMinal/status/2098633792126677496) · [↑ Top](#top)
 
 ---
 
@@ -1418,7 +1418,7 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 <a id="p-2096437174942204277"></a>
 ### Anime Ice Magic Rooftop Fight
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096436975855349760/img/dpYyvFFXGHxOMsri.jpg?format=webp&name=small" height="300" alt="Anime Ice Magic Rooftop Fight — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2096437174942204277&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096436975855349760/img/dpYyvFFXGHxOMsri.jpg?format=webp&name=small" height="300" alt="Anime Ice Magic Rooftop Fight — Seedance 2.5"></a>
 
 A pastel-purple-haired schoolgirl dodges attacks with magical ice powers on a night rooftop, with fast tracking camera and fight choreography.
 
@@ -1437,7 +1437,7 @@ Cinematic high-action sequence set on an icy school rooftop at night. A cool ani
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/laviniavelle/status/2096437174942204277) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2096437174942204277&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/laviniavelle/status/2096437174942204277) · [↑ Top](#top)
 
 ---
 
@@ -1497,7 +1497,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 <a id="p-2095351192054595892"></a>
 ### Exhausted Girl in a Military Jacket Multi-Shot Scene
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095351116892663808/img/j2lNANYsstx4xvEB.jpg?format=webp&name=small" height="300" alt="Exhausted Girl in a Military Jacket Multi-Shot Scene — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2095351192054595892&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095351116892663808/img/j2lNANYsstx4xvEB.jpg?format=webp&name=small" height="300" alt="Exhausted Girl in a Military Jacket Multi-Shot Scene — Seedance 2.5"></a>
 
 A hard-cut multi-shot sequence following a dirty, tired 18-year-old in a faded green military jacket, with only natural diegetic sound.
 
@@ -1554,14 +1554,14 @@ Audio: ONLY natural breathing, house ambience, dog sounds, footsteps, ball sound
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2095351192054595892) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2095351192054595892&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2095351192054595892) · [↑ Top](#top)
 
 ---
 
 <a id="p-2093540453261946900"></a>
 ### Anime Girl Gunfight and Sword Duel
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2093540413529534464/img/5VB_dkLR8wp_wTdH.jpg?format=webp&name=small" height="300" alt="Anime Girl Gunfight and Sword Duel — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2093540453261946900&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2093540413529534464/img/5VB_dkLR8wp_wTdH.jpg?format=webp&name=small" height="300" alt="Anime Girl Gunfight and Sword Duel — Seedance 2.5"></a>
 
 A light-blue-haired anime-style girl fights a blonde rival with a handgun and a katana in a glass-and-concrete hall, filmed with a dynamic tracking camera.
 
@@ -1580,14 +1580,14 @@ Cinematic action sequence, dynamic tracking shot in a modern glass-and-concrete 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AvelyrahnAI/status/2093540453261946900) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2093540453261946900&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AvelyrahnAI/status/2093540453261946900) · [↑ Top](#top)
 
 ---
 
 <a id="p-2092438692820295703"></a>
 ### Rocket Buggy Wasteland Combat Run
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2092438548398137344/img/LdxtFwFJZspy1sFc.jpg?format=webp&name=small" height="300" alt="Rocket Buggy Wasteland Combat Run — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2092438692820295703&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2092438548398137344/img/LdxtFwFJZspy1sFc.jpg?format=webp&name=small" height="300" alt="Rocket Buggy Wasteland Combat Run — Seedance 2.5"></a>
 
 A 3D-rendered post-apocalyptic chase where a rocket-boosted dune buggy races a metal pipeline track while a warrior swings a spiked flail at enemies.
 
@@ -1606,14 +1606,14 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Zyrellix/status/2092438692820295703) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2092438692820295703&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Zyrellix/status/2092438692820295703) · [↑ Top](#top)
 
 ---
 
 <a id="p-2091423578197737772"></a>
 ### First-Person Supercar Assembly Sequence
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2091420990853308416/img/jlBjjIB6s4HrT5kk.jpg?format=webp&name=small" height="300" alt="First-Person Supercar Assembly Sequence — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2091423578197737772&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2091420990853308416/img/jlBjjIB6s4HrT5kk.jpg?format=webp&name=small" height="300" alt="First-Person Supercar Assembly Sequence — Seedance 2.5"></a>
 
 A strict first-person 15-second sequence where gloved hands assemble a supercar on an abandoned runway under bright sun, with physics and inertia called out.
 
@@ -1659,14 +1659,14 @@ The Aventador launches violently forward directly toward the POV camera. The rea
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/MissDelulu9/status/2091423578197737772) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2091423578197737772&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/MissDelulu9/status/2091423578197737772) · [↑ Top](#top)
 
 ---
 
 <a id="p-2091036019076272229"></a>
 ### Flooded Wet Market Rain Chase
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2091035801874481152/img/asVoA-za2GddIEMA.jpg?format=webp&name=small" height="300" alt="Flooded Wet Market Rain Chase — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2091036019076272229&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2091035801874481152/img/asVoA-za2GddIEMA.jpg?format=webp&name=small" height="300" alt="Flooded Wet Market Rain Chase — Seedance 2.5"></a>
 
 A young woman in a pink rain suit runs through narrow flooded market aisles in heavy rain, written as a realistic action sequence with escalating obstacles.
 
@@ -1701,7 +1701,7 @@ Photorealistic, ultra-detailed, cinematic Hollywood-style action scene, realisti
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AiwithElisia/status/2091036019076272229) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2091036019076272229&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AiwithElisia/status/2091036019076272229) · [↑ Top](#top)
 
 ---
 
@@ -1853,7 +1853,7 @@ Teleportation, clones, duplicates, extra/missing limbs, malformed anatomy, broke
 <a id="p-2088854230626865490"></a>
 ### Snowboarder Carves a Terrain Park and Lands a Butter Spin
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088853412586950656/img/2LgImD-MSye1sqEC.jpg?format=webp&name=small" height="300" alt="Snowboarder Carves a Terrain Park and Lands a Butter Spin — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088854230626865490&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088853412586950656/img/2LgImD-MSye1sqEC.jpg?format=webp&name=small" height="300" alt="Snowboarder Carves a Terrain Park and Lands a Butter Spin — Seedance 2.5"></a>
 
 A short documentary-style run with a controlled 180 jump and freestyle butter, and the prompt asks for English lip-sync and physically accurate board motion.
 
@@ -1872,14 +1872,14 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/nawalsehar/status/2088854230626865490) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088854230626865490&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/nawalsehar/status/2088854230626865490) · [↑ Top](#top)
 
 ---
 
 <a id="p-2088122680142930199"></a>
 ### Roller Skater Races Through Dangerous Mountain Terrain
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2088122598789947392/img/3DRXYaGsZLr9Mu90.jpg?format=webp&name=small" height="300" alt="Roller Skater Races Through Dangerous Mountain Terrain — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2088122680142930199&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2088122598789947392/img/3DRXYaGsZLr9Mu90.jpg?format=webp&name=small" height="300" alt="Roller Skater Races Through Dangerous Mountain Terrain — Seedance 2.5"></a>
 
 A 15-second realistic action sequence of a helmeted woman skating a risky mountain route, opening on a wide aerial shot and written in timed segments.
 
@@ -1905,14 +1905,14 @@ Negative: CGI appearance, cartoon look, artificial textures, unrealistic physics
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/SyntheSarah/status/2088122680142930199) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2088122680142930199&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/SyntheSarah/status/2088122680142930199) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087774014957850843"></a>
 ### Disaster Survival Sequence With Water and Explosions
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087773971144175616/img/umEMuwc9f8YVaNDC.jpg?format=webp&name=small" height="300" alt="Disaster Survival Sequence With Water and Explosions — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2087774014957850843&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087773971144175616/img/umEMuwc9f8YVaNDC.jpg?format=webp&name=small" height="300" alt="Disaster Survival Sequence With Water and Explosions — Seedance 2.5"></a>
 
 A 30-second blockbuster-style disaster scene following a soaked young woman from fear to determination, written as timecoded scenes with a fixed look for her.
 
@@ -1957,14 +1957,14 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Noor_ul_ain43/status/2087774014957850843) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2087774014957850843&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Noor_ul_ain43/status/2087774014957850843) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087390177190645831"></a>
 ### Diner Waitress Collision Explodes Into Slow-Motion Breakfast Chaos
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087390112871272448/img/kiuy-0l2l3AYE7CI.jpg?format=webp&name=small" height="300" alt="Diner Waitress Collision Explodes Into Slow-Motion Breakfast Chaos — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2087390177190645831&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087390112871272448/img/kiuy-0l2l3AYE7CI.jpg?format=webp&name=small" height="300" alt="Diner Waitress Collision Explodes Into Slow-Motion Breakfast Chaos — Seedance 2.5"></a>
 
 In a retro diner a girl crashes into a waitress with a full tray, and the prompt switches to dynamic tracking and super slow motion with time ranges per phase.
 
@@ -1983,7 +1983,7 @@ Photorealistic cinematic 1990s American diner, red vinyl booths, neon signs, chr
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithkhan/status/2087390177190645831) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2087390177190645831&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithkhan/status/2087390177190645831) · [↑ Top](#top)
 
 ---
 
@@ -2028,7 +2028,7 @@ A grainy 35mm-style continuous tracking shot follows a jumper over a harsh sunli
 <a id="p-2084901309988425731"></a>
 ### Two Cats Chase a Car on a Tiny Red Motorcycle
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084900500642930691/img/k2a2-R9si8E71Mh1.jpg?format=webp&name=small" height="300" alt="Two Cats Chase a Car on a Tiny Red Motorcycle — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2084901309988425731&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084900500642930691/img/k2a2-R9si8E71Mh1.jpg?format=webp&name=small" height="300" alt="Two Cats Chase a Car on a Tiny Red Motorcycle — Seedance 2.0"></a>
 
 Filmed from inside a moving car, two cats ride a small red motorcycle down a suburban road, with the driver cat's pose and expression spelled out in detail.
 
@@ -2051,14 +2051,14 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Just_sharon7/status/2084901309988425731) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2084901309988425731&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Just_sharon7/status/2084901309988425731) · [↑ Top](#top)
 
 ---
 
 <a id="p-2083585132917579834"></a>
 ### Young Woman Rides a Roller Coaster in Bright Sun
 
-<a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2083583425236119552/img/U7uXWdX5-AkrFDTj.jpg?format=webp&name=small" height="300" alt="Young Woman Rides a Roller Coaster in Bright Sun — Seedance 2.5"></a>
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2083585132917579834&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2083583425236119552/img/U7uXWdX5-AkrFDTj.jpg?format=webp&name=small" height="300" alt="Young Woman Rides a Roller Coaster in Bright Sun — Seedance 2.5"></a>
 
 A timecoded roller coaster scene with strong wind, motion blur and subtle handheld energy, opening on a woman seated in the car.
 
@@ -2095,14 +2095,14 @@ It's text to video, so you just have to copy, tweak and paste! Enjoy the quoted 
 
 </details>
 
-**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/techhalla/status/2083585132917579834) · [↑ Top](#top)
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2083585132917579834&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/techhalla/status/2083585132917579834) · [↑ Top](#top)
 
 ---
 
 <a id="p-2079428121133240602"></a>
 ### Adventure Hero Keeps One Look Across Cinematic Scenes
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2079428072974204928/img/KNIgiLTv2qL-mL03.jpg?format=webp&name=small" height="300" alt="Adventure Hero Keeps One Look Across Cinematic Scenes — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2079428121133240602&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2079428072974204928/img/KNIgiLTv2qL-mL03.jpg?format=webp&name=small" height="300" alt="Adventure Hero Keeps One Look Across Cinematic Scenes — Seedance 2.0"></a>
 
 A timeline-based live-action adventure prompt with fixed style, character, camera and lighting blocks to keep the same young man consistent.
 
@@ -2144,14 +2144,14 @@ Maintain one continuous freefall throughout the entire sequence with accurate gr
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/NababUddin2/status/2079428121133240602) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2079428121133240602&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/NababUddin2/status/2079428121133240602) · [↑ Top](#top)
 
 ---
 
 <a id="p-2071898991118237733"></a>
 ### Golden-Hour Street Duel Between Two Fashionable Women
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2071898931349356544/pu/img/IsL1U_eOuxKB9TD8.jpg?format=webp&name=small" height="300" alt="Golden-Hour Street Duel Between Two Fashionable Women — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2071898991118237733&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2071898931349356544/pu/img/IsL1U_eOuxKB9TD8.jpg?format=webp&name=small" height="300" alt="Golden-Hour Street Duel Between Two Fashionable Women — Seedance 2.0"></a>
 
 A 15-second action film on an empty industrial street, using over-the-shoulder framing and fashion styling for a face-off between two blonde women.
 
@@ -2180,14 +2180,14 @@ A cinematic 15-second golden-hour fashion action film set on an empty industrial
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/AIwithZeeshi/status/2071898991118237733) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2071898991118237733&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/AIwithZeeshi/status/2071898991118237733) · [↑ Top](#top)
 
 ---
 
 <a id="p-2056340933273358676"></a>
 ### Meteorite Streaks Over Rolling Hills at Dawn
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2056340548223713280/img/3emlRZ_58MNqCj1f.jpg?format=webp&name=small" height="300" alt="Meteorite Streaks Over Rolling Hills at Dawn — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2056340933273358676&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2056340548223713280/img/3emlRZ_58MNqCj1f.jpg?format=webp&name=small" height="300" alt="Meteorite Streaks Over Rolling Hills at Dawn — Seedance 2.0"></a>
 
 An ultra-wide pre-dawn aerial shot that moves fast over green hills and a calm lake as a burning meteorite descends across the frame.
 
@@ -2206,14 +2206,14 @@ Epic ultra-wide aerial shot, pre-dawn sky transitioning from dark blue to pink a
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/umesh_ai/status/2056340933273358676) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2056340933273358676&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/umesh_ai/status/2056340933273358676) · [↑ Top](#top)
 
 ---
 
 <a id="p-2051883545807999024"></a>
 ### Packed-Arena Women's Wrestling Finale
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2051883422805626884/pu/img/ZTgH5_WcdXfaLM3p.jpg?format=webp&name=small" height="300" alt="Packed-Arena Women's Wrestling Finale — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2051883545807999024&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2051883422805626884/pu/img/ZTgH5_WcdXfaLM3p.jpg?format=webp&name=small" height="300" alt="Packed-Arena Women's Wrestling Finale — Seedance 2.0"></a>
 
 A 15-second continuous sequence following a precise match progression from staredown through clothesline, submission, DDT counter and near fall.
 
@@ -2234,14 +2234,14 @@ Maintain consistent character identity and matching ring attire throughout. Emph
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/doctorwasif/status/2051883545807999024) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2051883545807999024&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/doctorwasif/status/2051883545807999024) · [↑ Top](#top)
 
 ---
 
 <a id="p-2043167918910029895"></a>
 ### Neon Alley Rain Fight Between Two Women
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2043167836919701504/pu/img/bk-pVOL3hi_V4RXi.jpg?format=webp&name=small" height="300" alt="Neon Alley Rain Fight Between Two Women — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2043167918910029895&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2043167836919701504/pu/img/bk-pVOL3hi_V4RXi.jpg?format=webp&name=small" height="300" alt="Neon Alley Rain Fight Between Two Women — Seedance 2.0"></a>
 
 A timecoded rainy-night fight in a neon alley with low-angle tracking, a whip-pan first strike and slow-motion time remaps, plus a detailed lens and grade header.
 
@@ -2274,14 +2274,14 @@ Low-angle shot. Eyes sharp, unwavering.
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/ZaraIrahh/status/2043167918910029895) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2043167918910029895&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/ZaraIrahh/status/2043167918910029895) · [↑ Top](#top)
 
 ---
 
 <a id="p-2037912650521162093"></a>
 ### Handheld POV of an Amphibious Beach Landing
 
-<a href="https://makernice.com/models/seedance-2-0-fast/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2037912005412356096/img/THZgvtJWpeUOKv3G.jpg?format=webp&name=small" height="300" alt="Handheld POV of an Amphibious Beach Landing — Seedance 2.0 Fast"></a>
+<a href="https://makernice.com/models/seedance-2-0-fast/?prompt=2037912650521162093&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2037912005412356096/img/THZgvtJWpeUOKv3G.jpg?format=webp&name=small" height="300" alt="Handheld POV of an Amphibious Beach Landing — Seedance 2.0 Fast"></a>
 
 A war-film style handheld first-person shot of a coastal landing; the post gives only a short description of the shot.
 
@@ -2304,14 +2304,14 @@ I’m sharing the prompt in the post below 👇
 
 </details>
 
-**[▶ Run Seedance 2.0 Fast on Makernice](https://makernice.com/models/seedance-2-0-fast/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/Artedeingenio/status/2037912650521162093) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 Fast on Makernice](https://makernice.com/models/seedance-2-0-fast/?prompt=2037912650521162093&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Artedeingenio/status/2037912650521162093) · [↑ Top](#top)
 
 ---
 
 <a id="p-2023928376655048994"></a>
 ### Meteor Strike Destroys a Modern City
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2023928251421519874/pu/img/YiYXup_XGlDm_IOS.jpg?format=webp&name=small" height="300" alt="Meteor Strike Destroys a Modern City — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2023928376655048994&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2023928251421519874/pu/img/YiYXup_XGlDm_IOS.jpg?format=webp&name=small" height="300" alt="Meteor Strike Destroys a Modern City — Seedance 2.0"></a>
 
 A single-paragraph disaster prompt stacking a collapsing bridge, exploding skyscrapers, a falling meteor, a shockwave and tsunami flooding the streets.
 
@@ -2330,14 +2330,14 @@ A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsi
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2023928376655048994) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2023928376655048994&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2023928376655048994) · [↑ Top](#top)
 
 ---
 
 <a id="p-2020794007291404726"></a>
 ### Armored Convoy Outruns a Giant Desert Sandstorm
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2020793688650362880/img/eHI-AVpGaqywAIpQ.jpg?format=webp&name=small" height="300" alt="Armored Convoy Outruns a Giant Desert Sandstorm — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2020794007291404726&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2020793688650362880/img/eHI-AVpGaqywAIpQ.jpg?format=webp&name=small" height="300" alt="Armored Convoy Outruns a Giant Desert Sandstorm — Seedance 2.0"></a>
 
 A timecoded three-shot desert chase where a tiny armored convoy flees a miles-high sandstorm, with scale, cockpit panic and score cues written into each shot.
 
@@ -2356,14 +2356,14 @@ Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desat
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/johnAGI168/status/2020794007291404726) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2020794007291404726&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/johnAGI168/status/2020794007291404726) · [↑ Top](#top)
 
 ---
 
 <a id="p-2020515830874636716"></a>
 ### Rainy Night Race Between Two Rival Drivers
 
-<a href="https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2020515570341314560/img/qUsFcxREyxLltU4f.jpg?format=webp&name=small" height="300" alt="Rainy Night Race Between Two Rival Drivers — Seedance 2.0"></a>
+<a href="https://makernice.com/models/seedance-2-0/?prompt=2020515830874636716&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2020515570341314560/img/qUsFcxREyxLltU4f.jpg?format=webp&name=small" height="300" alt="Rainy Night Race Between Two Rival Drivers — Seedance 2.0"></a>
 
 A 15-second, three-beat racing sequence in rain, cutting between two helmeted drivers inside their cars, with timecoded shots and a spoken dialogue cue.
 
@@ -2394,6 +2394,6 @@ The starting lights turn Green. Both cars accelerate in perfect sync on the wet 
 
 </details>
 
-**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts)** · [Original post](https://x.com/johnAGI168/status/2020515830874636716) · [↑ Top](#top)
+**[▶ Run Seedance 2.0 on Makernice](https://makernice.com/models/seedance-2-0/?prompt=2020515830874636716&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/johnAGI168/status/2020515830874636716) · [↑ Top](#top)
 
 ---
