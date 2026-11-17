@@ -14,7 +14,7 @@ A creator-style clip that keeps one woman's look from a reference image and lock
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2086286356201066501) · 2026-08-09 · ♥ 335
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,472 characters)</summary>

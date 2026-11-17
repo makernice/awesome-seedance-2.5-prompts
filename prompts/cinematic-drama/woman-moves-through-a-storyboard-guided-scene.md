@@ -14,7 +14,7 @@ A 17-second vertical cinematic video that uses a new character reference as the 
 
 **Seedance 2.5** · prompt by [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2104753404627268008) · 2026-09-29 · ♥ 144
 
-**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v12)
+**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

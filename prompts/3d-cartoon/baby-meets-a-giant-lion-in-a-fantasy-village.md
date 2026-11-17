@@ -14,7 +14,7 @@ A 15-second animated scene where a curious baby in a colorful village encounters
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2110921224788578390) · 2026-10-16 · ♥ 147
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (673 characters)</summary>

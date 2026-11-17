@@ -14,7 +14,7 @@ A UGC style clip of a woman talking about a camera's design and image quality wh
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2104895614412837085) · 2026-09-29 · ♥ 149
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (518 characters)</summary>

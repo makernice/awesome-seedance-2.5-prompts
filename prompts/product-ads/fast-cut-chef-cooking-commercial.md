@@ -14,7 +14,7 @@ A 15-second commercial of ten rapid scenes with whip-pan and speed-ramp transiti
 
 **Seedance 2.0** · prompt by [@Xaroon_x](https://x.com/Xaroon_x/status/2074441553469116470) · 2026-07-07 · ♥ 250
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,587 characters)</summary>

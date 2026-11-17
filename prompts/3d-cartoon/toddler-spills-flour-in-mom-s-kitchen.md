@@ -14,7 +14,7 @@ A 15-second vertical 3D animated comedy where a toddler tears a flour bag while 
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2109109590067675629) · 2026-10-11 · ♥ 184
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (751 characters)</summary>

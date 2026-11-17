@@ -14,7 +14,7 @@ A 15-second continuous shot following a man who runs, spins and slides from a pr
 
 **Seedance 2.0** · prompt by [@umesh_ai](https://x.com/umesh_ai/status/2054645327706341382) · 2026-05-13 · ♥ 297
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (960 characters)</summary>

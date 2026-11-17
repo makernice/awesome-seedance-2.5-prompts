@@ -14,7 +14,7 @@ A 15-second vertical fashion film from a fixed 90-degree overhead camera of a wo
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2102221702667309467) · 2026-09-22 · ♥ 258
 
-**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v12)
+**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

@@ -14,7 +14,7 @@ A thrown stone morphs scene by scene, each ending frame becoming the next start 
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2099728570625188123) · 2026-09-15 · ♥ 186
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 31 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 31 s, max 30 s per run)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

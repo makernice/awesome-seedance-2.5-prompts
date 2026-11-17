@@ -14,7 +14,7 @@ An adventurer stands at a cliff edge in mist and steps into the void so that eac
 
 **Seedance 2.0** · prompt by [@umesh_ai](https://x.com/umesh_ai/status/2042481009174987240) · 2026-04-10 · ♥ 210
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (980 characters)</summary>

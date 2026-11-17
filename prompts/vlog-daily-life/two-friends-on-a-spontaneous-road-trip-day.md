@@ -14,7 +14,7 @@ A 30-second nostalgic lifestyle short that opens from inside a shopping cart and
 
 **Seedance 2.0** · prompt by [@aiwithaayat](https://x.com/aiwithaayat/status/2103701422252683461) · 2026-09-26 · ♥ 168
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 32 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 32 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,184 characters)</summary>

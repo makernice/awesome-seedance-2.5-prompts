@@ -14,7 +14,7 @@ A first-person view of a young woman's ordinary summer evening, styled like a 20
 
 **Seedance 2.5** · prompt by [@harboriis](https://x.com/harboriis/status/2097564633242779830) · 2026-09-09 · ♥ 216
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,882 characters)</summary>

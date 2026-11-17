@@ -14,7 +14,7 @@ A blockbuster-style sci-fi action piece in a dark rainy city with smoke, fire an
 
 **Seedance 2.5** · prompt by [@NoOneIsHere2603](https://x.com/NoOneIsHere2603/status/2106981270085656888) · 2026-10-05 · ♥ 185
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,442 characters)</summary>

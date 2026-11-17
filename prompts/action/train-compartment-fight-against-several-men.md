@@ -14,7 +14,7 @@ A fast fight inside a crowded passenger train, where a young woman in a denim ja
 
 **Seedance 2.5** · prompt by [@Zoyavelle](https://x.com/Zoyavelle/status/2104802751435911223) · 2026-09-29 · ♥ 326
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,339 characters)</summary>

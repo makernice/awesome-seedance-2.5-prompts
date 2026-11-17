@@ -14,7 +14,7 @@ A 40-second animated adventure follows a baby otter-like animal; the prompt lock
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2096921381841813588) · 2026-09-07 · ♥ 136
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 41 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 41 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (4,404 characters)</summary>

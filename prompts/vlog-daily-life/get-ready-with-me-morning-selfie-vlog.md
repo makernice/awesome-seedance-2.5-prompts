@@ -14,7 +14,7 @@ A 30-second continuous handheld front-camera morning vlog of the same woman, wit
 
 **Seedance 2.5** · prompt by [@MahiraEhan](https://x.com/MahiraEhan/status/2106975072917311820) · 2026-10-05 · ♥ 326
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,129 characters)</summary>

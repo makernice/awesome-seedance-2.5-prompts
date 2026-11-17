@@ -14,7 +14,7 @@ A 30-second action-camera sequence from catching and cleaning a trout to grillin
 
 **Seedance 2.5** · prompt by [@abxxai](https://x.com/abxxai/status/2087189194720657649) · 2026-08-11 · ♥ 484
 
-**Rerun cost** for 28 s: 480p $3.228288 · 720p $7.2576 · 1080p $17.96256 · 4K $54.74 (price list v12)
+**Rerun cost** for 28 s: 480p $3.228288 · 720p $7.2576 · 1080p $17.96256 · 4K $54.74 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

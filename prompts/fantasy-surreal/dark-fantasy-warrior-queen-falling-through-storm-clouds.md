@@ -14,7 +14,7 @@ An 11-second sequence starts with a top-down shot of an armored blonde queen div
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2097879315912552864) · 2026-09-10 · ♥ 235
 
-**Rerun cost** for 11 s: 480p $1.268256 · 720p $2.8512 · 1080p $7.05672 · 4K $21.505 (price list v12)
+**Rerun cost** for 11 s: 480p $1.268256 · 720p $2.8512 · 1080p $7.05672 · 4K $21.505 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,875 characters)</summary>

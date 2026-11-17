@@ -14,7 +14,7 @@ A gritty medieval television-style scene mixing Steadicam and handheld shots ins
 
 **Seedance 2.5** · prompt by [@techhalla](https://x.com/techhalla/status/2083908360118616268) · 2026-08-02 · ♥ 574
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,877 characters)</summary>

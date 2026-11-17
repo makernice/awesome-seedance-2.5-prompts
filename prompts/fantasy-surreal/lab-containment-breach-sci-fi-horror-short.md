@@ -14,7 +14,7 @@ Five scientists in a research lab face a containment breach; the prompt asks for
 
 **Seedance 2.5** · prompt by [@auqibhabib](https://x.com/auqibhabib/status/2099725768310009982) · 2026-09-15 · ♥ 2,408
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,719 characters)</summary>

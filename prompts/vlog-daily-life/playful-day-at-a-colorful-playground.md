@@ -14,7 +14,7 @@ A Korean girl in a white shirt lies on a slide then sits quietly on a swing; the
 
 **Seedance 2.0** · prompt by [@Lianaalane](https://x.com/Lianaalane/status/2101889590621536594) · 2026-09-21 · ♥ 153
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 20 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 20 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (977 characters)</summary>

@@ -14,7 +14,7 @@ A single continuous take of a fashion editorial performance in a worn historic r
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2104544058471502330) · 2026-09-28 · ♥ 303
 
-**Rerun cost** for 28 s: 480p $3.228288 · 720p $7.2576 · 1080p $17.96256 · 4K $54.74 (price list v12)
+**Rerun cost** for 28 s: 480p $3.228288 · 720p $7.2576 · 1080p $17.96256 · 4K $54.74 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,397 characters)</summary>

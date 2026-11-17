@@ -14,7 +14,7 @@ A 15-second vertical clip styled as a viral phone recording of an unbelievable l
 
 **Seedance 2.5** · prompt by [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2107060987157524524) · 2026-10-05 · ♥ 144
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,827 characters)</summary>

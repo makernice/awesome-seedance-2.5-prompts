@@ -14,7 +14,7 @@ A 30-second photoreal miniature adventure inside a stationery shop, with a style
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2114373454946615618) · 2026-10-25 · ♥ 271
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,793 characters)</summary>
@@ -56,7 +56,7 @@ A live-action revenge comedy in a Seoul subway station with handheld camera, col
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2113841913065615450) · 2026-10-24 · ♥ 1,119
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,294 characters)</summary>
@@ -100,7 +100,7 @@ A 30-second golden-hour clip of a white futuristic supercar weaving through busy
 
 **Seedance 2.5** · prompt by [@aiwithaayat](https://x.com/aiwithaayat/status/2112025080335339907) · 2026-10-19 · ♥ 246
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,931 characters)</summary>
@@ -126,7 +126,7 @@ A 30-second photoreal miniature adventure where a small athletic woman climbs a 
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2111657888733442529) · 2026-10-18 · ♥ 244
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,780 characters)</summary>
@@ -160,7 +160,7 @@ A 30-second Los Angeles daylight chase seen from a single news helicopter, with 
 
 **Seedance 2.5** · prompt by [@CharaspowerAI](https://x.com/CharaspowerAI/status/2111517673276240251) · 2026-10-17 · ♥ 423
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,740 characters)</summary>
@@ -209,7 +209,7 @@ A live-action revenge comedy in a busy Seoul mall, with handheld camera and refl
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2111296614904336739) · 2026-10-17 · ♥ 216
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,972 characters)</summary>
@@ -247,7 +247,7 @@ A 30-second photoreal miniature-person comedy where an ordinary shower becomes a
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2110699529041310046) · 2026-10-15 · ♥ 558
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,860 characters)</summary>
@@ -311,7 +311,7 @@ A cinematic wuxia scene where a woman in a mint hanfu stands surrounded by maske
 
 **Seedance 2.5** · prompt by [@Zoyavelle](https://x.com/Zoyavelle/status/2110235870473461970) · 2026-10-14 · ♥ 284
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,261 characters)</summary>
@@ -359,7 +359,7 @@ A live-action revenge comedy in a Seoul subway station, with handheld camera, co
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2108760866422415701) · 2026-10-10 · ♥ 10,010
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,449 characters)</summary>
@@ -393,7 +393,7 @@ A 30-second night-time horror-action short where a guitarist fights attackers on
 
 **Seedance 2.5** · prompt by [@auqibhabib](https://x.com/auqibhabib/status/2108459477649543194) · 2026-10-09 · ♥ 609
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,042 characters)</summary>
@@ -470,7 +470,7 @@ A 15-second photoreal martial-arts short in a misty ancient temple hall with lig
 
 **Seedance 2.5** · prompt by [@aynellex](https://x.com/aynellex/status/2108422475730309602) · 2026-10-09 · ♥ 188
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,515 characters)</summary>
@@ -506,7 +506,7 @@ A 30-second photoreal miniature-person adventure through a household laundry set
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2108180243244818861) · 2026-10-08 · ♥ 429
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,533 characters)</summary>
@@ -548,7 +548,7 @@ A 30-second horror-action short that opens on an instant attack, written as a se
 
 **Seedance 2.5** · prompt by [@auqibhabib](https://x.com/auqibhabib/status/2107346452494381298) · 2026-10-06 · ♥ 733
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,230 characters)</summary>
@@ -628,7 +628,7 @@ A photorealistic horror sequence in a science lab where a Korean college student
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2106955772395659431) · 2026-10-05 · ♥ 820
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,577 characters)</summary>
@@ -682,7 +682,7 @@ A fast fight inside a crowded passenger train, where a young woman in a denim ja
 
 **Seedance 2.5** · prompt by [@Zoyavelle](https://x.com/Zoyavelle/status/2104802751435911223) · 2026-09-29 · ♥ 326
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,339 characters)</summary>
@@ -715,7 +715,7 @@ A 60-second action thriller with a red-scarfed woman in a dim classroom, structu
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2104793144743108833) · 2026-09-29 · ♥ 1,025
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 62 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 62 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (3,893 characters)</summary>
@@ -794,7 +794,7 @@ A 20-second two-part action piece with a continuity lock on the lead and his twi
 
 **Seedance 2.5** · prompt by [@itxsarmadd](https://x.com/itxsarmadd/status/2104536535370457576) · 2026-09-28 · ♥ 186
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,153 characters)</summary>
@@ -850,7 +850,7 @@ A 10-second action scene where a determined woman confronts a larger attacker on
 
 **Seedance 2.5** · prompt by [@Elvorya](https://x.com/Elvorya/status/2104450675656835476) · 2026-09-28 · ♥ 267
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,875 characters)</summary>
@@ -884,7 +884,7 @@ A 31-second action sequence of a black-suited heroine running down a wrecked str
 
 **Seedance 2.0** · prompt by [@Aiwithmaha](https://x.com/Aiwithmaha/status/2104390191352103147) · 2026-09-28 · ♥ 220
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 32 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 32 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,278 characters)</summary>
@@ -910,7 +910,7 @@ A dynamic action shot of a pink-haired young woman in a leather jacket confronti
 
 **Seedance 2.5** · prompt by [@juliaevee](https://x.com/juliaevee/status/2103665834019209256) · 2026-09-26 · ♥ 178
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (628 characters)</summary>
@@ -936,7 +936,7 @@ A 13-second hand-to-hand fight starts with a wide shot of a messy room full of b
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2101963091647033700) · 2026-09-21 · ♥ 364
 
-**Rerun cost** for 13 s: 480p $1.498848 · 720p $3.3696 · 1080p $8.33976 · 4K $25.415 (price list v12)
+**Rerun cost** for 13 s: 480p $1.498848 · 720p $3.3696 · 1080p $8.33976 · 4K $25.415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,040 characters)</summary>
@@ -974,7 +974,7 @@ A hero with glowing red eyes and pink energy trails takes on masked criminals ou
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2101911598889857028) · 2026-09-21 · ♥ 298
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 32 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 32 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,215 characters)</summary>
@@ -1025,7 +1025,7 @@ A streamer's facecam sits in the corner while open-world crime action plays in o
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2101176910244139187) · 2026-09-19 · ♥ 255
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1071,7 +1071,7 @@ A teacher is attacked after a drop of blood falls on a notebook and the ceiling 
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2100575957451153626) · 2026-09-17 · ♥ 1,083
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1101,7 +1101,7 @@ A fierce woman in a black martial-arts uniform stands in a traditional courtyard
 
 **Seedance 2.0** · prompt by [@AIwithMinal](https://x.com/AIwithMinal/status/2100444829880914240) · 2026-09-17 · ♥ 340
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 30 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 30 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (563 characters)</summary>
@@ -1127,7 +1127,7 @@ A noir rooftop heist in a neon city is cut into 35 numbered shots over 30 second
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2100181300049232193) · 2026-09-16 · ♥ 589
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,046 characters)</summary>
@@ -1191,7 +1191,7 @@ A white-robed warrior with long silver hair fights in a stormy desert in a 17-se
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2100085430976930255) · 2026-09-16 · ♥ 183
 
-**Rerun cost** for 18 s: 480p $2.075328 · 720p $4.6656 · 1080p $11.54736 · 4K $35.19 (price list v12)
+**Rerun cost** for 18 s: 480p $2.075328 · 720p $4.6656 · 1080p $11.54736 · 4K $35.19 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,724 characters)</summary>
@@ -1249,7 +1249,7 @@ A black-robed swordsman slashes a blazing sword leaving fiery arcs as shadow bea
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2099006619988459985) · 2026-09-13 · ♥ 538
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (768 characters)</summary>
@@ -1275,7 +1275,7 @@ A woman in a black racing suit rides a fast superbike through city streets; the 
 
 **Seedance 2.0** · prompt by [@AIwithMinal](https://x.com/AIwithMinal/status/2098633792126677496) · 2026-09-12 · ♥ 135
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 51 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 51 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (652 characters)</summary>
@@ -1301,7 +1301,7 @@ A single-page 16:9 storyboard lays out one continuous 30-second disaster surviva
 
 **Seedance 2.5** · prompt by [@Xaroon_x](https://x.com/Xaroon_x/status/2097267405399396457) · 2026-09-08 · ♥ 244
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1386,7 +1386,7 @@ A 30-second subway scene pairs a young woman and man in an action-comedy confron
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2097168171367338428) · 2026-09-08 · ♥ 1,024
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1426,7 +1426,7 @@ A pastel-purple-haired schoolgirl dodges attacks with magical ice powers on a ni
 
 **Seedance 2.5** · prompt by [@laviniavelle](https://x.com/laviniavelle/status/2096437174942204277) · 2026-09-06 · ♥ 284
 
-**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v12)
+**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (482 characters)</summary>
@@ -1452,7 +1452,7 @@ A timecoded shot list on a sleeper train where a feverish passenger shows dark v
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2095373753983369666) · 2026-09-03 · ♥ 946
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1505,7 +1505,7 @@ A hard-cut multi-shot sequence following a dirty, tired 18-year-old in a faded g
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2095351192054595892) · 2026-09-03 · ♥ 449
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,980 characters)</summary>
@@ -1569,7 +1569,7 @@ A light-blue-haired anime-style girl fights a blonde rival with a handgun and a 
 
 **Seedance 2.5** · prompt by [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2093540453261946900) · 2026-08-29 · ♥ 318
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (557 characters)</summary>
@@ -1595,7 +1595,7 @@ A 3D-rendered post-apocalyptic chase where a rocket-boosted dune buggy races a m
 
 **Seedance 2.5** · prompt by [@Zyrellix](https://x.com/Zyrellix/status/2092438692820295703) · 2026-08-26 · ♥ 208
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (907 characters)</summary>
@@ -1621,7 +1621,7 @@ A strict first-person 15-second sequence where gloved hands assemble a supercar 
 
 **Seedance 2.5** · prompt by [@MissDelulu9](https://x.com/MissDelulu9/status/2091423578197737772) · 2026-08-23 · ♥ 201
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,744 characters)</summary>
@@ -1674,7 +1674,7 @@ A young woman in a pink rain suit runs through narrow flooded market aisles in h
 
 **Seedance 2.5** · prompt by [@AiwithElisia](https://x.com/AiwithElisia/status/2091036019076272229) · 2026-08-22 · ♥ 291
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 43 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 43 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,724 characters)</summary>
@@ -1716,7 +1716,7 @@ A 30-second single-take chase with a permanent tilted camera, fast pans and orbi
 
 **Seedance 2.5** · prompt by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2089393496176427368) · 2026-08-17 · ♥ 114
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1766,7 +1766,7 @@ A 30-second brawl against a duplicate of the same woman, with her face taken fro
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2088878042034868640) · 2026-08-16 · ♥ 467
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1861,7 +1861,7 @@ A short documentary-style run with a controlled 180 jump and freestyle butter, a
 
 **Seedance 2.5** · prompt by [@nawalsehar](https://x.com/nawalsehar/status/2088854230626865490) · 2026-08-16 · ♥ 167
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (402 characters)</summary>
@@ -1887,7 +1887,7 @@ A 15-second realistic action sequence of a helmeted woman skating a risky mounta
 
 **Seedance 2.5** · prompt by [@SyntheSarah](https://x.com/SyntheSarah/status/2088122680142930199) · 2026-08-14 · ♥ 274
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,624 characters)</summary>
@@ -1920,7 +1920,7 @@ A 30-second blockbuster-style disaster scene following a soaked young woman from
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2087774014957850843) · 2026-08-13 · ♥ 335
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,778 characters)</summary>
@@ -1972,7 +1972,7 @@ In a retro diner a girl crashes into a waitress with a full tray, and the prompt
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2087390177190645831) · 2026-08-12 · ♥ 256
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,262 characters)</summary>
@@ -1998,7 +1998,7 @@ A grainy 35mm-style continuous tracking shot follows a jumper over a harsh sunli
 
 **Seedance 2.5** · prompt by [@mrdejie](https://x.com/mrdejie/status/2085996752809927146) · 2026-08-08 · ♥ 521
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -2036,7 +2036,7 @@ Filmed from inside a moving car, two cats ride a small red motorcycle down a sub
 
 **Seedance 2.0** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2084901309988425731) · 2026-08-05 · ♥ 314
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (982 characters)</summary>
@@ -2066,7 +2066,7 @@ A timecoded roller coaster scene with strong wind, motion blur and subtle handhe
 
 **Seedance 2.5** · prompt by [@techhalla](https://x.com/techhalla/status/2083585132917579834) · 2026-08-01 · ♥ 536
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,941 characters)</summary>
@@ -2110,7 +2110,7 @@ A timeline-based live-action adventure prompt with fixed style, character, camer
 
 **Seedance 2.0** · prompt by [@NababUddin2](https://x.com/NababUddin2/status/2079428121133240602) · 2026-07-21 · ♥ 2
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,842 characters)</summary>
@@ -2159,7 +2159,7 @@ A 15-second action film on an empty industrial street, using over-the-shoulder f
 
 **Seedance 2.0** · prompt by [@AIwithZeeshi](https://x.com/AIwithZeeshi/status/2071898991118237733) · 2026-06-30 · ♥ 134
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,347 characters)</summary>
@@ -2195,7 +2195,7 @@ An ultra-wide pre-dawn aerial shot that moves fast over green hills and a calm l
 
 **Seedance 2.0** · prompt by [@umesh_ai](https://x.com/umesh_ai/status/2056340933273358676) · 2026-05-18 · ♥ 200
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (774 characters)</summary>
@@ -2221,7 +2221,7 @@ A 15-second continuous sequence following a precise match progression from stare
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2051883545807999024) · 2026-05-06 · ♥ 145
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (768 characters)</summary>
@@ -2249,7 +2249,7 @@ A timecoded rainy-night fight in a neon alley with low-angle tracking, a whip-pa
 
 **Seedance 2.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2043167918910029895) · 2026-04-12 · ♥ 160
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,754 characters)</summary>
@@ -2289,7 +2289,7 @@ A war-film style handheld first-person shot of a coastal landing; the post gives
 
 **Seedance 2.0 Fast** · prompt by [@Artedeingenio](https://x.com/Artedeingenio/status/2037912650521162093) · 2026-03-28 · ♥ 256
 
-**Rerun cost** for 15 s: 720p $1.5408 (price list v12)
+**Rerun cost** for 15 s: 720p $1.5408 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (315 characters)</summary>
@@ -2319,7 +2319,7 @@ A single-paragraph disaster prompt stacking a collapsing bridge, exploding skysc
 
 **Seedance 2.0** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2023928376655048994) · 2026-02-18 · ♥ 486
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 86 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 86 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (546 characters)</summary>
@@ -2345,7 +2345,7 @@ A timecoded three-shot desert chase where a tiny armored convoy flees a miles-hi
 
 **Seedance 2.0** · prompt by [@johnAGI168](https://x.com/johnAGI168/status/2020794007291404726) · 2026-02-09 · ♥ 314
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (791 characters)</summary>
@@ -2371,7 +2371,7 @@ A 15-second, three-beat racing sequence in rain, cutting between two helmeted dr
 
 **Seedance 2.0** · prompt by [@johnAGI168](https://x.com/johnAGI168/status/2020515830874636716) · 2026-02-08 · ♥ 251
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (859 characters)</summary>

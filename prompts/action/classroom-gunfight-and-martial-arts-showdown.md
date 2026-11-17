@@ -14,7 +14,7 @@ A 60-second action thriller with a red-scarfed woman in a dim classroom, structu
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2104793144743108833) · 2026-09-29 · ♥ 1,025
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 62 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 62 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (3,893 characters)</summary>

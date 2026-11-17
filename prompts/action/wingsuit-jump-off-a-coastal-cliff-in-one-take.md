@@ -14,7 +14,7 @@ A grainy 35mm-style continuous tracking shot follows a jumper over a harsh sunli
 
 **Seedance 2.5** · prompt by [@mrdejie](https://x.com/mrdejie/status/2085996752809927146) · 2026-08-08 · ♥ 521
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

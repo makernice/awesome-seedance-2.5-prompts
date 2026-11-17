@@ -14,7 +14,7 @@ A 15-second renovation animation where the camera never moves, so only the room'
 
 **Seedance 2.0** · prompt by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2081371164728041980) · 2026-07-26 · ♥ 186
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,923 characters)</summary>

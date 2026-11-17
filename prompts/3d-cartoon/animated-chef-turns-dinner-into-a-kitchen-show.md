@@ -14,7 +14,7 @@ A 15-second 3D animated cooking scene in a restaurant kitchen where a young chef
 
 **Seedance 2.5** · prompt by [@AynahhX](https://x.com/AynahhX/status/2102946546035945875) · 2026-09-24 · ♥ 228
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,185 characters)</summary>

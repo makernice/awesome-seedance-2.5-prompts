@@ -14,7 +14,7 @@ A 15-second vlog following a woman in a maroon hoodie from waking up through tim
 
 **Seedance 2.0** · prompt by [@Lianaalane](https://x.com/Lianaalane/status/2116042775007474169) · 2026-10-30 · ♥ 196
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,419 characters)</summary>

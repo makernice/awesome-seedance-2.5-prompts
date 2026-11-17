@@ -14,7 +14,7 @@ A photorealistic badminton clip in an early-2000s camcorder look, following a yo
 
 **Seedance 2.0** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2080644588507959448) · 2026-07-24 · ♥ 181
 
-**Rerun cost** for 14 s: 720p $2.3856 · 1080p $5.95392 (price list v12)
+**Rerun cost** for 14 s: 720p $2.3856 · 1080p $5.95392 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,158 characters)</summary>

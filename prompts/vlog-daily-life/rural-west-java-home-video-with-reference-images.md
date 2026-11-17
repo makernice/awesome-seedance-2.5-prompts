@@ -14,7 +14,7 @@ A 30-second early-2000s home-video style clip set in rural Indonesia, using sepa
 
 **Seedance 2.5** · prompt by [@bozzxyz](https://x.com/bozzxyz/status/2104217955521482833) · 2026-09-27 · ♥ 1,431
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

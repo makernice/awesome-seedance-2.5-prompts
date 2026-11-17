@@ -14,7 +14,7 @@ A 9:16 beauty review storyboard of eight 1-second scenes covering packaging, tex
 
 **Seedance 2.0** · prompt by [@HaniaAi12](https://x.com/HaniaAi12/status/2077197938753953971) · 2026-07-15 · ♥ 235
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (568 characters)</summary>

@@ -14,7 +14,7 @@ A vertical family-animation style 3D short where a chubby baby stirs beside his 
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2103436558422638792) · 2026-09-25 · ♥ 205
 
-**Rerun cost** for 19 s: 480p $2.190624 · 720p $4.9248 · 1080p $12.18888 · 4K $37.145 (price list v12)
+**Rerun cost** for 19 s: 480p $2.190624 · 720p $4.9248 · 1080p $12.18888 · 4K $37.145 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,900 characters)</summary>

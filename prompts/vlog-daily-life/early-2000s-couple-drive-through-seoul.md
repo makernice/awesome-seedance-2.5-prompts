@@ -14,7 +14,7 @@ A 30-second home-camcorder style afternoon drive of a young Korean couple, with 
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2104776214066188611) · 2026-09-29 · ♥ 607
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,696 characters)</summary>

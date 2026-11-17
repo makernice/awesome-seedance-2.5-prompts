@@ -14,7 +14,7 @@ A 13-second hand-to-hand fight starts with a wide shot of a messy room full of b
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2101963091647033700) · 2026-09-21 · ♥ 364
 
-**Rerun cost** for 13 s: 480p $1.498848 · 720p $3.3696 · 1080p $8.33976 · 4K $25.415 (price list v12)
+**Rerun cost** for 13 s: 480p $1.498848 · 720p $3.3696 · 1080p $8.33976 · 4K $25.415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,040 characters)</summary>

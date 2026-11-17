@@ -14,7 +14,7 @@ A beat-synced 15-second template where the same character keeps walking forward 
 
 **Seedance 2.0** · prompt by [@aimikoda](https://x.com/aimikoda/status/2044573683377991767) · 2026-04-16 · ♥ 260
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,391 characters)</summary>

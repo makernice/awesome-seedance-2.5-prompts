@@ -14,7 +14,7 @@ A cheerful traveler films scenery from a Japanese bullet train and steps out at 
 
 **Seedance 2.0** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2078794504354799754) · 2026-07-19 · ♥ 143
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (550 characters)</summary>

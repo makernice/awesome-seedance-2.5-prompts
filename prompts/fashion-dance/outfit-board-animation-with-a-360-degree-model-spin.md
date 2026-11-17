@@ -14,7 +14,7 @@ A clean 8-second fashion infographic keeps an outfit-board layout on white while
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2101148067458347258) · 2026-09-19 · ♥ 327
 
-**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v12)
+**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,387 characters)</summary>

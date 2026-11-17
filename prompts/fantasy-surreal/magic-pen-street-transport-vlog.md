@@ -14,7 +14,7 @@ A 9:16 vlog mixing a live-action street with flat 2D anime stickers, where a mag
 
 **Seedance 2.5** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2095748874942263601) · 2026-09-04 · ♥ 397
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,139 characters)</summary>

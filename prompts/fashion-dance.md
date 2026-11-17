@@ -14,7 +14,7 @@ A 30-second sequence of skincare, makeup and a black outfit in a luxury apartmen
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2113469700541911254) · 2026-10-23 · ♥ 139
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,375 characters)</summary>
@@ -44,7 +44,7 @@ A 30-second street-fashion montage built from numbered shots that begin with an 
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2113244959990329635) · 2026-10-22 · ♥ 441
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,884 characters)</summary>
@@ -100,7 +100,7 @@ A 15-second photoreal beauty film starting with a high-angle shot, driven by an 
 
 **Seedance 2.0** · prompt by [@ariaxawan](https://x.com/ariaxawan/status/2112549449138651280) · 2026-10-20 · ♥ 176
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -140,7 +140,7 @@ A 10-second realistic video of a couple dancing in a Korean studio, with charact
 
 **Seedance 2.5** · prompt by [@MissDelulu9](https://x.com/MissDelulu9/status/2109896989475516789) · 2026-10-13 · ♥ 145
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,391 characters)</summary>
@@ -184,7 +184,7 @@ A top-down view of a woman resting on a Persian rug in a warm living room, seen 
 
 **Seedance 2.5** · prompt by [@Zoyavelle](https://x.com/Zoyavelle/status/2108060187840180394) · 2026-10-08 · ♥ 399
 
-**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v12)
+**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,349 characters)</summary>
@@ -214,7 +214,7 @@ A smooth full-body fashion walk that keeps the face, outfit and proportions from
 
 **Seedance 2.5** · prompt by [@HaniaAi12](https://x.com/HaniaAi12/status/2105845066514436402) · 2026-10-02 · ♥ 121
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,485 characters)</summary>
@@ -245,7 +245,7 @@ A roughly 9-second photoreal fashion film of a blonde woman with a flower behind
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2103032789910401038) · 2026-09-24 · ♥ 461
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -277,7 +277,7 @@ A 4-second fashion lookbook animation that starts from a layout image and keeps 
 
 **Seedance 2.5** · prompt by [@AI__TSUBAKI](https://x.com/AI__TSUBAKI/status/2102459655700287648) · 2026-09-22 · ♥ 1,177
 
-**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v12)
+**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -311,7 +311,7 @@ A 15-second vertical fashion film from a fixed 90-degree overhead camera of a wo
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2102221702667309467) · 2026-09-22 · ♥ 258
 
-**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v12)
+**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -339,7 +339,7 @@ A roughly 20-second fashion short with a pastel-haired woman moving through Haus
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2102013620066636225) · 2026-09-21 · ♥ 250
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -398,7 +398,7 @@ A clean 8-second fashion infographic keeps an outfit-board layout on white while
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2101148067458347258) · 2026-09-19 · ♥ 327
 
-**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v12)
+**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,387 characters)</summary>
@@ -424,7 +424,7 @@ A woman strolls Parisian streets in a white summer dress and magically changes i
 
 **Seedance 2.0** · prompt by [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2100456445900710158) · 2026-09-17 · ♥ 305
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,010 characters)</summary>
@@ -450,7 +450,7 @@ A woman in a cream faux-fur coat walks toward camera carrying skis at golden hou
 
 **Seedance 2.5** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2096826123330138410) · 2026-09-07 · ♥ 246
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (675 characters)</summary>
@@ -476,7 +476,7 @@ A fast-paced behind-the-scenes sequence of a model preparing for an outdoor shoo
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2088847910121484296) · 2026-08-16 · ♥ 137
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,383 characters)</summary>
@@ -545,7 +545,7 @@ A 15-second vlog that opens as a handheld selfie in a bedroom, with the girl spe
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2088839988792434997) · 2026-08-16 · ♥ 174
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,202 characters)</summary>
@@ -585,7 +585,7 @@ A single-image character sheet showing a K-pop star from several angles in a seq
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2088115229590753754) · 2026-08-14 · ♥ 137
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,801 characters)</summary>
@@ -628,7 +628,7 @@ A bright summer fashion clip that preserves one reference character's face, hair
 
 **Seedance 2.0** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2081383131668701519) · 2026-07-26 · ♥ 120
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -661,7 +661,7 @@ A playful backstage fitting-room vlog filmed on a handheld camcorder, with mirro
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2081353850779550056) · 2026-07-26 · ♥ 233
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,117 characters)</summary>

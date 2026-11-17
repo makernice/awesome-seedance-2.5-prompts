@@ -14,7 +14,7 @@ A camcorder-style gym clip where a Korean idol character pushes through core exe
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2103476205760774263) · 2026-09-25 · ♥ 906
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,281 characters)</summary>

@@ -14,7 +14,7 @@ A tiny golden-and-white hamster with a pink bow and oversized headphones in a wa
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2101493389115953586) · 2026-09-20 · ♥ 189
 
-**Rerun cost** for 12 s: 480p $1.383552 · 720p $3.1104 · 1080p $7.69824 · 4K $23.46 (price list v12)
+**Rerun cost** for 12 s: 480p $1.383552 · 720p $3.1104 · 1080p $7.69824 · 4K $23.46 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,302 characters)</summary>

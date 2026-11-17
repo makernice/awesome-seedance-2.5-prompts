@@ -14,7 +14,7 @@ A 15-second 3D educational clip where a toddler meets a car, bus and airplane, w
 
 **Seedance 2.5** · prompt by [@abs_crea8or](https://x.com/abs_crea8or/status/2108832872433893567) · 2026-10-10 · ♥ 121
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (472 characters)</summary>

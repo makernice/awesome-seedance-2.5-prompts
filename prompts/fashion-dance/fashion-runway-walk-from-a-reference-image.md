@@ -14,7 +14,7 @@ A smooth full-body fashion walk that keeps the face, outfit and proportions from
 
 **Seedance 2.5** · prompt by [@HaniaAi12](https://x.com/HaniaAi12/status/2105845066514436402) · 2026-10-02 · ♥ 121
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,485 characters)</summary>

@@ -14,7 +14,7 @@ A woman films a daily vlog at arm's length while leaving her building with her d
 
 **Seedance 2.5** · prompt by [@maxxmalist](https://x.com/maxxmalist/status/2085422370362110168) · 2026-08-06 · ♥ 677
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,823 characters)</summary>

@@ -14,7 +14,7 @@ A boy and a small white dragon play on giant leaves until a huge green-and-gold 
 
 **Seedance 2.5** · prompt by [@aaassa120](https://x.com/aaassa120/status/2098468425421259070) · 2026-09-11 · ♥ 135
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 149 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 149 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,439 characters)</summary>

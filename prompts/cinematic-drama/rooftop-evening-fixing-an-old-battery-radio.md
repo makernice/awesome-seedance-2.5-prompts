@@ -14,7 +14,7 @@ A woman tries to get an old radio working on an apartment rooftop before sunset;
 
 **Seedance 2.5** · prompt by [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2099707127267049912) · 2026-09-15 · ♥ 224
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (5,319 characters)</summary>

@@ -14,7 +14,7 @@ A 30-second creator-style social video of a young woman showing and using a new 
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2103689025676828948) · 2026-09-26 · ♥ 163
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,645 characters)</summary>

@@ -14,7 +14,7 @@ A fast-paced 30-second anime shows a pork cutlet rice bowl being cooked step by 
 
 **Seedance 2.5** · prompt by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2098845134326808734) · 2026-09-12 · ♥ 4,916
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

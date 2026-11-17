@@ -14,7 +14,7 @@ A 25-second dark-fantasy medieval scene where a young woman secretly tends a tin
 
 **Seedance 2.5** · prompt by [@SadiaMalik182](https://x.com/SadiaMalik182/status/2113908264387981758) · 2026-10-24 · ♥ 341
 
-**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v12)
+**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,260 characters)</summary>

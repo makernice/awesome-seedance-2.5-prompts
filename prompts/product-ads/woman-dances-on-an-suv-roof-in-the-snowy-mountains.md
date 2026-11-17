@@ -14,7 +14,7 @@ A wide shot of a young woman in grey casual wear performing fluid rhythmic dance
 
 **Seedance 2.0** · prompt by [@itxabdullaa](https://x.com/itxabdullaa/status/2067464091476853121) · 2026-06-18 · ♥ 187
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,009 characters)</summary>

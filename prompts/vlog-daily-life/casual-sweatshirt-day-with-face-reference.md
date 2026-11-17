@@ -14,7 +14,7 @@ A young woman in an oversized blue sweatshirt goes through a relaxed everyday sc
 
 **Seedance 2.5** · prompt by [@Ciri_ai](https://x.com/Ciri_ai/status/2091403033817272690) · 2026-08-23 · ♥ 141
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

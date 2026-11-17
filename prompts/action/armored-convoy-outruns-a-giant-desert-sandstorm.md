@@ -14,7 +14,7 @@ A timecoded three-shot desert chase where a tiny armored convoy flees a miles-hi
 
 **Seedance 2.0** · prompt by [@johnAGI168](https://x.com/johnAGI168/status/2020794007291404726) · 2026-02-09 · ♥ 314
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (791 characters)</summary>

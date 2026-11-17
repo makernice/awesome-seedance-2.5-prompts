@@ -14,7 +14,7 @@ An 81-second realistic snowy mountain sunset scene following a husky and the ani
 
 **Seedance 2.5** · prompt by [@RizwanAly07](https://x.com/RizwanAly07/status/2110654938472952253) · 2026-10-15 · ♥ 3,912
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 81 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 81 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,677 characters)</summary>

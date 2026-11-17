@@ -14,7 +14,7 @@ A high-quality 3D animated short in a sunlit forest meadow with two anthropomorp
 
 **Seedance 2.0** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2105256819623129130) · 2026-09-30 · ♥ 462
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 53 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 53 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (3,919 characters)</summary>

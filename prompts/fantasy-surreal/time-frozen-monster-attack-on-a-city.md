@@ -14,7 +14,7 @@ A structured prompt with subject, environment, time state and action sequence, w
 
 **Seedance 2.0** · prompt by [@Ciri_ai](https://x.com/Ciri_ai/status/2043958528797487336) · 2026-04-14 · ♥ 238
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 30 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 30 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (3,373 characters)</summary>

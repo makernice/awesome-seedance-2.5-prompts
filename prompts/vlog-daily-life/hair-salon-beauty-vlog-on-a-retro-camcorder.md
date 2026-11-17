@@ -14,7 +14,7 @@ A relaxed vanity-mirror vlog in an old camcorder look with a numbered storyboard
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2080634720824807476) · 2026-07-24 · ♥ 253
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,073 characters)</summary>

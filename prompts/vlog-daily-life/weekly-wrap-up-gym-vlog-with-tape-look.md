@@ -14,7 +14,7 @@ A calm end-of-week gym vlog in a camcorder style, with a Korean idol character, 
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2104187027935973745) · 2026-09-27 · ♥ 263
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 44 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 44 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,268 characters)</summary>

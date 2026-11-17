@@ -14,7 +14,7 @@ A humorous cartoon short about a panicked morning, a missed bus and a stressful 
 
 **Seedance 2.0** · prompt by [@noorwithwifi](https://x.com/noorwithwifi/status/2080354151750668360) · 2026-07-23 · ♥ 107
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (462 characters)</summary>

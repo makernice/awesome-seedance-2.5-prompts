@@ -14,7 +14,7 @@ A young schoolgirl in a white uniform shirt stands amid a chaotic classroom whil
 
 **Seedance 2.0** · prompt by [@Aiwithmaha](https://x.com/Aiwithmaha/status/2100787710424416603) · 2026-09-18 · ♥ 308
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,323 characters)</summary>

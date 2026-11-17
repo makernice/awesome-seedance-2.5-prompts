@@ -14,7 +14,7 @@ An early-2000s camcorder style clip of a woman in a pink crop top spending a pla
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2105860239375638663) · 2026-10-02 · ♥ 2,855
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

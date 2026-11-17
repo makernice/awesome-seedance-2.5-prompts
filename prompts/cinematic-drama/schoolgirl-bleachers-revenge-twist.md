@@ -14,7 +14,7 @@ A 23-second teen drama in golden light on stadium bleachers, with a comedic reve
 
 **Seedance 2.5** · prompt by [@ZoyaAi_](https://x.com/ZoyaAi_/status/2113486934781595986) · 2026-10-23 · ♥ 141
 
-**Rerun cost** for 23 s: 480p $2.651808 · 720p $5.9616 · 1080p $14.75496 · 4K $44.965 (price list v12)
+**Rerun cost** for 23 s: 480p $2.651808 · 720p $5.9616 · 1080p $14.75496 · 4K $44.965 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,046 characters)</summary>

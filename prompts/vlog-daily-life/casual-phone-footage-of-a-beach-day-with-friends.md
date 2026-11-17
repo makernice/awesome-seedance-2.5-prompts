@@ -14,7 +14,7 @@ A fake smartphone home video with handheld shake and quick jump cuts every one t
 
 **Seedance 2.0** · prompt by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2079189509586260101) · 2026-07-20 · ♥ 1,120
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

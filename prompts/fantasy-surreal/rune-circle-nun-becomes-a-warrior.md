@@ -14,7 +14,7 @@ A 30-second dark fantasy sequence where a kneeling nun in a rune circle transfor
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2108765927194198397) · 2026-10-10 · ♥ 480
 
-**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v12)
+**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,008 characters)</summary>

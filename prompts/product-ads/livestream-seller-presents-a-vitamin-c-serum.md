@@ -14,7 +14,7 @@ A cheerful influencer pitches a serum bottle to camera in a livestream style, wi
 
 **Seedance 2.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2047882444557242512) · 2026-04-25 · ♥ 483
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,346 characters)</summary>

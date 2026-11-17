@@ -14,7 +14,7 @@ A 60-second animated short about a rounded, funny-beaked bird creature resting b
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2096566193058693197) · 2026-09-06 · ♥ 128
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 59 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 59 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (3,234 characters)</summary>

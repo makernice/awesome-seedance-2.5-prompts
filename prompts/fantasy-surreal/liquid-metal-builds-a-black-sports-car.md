@@ -14,7 +14,7 @@ A hyper-real shot in a concrete garage where liquid metal assembles into a matte
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2109495654607446267) · 2026-10-12 · ♥ 380
 
-**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v12)
+**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (505 characters)</summary>

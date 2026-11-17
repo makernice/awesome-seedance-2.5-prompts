@@ -14,7 +14,7 @@ A 27-second psychological thriller that cuts between a frightening present and a
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2106808592523571360) · 2026-10-04 · ♥ 259
 
-**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v12)
+**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (6,023 characters)</summary>

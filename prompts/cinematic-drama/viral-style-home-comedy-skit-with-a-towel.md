@@ -14,7 +14,7 @@ A 30-second comedy skit imitates imperfect smartphone footage with handheld shak
 
 **Seedance 2.5** · prompt by [@YourAlphaMom](https://x.com/YourAlphaMom/status/2098541423062548561) · 2026-09-11 · ♥ 2,083
 
-**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v12)
+**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (6,705 characters)</summary>

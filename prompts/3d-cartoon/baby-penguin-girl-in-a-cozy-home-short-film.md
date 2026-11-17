@@ -14,7 +14,7 @@ A fluffy baby penguin with a pink bow stands shy on a striped rug in a warm home
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2101989437181988957) · 2026-09-21 · ♥ 130
 
-**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v12)
+**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,813 characters)</summary>

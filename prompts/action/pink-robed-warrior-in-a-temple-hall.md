@@ -14,7 +14,7 @@ A 15-second photoreal martial-arts short in a misty ancient temple hall with lig
 
 **Seedance 2.5** · prompt by [@aynellex](https://x.com/aynellex/status/2108422475730309602) · 2026-10-09 · ♥ 188
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,515 characters)</summary>

@@ -14,7 +14,7 @@ A 15-second photoreal beauty film starting with a high-angle shot, driven by an 
 
 **Seedance 2.0** · prompt by [@ariaxawan](https://x.com/ariaxawan/status/2112549449138651280) · 2026-10-20 · ♥ 176
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

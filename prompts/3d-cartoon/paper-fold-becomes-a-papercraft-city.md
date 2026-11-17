@@ -14,7 +14,7 @@ A 30-second cinematic piece set in a world made of paper, with each timecoded se
 
 **Seedance 2.5** · prompt by [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2088866007918268515) · 2026-08-16 · ♥ 420
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,551 characters)</summary>

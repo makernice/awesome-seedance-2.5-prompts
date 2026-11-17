@@ -14,7 +14,7 @@ A 15-second action film on an empty industrial street, using over-the-shoulder f
 
 **Seedance 2.0** · prompt by [@AIwithZeeshi](https://x.com/AIwithZeeshi/status/2071898991118237733) · 2026-06-30 · ♥ 134
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,347 characters)</summary>

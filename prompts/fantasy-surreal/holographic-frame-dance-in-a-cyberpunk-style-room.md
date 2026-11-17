@@ -14,7 +14,7 @@ A woman in a gray hooded jacket dances with hand-made geometric frames that open
 
 **Seedance 2.5** · prompt by [@Aqsahere_](https://x.com/Aqsahere_/status/2087386090315616601) · 2026-08-12 · ♥ 559
 
-**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v12)
+**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

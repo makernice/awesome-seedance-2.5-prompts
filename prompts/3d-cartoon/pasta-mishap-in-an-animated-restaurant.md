@@ -14,7 +14,7 @@ A 15-second 3D animated restaurant scene with expressive characters, comedic rea
 
 **Seedance 2.5** · prompt by [@Elvorya](https://x.com/Elvorya/status/2106974836887318797) · 2026-10-05 · ♥ 281
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,595 characters)</summary>

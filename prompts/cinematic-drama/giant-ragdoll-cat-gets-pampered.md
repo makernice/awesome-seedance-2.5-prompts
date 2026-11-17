@@ -14,7 +14,7 @@ A 30-second comedy of a very large fluffy cat and a young woman, moving from a b
 
 **Seedance 2.0** · prompt by [@Aiwithmaha](https://x.com/Aiwithmaha/status/2110921969420177453) · 2026-10-16 · ♥ 222
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 30 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 30 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,328 characters)</summary>

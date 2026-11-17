@@ -14,7 +14,7 @@ A single continuous shot where the camera dives to a speeder racing along a narr
 
 **Seedance 2.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2042813595726029184) · 2026-04-11 · ♥ 394
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,415 characters)</summary>

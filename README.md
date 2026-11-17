@@ -2,12 +2,12 @@
 
 <h1 align="center">Awesome Seedance 2.5 Prompts</h1>
 
-<p align="center"><b>357 Seedance 2.5 and 2.0 video prompts, hand-picked from creators on X</b> — not scraped. Every clip was watched and every prompt checked against the creator's own post,<br>each one credited and one click away from a rerun on Makernice with the price shown first.</p>
+<p align="center"><b>364 Seedance 2.5 and 2.0 video prompts, hand-picked from creators on X</b> — not scraped. Every clip was watched and every prompt checked against the creator's own post,<br>each one credited and one click away from a rerun on Makernice with the price shown first.</p>
 
 <p align="center">
-<a href="#-browse-by-category"><img src="https://img.shields.io/badge/prompts-357-111?style=flat-square"></a>
+<a href="#-browse-by-category"><img src="https://img.shields.io/badge/prompts-364-111?style=flat-square"></a>
 <a href="#-browse-by-category"><img src="https://img.shields.io/badge/categories-9-6e40c9?style=flat-square"></a>
-<img src="https://img.shields.io/badge/updated-2026--11--06-1f883d?style=flat-square">
+<img src="https://img.shields.io/badge/updated-2026--11--17-1f883d?style=flat-square">
 <a href="https://makernice.com/models/seedance-2-5/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts"><img src="https://img.shields.io/badge/Seedance%202.5-from%20%240.115296%2Fs-0969da?style=flat-square"></a>
 <a href="#%EF%B8%8F-license--reuse"><img src="https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY%204.0-yellow?style=flat-square"></a>
 </p>
@@ -33,8 +33,8 @@
 ## 🗂️ Browse by category
 
 <table>
-<tr><td width="33%" valign="top" align="center"><a href="prompts/vlog-daily-life.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2091396374864748544/img/y8POhEnMu-pi6fmg.jpg?format=webp&name=small" width="256" alt="Vlog &amp; Daily Life"></a><br><b>📱 <a href="prompts/vlog-daily-life.md">Vlog &amp; Daily Life</a></b><br><sub>67 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/fantasy-surreal.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2104063895006785536/img/wWpG-nG2KOV-7-GI.jpg?format=webp&name=small" width="256" alt="Fantasy &amp; Surreal"></a><br><b>🪐 <a href="prompts/fantasy-surreal.md">Fantasy &amp; Surreal</a></b><br><sub>57 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/action.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2104792885485088768/img/vymOJS_0V_eSnNdy.jpg?format=webp&name=small" width="256" alt="Action &amp; Martial Arts"></a><br><b>💥 <a href="prompts/action.md">Action &amp; Martial Arts</a></b><br><sub>56 prompts</sub></td></tr>
-<tr><td width="33%" valign="top" align="center"><a href="prompts/3d-cartoon.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2110654844193374208/img/CSqQfWz-A8X_1DIB.jpg?format=webp&name=small" width="256" alt="3D &amp; Cartoon"></a><br><b>🧸 <a href="prompts/3d-cartoon.md">3D &amp; Cartoon</a></b><br><sub>50 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/cinematic-drama.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2083357221883158528/img/8ImctZNgvJG1G2Qz.jpg?format=webp&name=small" width="256" alt="Cinematic &amp; Drama"></a><br><b>🎭 <a href="prompts/cinematic-drama.md">Cinematic &amp; Drama</a></b><br><sub>48 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/product-ads.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2098845053456404480/img/-wHAQaA0qoonjjhB.jpg?format=webp&name=small" width="256" alt="Product (UGC &amp; Ads)"></a><br><b>🛍️ <a href="prompts/product-ads.md">Product (UGC &amp; Ads)</a></b><br><sub>31 prompts</sub></td></tr>
+<tr><td width="33%" valign="top" align="center"><a href="prompts/vlog-daily-life.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2091396374864748544/img/y8POhEnMu-pi6fmg.jpg?format=webp&name=small" width="256" alt="Vlog &amp; Daily Life"></a><br><b>📱 <a href="prompts/vlog-daily-life.md">Vlog &amp; Daily Life</a></b><br><sub>69 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/fantasy-surreal.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2104063895006785536/img/wWpG-nG2KOV-7-GI.jpg?format=webp&name=small" width="256" alt="Fantasy &amp; Surreal"></a><br><b>🪐 <a href="prompts/fantasy-surreal.md">Fantasy &amp; Surreal</a></b><br><sub>58 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/action.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2104792885485088768/img/vymOJS_0V_eSnNdy.jpg?format=webp&name=small" width="256" alt="Action &amp; Martial Arts"></a><br><b>💥 <a href="prompts/action.md">Action &amp; Martial Arts</a></b><br><sub>56 prompts</sub></td></tr>
+<tr><td width="33%" valign="top" align="center"><a href="prompts/3d-cartoon.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2110654844193374208/img/CSqQfWz-A8X_1DIB.jpg?format=webp&name=small" width="256" alt="3D &amp; Cartoon"></a><br><b>🧸 <a href="prompts/3d-cartoon.md">3D &amp; Cartoon</a></b><br><sub>52 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/cinematic-drama.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2083357221883158528/img/8ImctZNgvJG1G2Qz.jpg?format=webp&name=small" width="256" alt="Cinematic &amp; Drama"></a><br><b>🎭 <a href="prompts/cinematic-drama.md">Cinematic &amp; Drama</a></b><br><sub>49 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/product-ads.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2098845053456404480/img/-wHAQaA0qoonjjhB.jpg?format=webp&name=small" width="256" alt="Product (UGC &amp; Ads)"></a><br><b>🛍️ <a href="prompts/product-ads.md">Product (UGC &amp; Ads)</a></b><br><sub>32 prompts</sub></td></tr>
 <tr><td width="33%" valign="top" align="center"><a href="prompts/travel-nature.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2106439575665364992/img/Lmryb57gSh4C23Cw.jpg?format=webp&name=small" width="256" alt="Travel &amp; Nature"></a><br><b>🏔️ <a href="prompts/travel-nature.md">Travel &amp; Nature</a></b><br><sub>21 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/fashion-dance.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2103030966587699200/img/Xg4u4SqkSkUXE0kX.jpg?format=webp&name=small" width="256" alt="Fashion &amp; Dance"></a><br><b>👗 <a href="prompts/fashion-dance.md">Fashion &amp; Dance</a></b><br><sub>18 prompts</sub></td><td width="33%" valign="top" align="center"><a href="prompts/anime.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2021412238716817408/img/7a2NXCgo5vLqDMGI.jpg?format=webp&name=small" width="256" alt="Anime"></a><br><b>🌸 <a href="prompts/anime.md">Anime</a></b><br><sub>9 prompts</sub></td></tr>
 </table>
 
@@ -47,7 +47,7 @@
 
 ## 🔥 Most liked
 
-Likes on the original X post, read on 2026-11-06.
+Likes on the original X post, read on 2026-11-17.
 
 | # | | Prompt | Category | Length | Creator | ♥ on X |
 |---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Likes on the original X post, read on 2026-11-06.
 
 ## 🎬 Seedance 2.5 at a glance
 
-| Model on Makernice (price list v12) | Length per run | Price per second | Modes | Aspect ratios |
+| Model on Makernice (price list v15) | Length per run | Price per second | Modes | Aspect ratios |
 |---|---|---|---|---|
 | Seedance 2.5 | 4–30 s | 480p $0.115296 · 720p $0.2592 · 1080p $0.64152 · 4K $1.955 | Text-to-video · Image-to-video · First and last frame · up to 16 reference images | adaptive, 16:9, 9:16, 1:1, 4:3, 3:4, 21:9, 9:21 |
 | Seedance 2.0 | 4–15 s | 720p $0.1704 · 1080p $0.42528 | Text-to-video · Image-to-video · First and last frame · up to 9 reference images | 21:9, 16:9, 4:3, 1:1, 3:4, 9:16 |
@@ -74,10 +74,10 @@ Failed, timed-out or canceled-while-queued runs release the hold in full.
 
 ## 💡 What these prompts teach
 
-- **Long clips are written in parts.** 148 of the 357 split the clip into numbered shots, scenes or time codes.
-- **Name the camera.** 336 of the 357 say how the camera moves or where it sits.
-- **Write the sound.** 167 of the 357 describe what you should hear.
-- **Length is not quality.** These run from 280 to 16,149 characters.
+- **Long clips are written in parts.** 154 of the 364 split the clip into numbered shots, scenes or time codes.
+- **Name the camera.** 343 of the 364 say how the camera moves or where it sits.
+- **Write the sound.** 171 of the 364 describe what you should hear.
+- **Length is not quality.** These run from 280 to 18,101 characters.
 
 ## ▶️ Run these prompts
 
@@ -102,13 +102,13 @@ curl -s https://api.makernice.com/v1/generations/quote \
 
 | Metric | Value |
 |---|---|
-| Prompts in this repository | 357 |
-| Unique creators | 103 |
+| Prompts in this repository | 364 |
+| Unique creators | 107 |
 | Categories | 9 |
-| Multi-shot or time-coded prompts | 148 |
-| Originals that use reference images | 64 |
-| Median prompt length | 2,262 characters |
-| Last updated | 2026-11-06 |
+| Multi-shot or time-coded prompts | 154 |
+| Originals that use reference images | 65 |
+| Median prompt length | 2,292 characters |
+| Last updated | 2026-11-17 |
 
 ## 🤝 How to contribute
 

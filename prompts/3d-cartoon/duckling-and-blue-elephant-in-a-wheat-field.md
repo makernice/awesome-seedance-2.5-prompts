@@ -14,7 +14,7 @@ A 24-second whimsical 3D animated short at sunset where a tiny duckling in a str
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2103672061613019181) · 2026-09-26 · ♥ 154
 
-**Rerun cost** for 24 s: 480p $2.767104 · 720p $6.2208 · 1080p $15.39648 · 4K $46.92 (price list v12)
+**Rerun cost** for 24 s: 480p $2.767104 · 720p $6.2208 · 1080p $15.39648 · 4K $46.92 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,166 characters)</summary>

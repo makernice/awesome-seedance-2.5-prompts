@@ -14,7 +14,7 @@ A 31-second action sequence of a black-suited heroine running down a wrecked str
 
 **Seedance 2.0** · prompt by [@Aiwithmaha](https://x.com/Aiwithmaha/status/2104390191352103147) · 2026-09-28 · ♥ 220
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 32 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 32 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,278 characters)</summary>

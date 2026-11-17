@@ -14,7 +14,7 @@ A 15-second battle starts with a floating armored warrior and a huge dragon in a
 
 **Seedance 2.0** · prompt by [@Aiwithmaha](https://x.com/Aiwithmaha/status/2100417339716141116) · 2026-09-17 · ♥ 261
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

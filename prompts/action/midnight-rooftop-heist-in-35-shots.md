@@ -14,7 +14,7 @@ A noir rooftop heist in a neon city is cut into 35 numbered shots over 30 second
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2100181300049232193) · 2026-09-16 · ♥ 589
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,046 characters)</summary>

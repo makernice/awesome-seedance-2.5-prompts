@@ -14,7 +14,7 @@ A live-action style travel vlog that keeps the same paragliding outfit and woman
 
 **Seedance 2.0** · prompt by [@CaliraVal](https://x.com/CaliraVal/status/2079422224004698416) · 2026-07-21 · ♥ 214
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 33 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 33 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,723 characters)</summary>

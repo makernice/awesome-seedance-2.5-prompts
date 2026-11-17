@@ -14,7 +14,7 @@ A vertical 30-second clip filmed like a friend's phone video, following a woman 
 
 **Seedance 2.5** · prompt by [@mightyking](https://x.com/mightyking/status/2089299068514148655) · 2026-08-17 · ♥ 2,030
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,795 characters)</summary>

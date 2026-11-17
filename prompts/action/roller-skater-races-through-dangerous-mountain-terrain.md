@@ -14,7 +14,7 @@ A 15-second realistic action sequence of a helmeted woman skating a risky mounta
 
 **Seedance 2.5** · prompt by [@SyntheSarah](https://x.com/SyntheSarah/status/2088122680142930199) · 2026-08-14 · ♥ 274
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,624 characters)</summary>

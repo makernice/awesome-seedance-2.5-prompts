@@ -14,7 +14,7 @@ A scene-by-scene prompt with timecodes where a bearded man holding a glowing wan
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2109129359441457193) · 2026-10-11 · ♥ 456
 
-**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v12)
+**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,514 characters)</summary>

@@ -14,7 +14,7 @@ A 15-second stop-motion look miniature fantasy that places a handcrafted witch c
 
 **Seedance 2.5** · prompt by [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2104881979485463035) · 2026-09-29 · ♥ 11
 
-**Rerun cost** for 21 s: 480p $2.421216 · 720p $5.4432 · 1080p $13.47192 · 4K $41.055 (price list v12)
+**Rerun cost** for 21 s: 480p $2.421216 · 720p $5.4432 · 1080p $13.47192 · 4K $41.055 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,961 characters)</summary>

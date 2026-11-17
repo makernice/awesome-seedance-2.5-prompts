@@ -14,7 +14,7 @@ A 25-second lifestyle film moving from a coffee shop to seaside moments in a coa
 
 **Seedance 2.5** · prompt by [@aiwithaayat](https://x.com/aiwithaayat/status/2110600258871013510) · 2026-10-15 · ♥ 239
 
-**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v12)
+**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,321 characters)</summary>

@@ -14,7 +14,7 @@ A 30-second raw handheld vlog that relies on a reference image for the woman's f
 
 **Seedance 2.5** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2084969852171939875) · 2026-08-05 · ♥ 235
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

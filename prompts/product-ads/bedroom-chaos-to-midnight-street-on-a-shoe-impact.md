@@ -14,7 +14,7 @@ A 10-second, 2-shot clip hard-cuts from a messy bedroom to a night street exactl
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2099332819768291755) · 2026-09-14 · ♥ 219
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

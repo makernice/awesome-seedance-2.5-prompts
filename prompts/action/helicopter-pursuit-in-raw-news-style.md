@@ -14,7 +14,7 @@ A 30-second Los Angeles daylight chase seen from a single news helicopter, with 
 
 **Seedance 2.5** · prompt by [@CharaspowerAI](https://x.com/CharaspowerAI/status/2111517673276240251) · 2026-10-17 · ♥ 423
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,740 characters)</summary>

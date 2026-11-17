@@ -14,7 +14,7 @@ Two plush 3D rabbits sit on a sofa while the pink one applies lipstick and makes
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2099683790717325390) · 2026-09-15 · ♥ 424
 
-**Rerun cost** for 22 s: 480p $2.536512 · 720p $5.7024 · 1080p $14.11344 · 4K $43.01 (price list v12)
+**Rerun cost** for 22 s: 480p $2.536512 · 720p $5.7024 · 1080p $14.11344 · 4K $43.01 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,036 characters)</summary>

@@ -14,7 +14,7 @@ A 10-second dark fantasy action scene where a fire-wielding man calls down flame
 
 **Seedance 2.5** · prompt by [@itxabdullaa](https://x.com/itxabdullaa/status/2103698890516308313) · 2026-09-26 · ♥ 235
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

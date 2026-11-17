@@ -14,7 +14,7 @@ A 20-second 3D animated educational clip of a toddler girl at a small table in a
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2108381024417993043) · 2026-10-09 · ♥ 304
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,791 characters)</summary>

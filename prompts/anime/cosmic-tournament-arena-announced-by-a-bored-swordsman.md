@@ -14,7 +14,7 @@ An anime crossover where a relaxed wooden-sword narrator announces tournament ru
 
 **Seedance 2.0** · prompt by [@NACHOS2D_](https://x.com/NACHOS2D_/status/2021295886978908547) · 2026-02-10 · ♥ 288
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,495 characters)</summary>

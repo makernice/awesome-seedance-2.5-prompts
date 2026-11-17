@@ -14,7 +14,7 @@ A 20-second vertical smartphone-style comedy of a baby in a tiny doctor coat hel
 
 **Seedance 2.5** · prompt by [@aiwithaayat](https://x.com/aiwithaayat/status/2113854017420108258) · 2026-10-24 · ♥ 200
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,987 characters)</summary>

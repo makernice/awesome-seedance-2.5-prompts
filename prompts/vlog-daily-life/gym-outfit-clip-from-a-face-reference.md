@@ -14,7 +14,7 @@ A woman in a black gym outfit with hair tied back, where the prompt locks face a
 
 **Seedance 2.5** · prompt by [@QAiStudio](https://x.com/QAiStudio/status/2093565477192917480) · 2026-08-29 · ♥ 184
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

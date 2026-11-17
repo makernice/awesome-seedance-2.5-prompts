@@ -14,7 +14,7 @@ A colorful 3D animated educational clip centered on a toddler boy in a cream shi
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2107066879038857330) · 2026-10-05 · ♥ 274
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 58 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 58 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,590 characters)</summary>

@@ -14,7 +14,7 @@ A single unbroken shot moving from hallway through a door peephole into an apart
 
 **Seedance 2.5** · prompt by [@CharaspowerAI](https://x.com/CharaspowerAI/status/2110792869610991923) · 2026-10-15 · ♥ 164
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (388 characters)</summary>

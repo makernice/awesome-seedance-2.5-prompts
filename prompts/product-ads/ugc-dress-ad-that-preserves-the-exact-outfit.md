@@ -14,7 +14,7 @@ A 15-second vertical UGC-style fashion ad with strict instructions to keep the d
 
 **Seedance 2.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2079455816772649210) · 2026-07-21 · ♥ 73
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

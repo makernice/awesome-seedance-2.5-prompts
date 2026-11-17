@@ -14,7 +14,7 @@ A claymation caricature of an ancient hero sailing a tiny wooden ship through a 
 
 **Seedance 2.0** · prompt by [@miilesus](https://x.com/miilesus/status/2080744222571848176) · 2026-07-24 · ♥ 42
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (776 characters)</summary>

@@ -14,7 +14,7 @@ A short vlog of a young woman in a mustard shirt and wrap skirt, with a long sce
 
 **Seedance 2.5** · prompt by [@RishuaVR](https://x.com/RishuaVR/status/2089204108175741157) · 2026-08-17 · ♥ 4,723
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,721 characters)</summary>

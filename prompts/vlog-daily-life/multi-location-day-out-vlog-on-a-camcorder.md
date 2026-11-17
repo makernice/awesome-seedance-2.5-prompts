@@ -14,7 +14,7 @@ A handheld camcorder-style vlog moving through several locations, with a camera 
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2081716168180809949) · 2026-07-27 · ♥ 284
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,027 characters)</summary>

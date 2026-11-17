@@ -14,7 +14,7 @@ A 17-second 3D animated scene in a fantasy garden of giant strawberries, waterme
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2108504570603491475) · 2026-10-09 · ♥ 176
 
-**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v12)
+**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,536 characters)</summary>

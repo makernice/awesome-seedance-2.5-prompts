@@ -14,7 +14,7 @@ A 15-second vlog that opens as a handheld selfie in a bedroom, with the girl spe
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2088839988792434997) · 2026-08-16 · ♥ 174
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,202 characters)</summary>

@@ -14,7 +14,7 @@ A stylish fashion sequence that begins on red heels stepping from a black car on
 
 **Seedance 2.0** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2089217062040453196) · 2026-08-17 · ♥ 192
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 16 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 16 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,051 characters)</summary>

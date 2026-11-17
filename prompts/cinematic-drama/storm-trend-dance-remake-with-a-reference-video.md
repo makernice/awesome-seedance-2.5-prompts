@@ -14,7 +14,7 @@ A reference video supplies motion, camera and cut timing while a reference photo
 
 **Seedance 2.5** · prompt by [@john_my07](https://x.com/john_my07/status/2100115896111161691) · 2026-09-16 · ♥ 410
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

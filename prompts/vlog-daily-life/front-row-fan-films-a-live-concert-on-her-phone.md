@@ -14,7 +14,7 @@ A 30-second vertical clip shot as a smartphone video from the front-row barricad
 
 **Seedance 2.5** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2102613869365772296) · 2026-09-23 · ♥ 228
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (7,578 characters)</summary>

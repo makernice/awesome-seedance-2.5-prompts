@@ -14,7 +14,7 @@ A timelapse prompt that grows a flat floor plan into a finished house using two 
 
 **Seedance 2.0** · prompt by [@craftian_keskin](https://x.com/craftian_keskin/status/2075669026508853393) · 2026-07-10 · ♥ 22
 
-**Rerun cost** for 13 s: 720p $2.2152 · 1080p $5.52864 (price list v12)
+**Rerun cost** for 13 s: 720p $2.2152 · 1080p $5.52864 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

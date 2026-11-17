@@ -14,7 +14,7 @@ An 18-second vertical 3D animated clip of a toddler playing with large shiny bal
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2109964438225002843) · 2026-10-13 · ♥ 144
 
-**Rerun cost** for 19 s: 480p $2.190624 · 720p $4.9248 · 1080p $12.18888 · 4K $37.145 (price list v12)
+**Rerun cost** for 19 s: 480p $2.190624 · 720p $4.9248 · 1080p $12.18888 · 4K $37.145 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,526 characters)</summary>

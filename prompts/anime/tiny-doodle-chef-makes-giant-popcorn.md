@@ -14,7 +14,7 @@ A hand-drawn 2D girl in a pink apron makes a huge bowl of popcorn in a realistic
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2105619247393321169) · 2026-10-01 · ♥ 197
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,134 characters)</summary>

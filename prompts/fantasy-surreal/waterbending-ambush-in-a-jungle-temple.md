@@ -14,7 +14,7 @@ A 10-second live-action fantasy action piece with timed beats, realistic water e
 
 **Seedance 2.5** · prompt by [@itxsarmadd](https://x.com/itxsarmadd/status/2103694941260222603) · 2026-09-26 · ♥ 398
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

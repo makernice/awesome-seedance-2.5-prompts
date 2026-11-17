@@ -1,7 +1,94 @@
 <a id="top"></a>
 # 🛍️ Product (UGC & Ads) — Seedance 2.5 prompts
 
-31 prompts · Product shots, commercials and UGC-style ads. · [← All categories](../README.md#%EF%B8%8F-browse-by-category)
+32 prompts · Product shots, commercials and UGC-style ads. · [← All categories](../README.md#%EF%B8%8F-browse-by-category)
+
+<a id="p-2120813805592625569"></a>
+### Unbranded Espresso Machine Product Commercial
+
+<a href="https://makernice.com/models/seedance-2-5/?prompt=2120813805592625569&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2120813278867939328/img/0BDteg-iyf_v8GQQ.jpg?format=webp&name=small" height="300" alt="Unbranded Espresso Machine Product Commercial — Seedance 2.5"></a>
+
+A 30-second espresso machine ad: portafilter and tamping macros, crema extraction, steam wand and latte art, captioned features and a MAKE EVERY MORNING MATTER end card.
+
+`Product (UGC & Ads)` `30 s` `16:9` `Multi-shot` `Sound cues`
+
+**Seedance 2.5** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2120813805592625569) · 2026-11-12 · ♥ 88
+
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
+
+<details>
+<summary><b>Prompt</b> (3,632 characters)</summary>
+
+```text
+Create an exactly 30-second ultra-photorealistic premium product advertisement for an original, unbranded professional espresso machine. 16:9, 1280x720, cinematic live-action commercial, luxury coffee campaign, sophisticated lighting, realistic coffee and milk physics, precise product continuity.
+
+PRODUCT DESIGN:
+A compact premium espresso machine with a brushed stainless-steel body, matte charcoal side panels, polished metal portafilter, elegant pressure gauge, tactile rotary controls, transparent water reservoir and a precision steam wand. Minimal abstract geometric detail only. Absolutely no brand names, lettering, recognizable logos or trademarks.
+
+SHOT 1 — 0.000–2.500s:
+A dark luxury kitchen at sunrise. The espresso machine stands on a black stone countertop. A narrow golden light sweeps across its metal body as the camera slowly pushes forward.
+
+SHOT 2 — 2.500–5.000s:
+Extreme macro of the polished portafilter locking into place. Show detailed metal texture, precision edges and realistic reflections.
+ON-SCREEN CAPTION: “PRECISION BREWING DESIGN”
+Display during the portafilter close-up.
+
+SHOT 3 — 5.000–7.500s:
+Fresh coffee grounds fall into the portafilter. A hand gently levels and tamps the grounds with realistic movements.
+ON-SCREEN CAPTION: “PRECISE COFFEE PREPARATION”
+Synchronize with the tamping action.
+
+SHOT 4 — 7.500–10.000s:
+The portafilter locks into the machine. A finger presses the brew control, and the machine activates.
+ON-SCREEN CAPTION: “ONE-TOUCH BREW CONTROL”
+Display exactly when the control is pressed.
+
+SHOT 5 — 10.000–12.500s:
+Extreme macro of rich espresso flowing from the spouts into a small ceramic cup. Golden crema develops naturally. Beautiful slow-motion liquid details.
+ON-SCREEN CAPTION: “RICH ESPRESSO EXTRACTION”
+Display as the espresso begins flowing.
+
+SHOT 6 — 12.500–15.000s:
+The steam wand releases controlled steam into a stainless-steel milk pitcher. Milk moves in a realistic circular motion.
+ON-SCREEN CAPTION: “INTEGRATED STEAM WAND”
+Show during the steaming demonstration.
+
+SHOT 7 — 15.000–17.500s:
+A barista pours silky milk into the espresso, creating a delicate latte-art pattern. Macro focus captures the flowing milk and crema.
+
+SHOT 8 — 17.500–20.000s:
+Close-up of the pressure gauge and rotary controls. The camera glides across the brushed-metal finish.
+ON-SCREEN CAPTION: “INTUITIVE CONTROL SYSTEM”
+Synchronize with the controls being shown.
+
+SHOT 9 — 20.000–22.500s:
+A hand lifts the finished ceramic cup. Warm morning sunlight illuminates the coffee as it is placed beside a fresh pastry.
+
+SHOT 10 — 22.500–25.000s:
+A luxurious detail montage: pressure gauge, steam wand, portafilter, water reservoir and stainless-steel body. Each detail gets a brief, focused shot.
+
+SHOT 11 — 25.000–27.500s:
+The complete machine stands on a polished black pedestal in a premium studio. Dramatic golden rim lighting reveals the entire silhouette.
+
+SHOT 12 — 27.500–30.000s:
+Final hero shot with the espresso machine and a freshly prepared coffee cup.
+ON-SCREEN TEXT:
+“MAKE EVERY MORNING MATTER”
+“Crafted for your coffee ritual.”
+No brand name, no logo, no watermark.
+
+AUDIO:
+Elegant cinematic music, subtle portafilter locking sound, espresso extraction, gentle steam hiss and a refined final audio accent.
+
+NEGATIVE PROMPT:
+No logos, no brand names, no trademarks, no watermark, no incorrect captions, no extra buttons, no changing machine shape, no unrealistic coffee streams, no floating milk, no distorted hands, no fake pressure readings, no invented temperature or extraction specifications, no unsupported certifications, no cartoon visuals, no shaky camera.
+```
+
+</details>
+
+**[▶ Run Seedance 2.5 on Makernice](https://makernice.com/models/seedance-2-5/?prompt=2120813805592625569&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-seedance-2.5-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2120813805592625569) · [↑ Top](#top)
+
+---
 
 <a id="p-2108101531426083045"></a>
 ### Fast Makeup Transformation Reveal
@@ -14,7 +101,7 @@ A 10-second beauty-commercial makeup transformation from bare face to glam, with
 
 **Seedance 2.5** · prompt by [@MissDelulu9](https://x.com/MissDelulu9/status/2108101531426083045) · 2026-10-08 · ♥ 171
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (916 characters)</summary>
@@ -48,7 +135,7 @@ An ultra-realistic cinematic ad featuring a stylish young woman in pastel blue w
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2107081013583089797) · 2026-10-05 · ♥ 196
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,668 characters)</summary>
@@ -86,7 +173,7 @@ A 30-second cooking video in a professional kitchen with fast, precise movements
 
 **Seedance 2.5** · prompt by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2105297994736394705) · 2026-09-30 · ♥ 154
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,966 characters)</summary>
@@ -138,7 +225,7 @@ A UGC style clip of a woman talking about a camera's design and image quality wh
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2104895614412837085) · 2026-09-29 · ♥ 149
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (518 characters)</summary>
@@ -165,7 +252,7 @@ A product-ad prompt that builds a reference image of a white-mesh running shoe w
 
 **Seedance 2.5** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2104507598695489678) · 2026-09-28 · ♥ 166
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,182 characters)</summary>
@@ -205,7 +292,7 @@ A 30-second creator-style social video of a young woman showing and using a new 
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2103689025676828948) · 2026-09-26 · ♥ 163
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,645 characters)</summary>
@@ -261,7 +348,7 @@ A realistic 10-second vertical beauty clip that follows hands opening a small bo
 
 **Seedance 2.0** · prompt by [@Aiwithmaha](https://x.com/Aiwithmaha/status/2102952087823044888) · 2026-09-24 · ♥ 155
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (917 characters)</summary>
@@ -287,7 +374,7 @@ A 30-second drink commercial opens in desaturated gray-blue and speeds up with w
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2099717908482207928) · 2026-09-15 · ♥ 132
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -344,7 +431,7 @@ A 10-second, 2-shot clip hard-cuts from a messy bedroom to a night street exactl
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2099332819768291755) · 2026-09-14 · ♥ 219
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -456,7 +543,7 @@ A fast-paced 30-second anime shows a pork cutlet rice bowl being cooked step by 
 
 **Seedance 2.5** · prompt by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2098845134326808734) · 2026-09-12 · ♥ 4,916
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -538,7 +625,7 @@ A 30-second commercial is one over-the-shoulder tracking shot with transitions h
 
 **Seedance 2.5** · prompt by [@Iancu_ai](https://x.com/Iancu_ai/status/2098420840073236536) · 2026-09-11 · ♥ 530
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -598,7 +685,7 @@ A cozy 90s-style pink bedroom leads into a glamorous fashion transformation; the
 
 **Seedance 2.5** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2097545178013950280) · 2026-09-09 · ♥ 176
 
-**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v12)
+**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,868 characters)</summary>
@@ -640,7 +727,7 @@ A young woman talks to camera in her bedroom about a camera she just bought; the
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2096930655615758734) · 2026-09-07 · ♥ 177
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,967 characters)</summary>
@@ -697,7 +784,7 @@ A 9:16 fashion clip with a title card where a red-haired girl wins a lip oil fro
 
 **Seedance 2.5** · prompt by [@AIwithNatalia](https://x.com/AIwithNatalia/status/2094428843214037102) · 2026-08-31 · ♥ 100
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -809,7 +896,7 @@ A vertical close-up where a bare foot steps on a ruby-and-gold scorpion statue, 
 
 **Seedance 2.0** · prompt by [@juliaevee](https://x.com/juliaevee/status/2092783528887083290) · 2026-08-27 · ♥ 953
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (753 characters)</summary>
@@ -835,7 +922,7 @@ A 15-second live-action style ad that keeps a woman's look from a reference imag
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2089323117709865174) · 2026-08-17 · ♥ 135
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,334 characters)</summary>
@@ -893,7 +980,7 @@ A 15-second creator-style skincare clip following an uploaded storyboard, with t
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2089319827639091542) · 2026-08-17 · ♥ 135
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,835 characters)</summary>
@@ -927,7 +1014,7 @@ A creator-style clip that keeps one woman's look from a reference image and lock
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2086286356201066501) · 2026-08-09 · ♥ 335
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,472 characters)</summary>
@@ -967,7 +1054,7 @@ A multi-shot lifestyle clip with the same iced coffee bottle and the same woman,
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2083049970597577156) · 2026-07-31 · ♥ 172
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,022 characters)</summary>
@@ -1019,7 +1106,7 @@ A 15-second renovation animation where the camera never moves, so only the room'
 
 **Seedance 2.0** · prompt by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2081371164728041980) · 2026-07-26 · ♥ 186
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,923 characters)</summary>
@@ -1068,7 +1155,7 @@ A 15-second vertical UGC-style fashion ad with strict instructions to keep the d
 
 **Seedance 2.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2079455816772649210) · 2026-07-21 · ♥ 73
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1123,7 +1210,7 @@ A 9:16 beauty review storyboard of eight 1-second scenes covering packaging, tex
 
 **Seedance 2.0** · prompt by [@HaniaAi12](https://x.com/HaniaAi12/status/2077197938753953971) · 2026-07-15 · ♥ 235
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (568 characters)</summary>
@@ -1151,7 +1238,7 @@ A request for an A3 landscape commercial storyboard with twelve panels in a four
 
 **Seedance 2.0** · prompt by [@Ciri_ai](https://x.com/Ciri_ai/status/2076891330622689602) · 2026-07-14 · ♥ 221
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 27 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 27 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,052 characters)</summary>
@@ -1247,7 +1334,7 @@ A 12-panel agency-style storyboard prompt for a 30-second unboxing ad of a premi
 
 **Seedance 2.0** · prompt by [@Ciri_ai](https://x.com/Ciri_ai/status/2076552852194123851) · 2026-07-13 · ♥ 358
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 30 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 30 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,556 characters)</summary>
@@ -1339,7 +1426,7 @@ A timelapse prompt that grows a flat floor plan into a finished house using two 
 
 **Seedance 2.0** · prompt by [@craftian_keskin](https://x.com/craftian_keskin/status/2075669026508853393) · 2026-07-10 · ♥ 22
 
-**Rerun cost** for 13 s: 720p $2.2152 · 1080p $5.52864 (price list v12)
+**Rerun cost** for 13 s: 720p $2.2152 · 1080p $5.52864 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1383,7 +1470,7 @@ A 15-second commercial of ten rapid scenes with whip-pan and speed-ramp transiti
 
 **Seedance 2.0** · prompt by [@Xaroon_x](https://x.com/Xaroon_x/status/2074441553469116470) · 2026-07-07 · ♥ 250
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,587 characters)</summary>
@@ -1409,7 +1496,7 @@ A wide shot of a young woman in grey casual wear performing fluid rhythmic dance
 
 **Seedance 2.0** · prompt by [@itxabdullaa](https://x.com/itxabdullaa/status/2067464091476853121) · 2026-06-18 · ♥ 187
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,009 characters)</summary>
@@ -1447,7 +1534,7 @@ A two-step prompt that first builds a 12-frame luxury spa storyboard grid and th
 
 **Seedance 2.0** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2053876767178506301) · 2026-05-11 · ♥ 140
 
-**Rerun cost** for 14 s: 720p $2.3856 · 1080p $5.95392 (price list v12)
+**Rerun cost** for 14 s: 720p $2.3856 · 1080p $5.95392 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,047 characters)</summary>
@@ -1480,7 +1567,7 @@ A cinematic fashion storyboard prompt with a control panel for product, characte
 
 **Seedance 2.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2051236367079006422) · 2026-05-04 · ♥ 170
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (774 characters)</summary>
@@ -1535,7 +1622,7 @@ A 16-frame, 4 by 4 storyboard grid listing each construction stage from bare lan
 
 **Seedance 2.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2050843651379744922) · 2026-05-03 · ♥ 273
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,091 characters)</summary>
@@ -1603,7 +1690,7 @@ A cheerful influencer pitches a serum bottle to camera in a livestream style, wi
 
 **Seedance 2.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2047882444557242512) · 2026-04-25 · ♥ 483
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,346 characters)</summary>

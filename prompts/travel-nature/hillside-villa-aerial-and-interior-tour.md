@@ -14,7 +14,7 @@ A luxury real-estate tour of a white hillside villa, combining circling drone sh
 
 **Seedance 2.5** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2092109145055150431) · 2026-08-25 · ♥ 197
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 53 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 53 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,441 characters)</summary>

@@ -14,7 +14,7 @@ A 30-second night-time horror-action short where a guitarist fights attackers on
 
 **Seedance 2.5** · prompt by [@auqibhabib](https://x.com/auqibhabib/status/2108459477649543194) · 2026-10-09 · ♥ 609
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,042 characters)</summary>

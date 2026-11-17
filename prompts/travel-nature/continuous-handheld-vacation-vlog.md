@@ -14,7 +14,7 @@ A 30-second handheld vacation vlog following one woman through travel spots, wit
 
 **Seedance 2.5** · prompt by [@oggii_0](https://x.com/oggii_0/status/2091820691100496381) · 2026-08-24 · ♥ 264
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

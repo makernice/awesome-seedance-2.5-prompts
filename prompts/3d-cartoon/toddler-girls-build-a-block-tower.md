@@ -14,7 +14,7 @@ A 16-second 3D animated family comedy of two toddlers playing with a stacking bl
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2117442957347606909) · 2026-11-03 · ♥ 213
 
-**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v12)
+**Rerun cost** for 16 s: 480p $1.844736 · 720p $4.1472 · 1080p $10.26432 · 4K $31.28 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,530 characters)</summary>

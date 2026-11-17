@@ -14,7 +14,7 @@ A glamorous woman walking by a soccer field pulls off an unexpected kick in one 
 
 **Seedance 2.5** · prompt by [@Alexneyef](https://x.com/Alexneyef/status/2099607916789563863) · 2026-09-14 · ♥ 633
 
-**Rerun cost** for 14 s: 480p $1.614144 · 720p $3.6288 · 1080p $8.98128 · 4K $27.37 (price list v12)
+**Rerun cost** for 14 s: 480p $1.614144 · 720p $3.6288 · 1080p $8.98128 · 4K $27.37 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,987 characters)</summary>

@@ -14,7 +14,7 @@ A woman strolls Parisian streets in a white summer dress and magically changes i
 
 **Seedance 2.0** · prompt by [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2100456445900710158) · 2026-09-17 · ♥ 305
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,010 characters)</summary>

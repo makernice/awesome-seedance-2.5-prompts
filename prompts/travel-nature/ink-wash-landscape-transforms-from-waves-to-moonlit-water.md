@@ -14,7 +14,7 @@ Blue ocean waves turn into misty mountains, autumn trees, cherry blossoms and a 
 
 **Seedance 2.5** · prompt by [@noorwithwifi](https://x.com/noorwithwifi/status/2101683541629354348) · 2026-09-20 · ♥ 72
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (667 characters)</summary>

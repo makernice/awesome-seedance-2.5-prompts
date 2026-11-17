@@ -14,7 +14,7 @@ A 30-second home-video style look at an ordinary summer day for one young man, w
 
 **Seedance 2.5** · prompt by [@Sheldon056](https://x.com/Sheldon056/status/2091396663718117706) · 2026-08-23 · ♥ 7,037
 
-**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v12)
+**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (6,870 characters)</summary>

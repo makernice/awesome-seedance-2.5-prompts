@@ -14,7 +14,7 @@ A photoreal dark fantasy fight with emerald magic against horned demons, structu
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2108049177259462719) · 2026-10-08 · ♥ 327
 
-**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v12)
+**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

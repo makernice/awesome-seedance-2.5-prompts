@@ -14,7 +14,7 @@ A recreated stop-motion claymation look with visible fingerprint smudges, warm s
 
 **Seedance 2.0** · prompt by [@MayaAiCreator](https://x.com/MayaAiCreator/status/2091397686104588650) · 2026-08-23 · ♥ 26
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,729 characters)</summary>

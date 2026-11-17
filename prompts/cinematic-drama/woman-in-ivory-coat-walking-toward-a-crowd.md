@@ -14,7 +14,7 @@ A woman in a closed ivory coat and sunglasses walks slowly toward a large crowd;
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2099340937684258828) · 2026-09-14 · ♥ 231
 
-**Rerun cost** for 23 s: 480p $2.651808 · 720p $5.9616 · 1080p $14.75496 · 4K $44.965 (price list v12)
+**Rerun cost** for 23 s: 480p $2.651808 · 720p $5.9616 · 1080p $14.75496 · 4K $44.965 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,722 characters)</summary>

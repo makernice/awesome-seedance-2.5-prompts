@@ -14,7 +14,7 @@ A camcorder-style clip filmed from the man's point of view at a beach at night, 
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2075934550048256199) · 2026-07-11 · ♥ 155
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,493 characters)</summary>

@@ -14,7 +14,7 @@ A war-film style handheld first-person shot of a coastal landing; the post gives
 
 **Seedance 2.0 Fast** · prompt by [@Artedeingenio](https://x.com/Artedeingenio/status/2037912650521162093) · 2026-03-28 · ♥ 256
 
-**Rerun cost** for 15 s: 720p $1.5408 (price list v12)
+**Rerun cost** for 15 s: 720p $1.5408 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (315 characters)</summary>

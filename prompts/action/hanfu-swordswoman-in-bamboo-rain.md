@@ -14,7 +14,7 @@ A cinematic wuxia scene where a woman in a mint hanfu stands surrounded by maske
 
 **Seedance 2.5** · prompt by [@Zoyavelle](https://x.com/Zoyavelle/status/2110235870473461970) · 2026-10-14 · ♥ 284
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,261 characters)</summary>

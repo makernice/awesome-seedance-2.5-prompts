@@ -14,7 +14,7 @@ A 30-second vertical family-style 3D cartoon about a hen defending her chicks fr
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2102580065972486422) · 2026-09-23 · ♥ 141
 
-**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v12)
+**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,788 characters)</summary>

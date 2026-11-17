@@ -14,7 +14,7 @@ A 30-second village morning life clip built from a character sheet and two locat
 
 **Seedance 2.5** · prompt by [@Cupang1997](https://x.com/Cupang1997/status/2091438364545446209) · 2026-08-23 · ♥ 173
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

@@ -14,7 +14,7 @@ A woman opens a chicken coop, feeds hens, collects eggs and cooks breakfast; the
 
 **Seedance 2.5** · prompt by [@aiwithaly](https://x.com/aiwithaly/status/2097556131623432569) · 2026-09-09 · ♥ 235
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (600 characters)</summary>

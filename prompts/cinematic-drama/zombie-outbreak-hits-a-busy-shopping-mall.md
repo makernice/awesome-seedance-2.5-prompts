@@ -14,7 +14,7 @@ A photorealistic horror short filmed like handheld footage during a mall outbrea
 
 **Seedance 2.5** · prompt by [@auqibhabib](https://x.com/auqibhabib/status/2104107269206237325) · 2026-09-27 · ♥ 990
 
-**Rerun cost** for 24 s: 480p $2.767104 · 720p $6.2208 · 1080p $15.39648 · 4K $46.92 (price list v12)
+**Rerun cost** for 24 s: 480p $2.767104 · 720p $6.2208 · 1080p $15.39648 · 4K $46.92 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,672 characters)</summary>

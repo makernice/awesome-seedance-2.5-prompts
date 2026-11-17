@@ -14,7 +14,7 @@ A 10-second action scene where a determined woman confronts a larger attacker on
 
 **Seedance 2.5** · prompt by [@Elvorya](https://x.com/Elvorya/status/2104450675656835476) · 2026-09-28 · ♥ 267
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,875 characters)</summary>

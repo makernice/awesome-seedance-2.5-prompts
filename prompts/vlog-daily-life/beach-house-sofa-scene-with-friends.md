@@ -14,7 +14,7 @@ A young woman in a white crop top sits on a sofa in a modern beach house while f
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2090631530175680751) · 2026-08-21 · ♥ 363
 
-**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v12)
+**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,351 characters)</summary>

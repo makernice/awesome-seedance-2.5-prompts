@@ -14,7 +14,7 @@ A 60-second 3D animated family comedy about a baby making a mess while the famil
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2110558398492348605) · 2026-10-15 · ♥ 363
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 60 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 60 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,031 characters)</summary>

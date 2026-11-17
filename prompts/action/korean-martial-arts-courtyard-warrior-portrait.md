@@ -14,7 +14,7 @@ A fierce woman in a black martial-arts uniform stands in a traditional courtyard
 
 **Seedance 2.0** · prompt by [@AIwithMinal](https://x.com/AIwithMinal/status/2100444829880914240) · 2026-09-17 · ♥ 340
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 30 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 30 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (563 characters)</summary>

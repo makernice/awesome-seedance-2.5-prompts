@@ -14,7 +14,7 @@ A young woman in a pink rain suit runs through narrow flooded market aisles in h
 
 **Seedance 2.5** · prompt by [@AiwithElisia](https://x.com/AiwithElisia/status/2091036019076272229) · 2026-08-22 · ♥ 291
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 43 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 43 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,724 characters)</summary>

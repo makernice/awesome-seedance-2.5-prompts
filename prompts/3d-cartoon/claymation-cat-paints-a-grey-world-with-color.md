@@ -14,7 +14,7 @@ A claymation prompt where a black-and-white cat flips and runs, and each step sp
 
 **Seedance 2.0** · prompt by [@noorwithwifi](https://x.com/noorwithwifi/status/2078535850745626926) · 2026-07-18 · ♥ 166
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (691 characters)</summary>

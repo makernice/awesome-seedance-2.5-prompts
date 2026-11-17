@@ -14,7 +14,7 @@ A fake handheld documentary shot on an early consumer camcorder, showing hundred
 
 **Seedance 2.0** · prompt by [@techhalla](https://x.com/techhalla/status/2074675587587916172) · 2026-07-08 · ♥ 420
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,639 characters)</summary>

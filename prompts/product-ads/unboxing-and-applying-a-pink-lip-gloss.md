@@ -14,7 +14,7 @@ A realistic 10-second vertical beauty clip that follows hands opening a small bo
 
 **Seedance 2.0** · prompt by [@Aiwithmaha](https://x.com/Aiwithmaha/status/2102952087823044888) · 2026-09-24 · ♥ 155
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (917 characters)</summary>

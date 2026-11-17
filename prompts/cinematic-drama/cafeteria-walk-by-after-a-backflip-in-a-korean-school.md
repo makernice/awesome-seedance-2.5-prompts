@@ -14,7 +14,7 @@ A 22-second continuous Korean high-school drama sequence in a fluorescent cafete
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2100836177821483349) · 2026-09-18 · ♥ 261
 
-**Rerun cost** for 22 s: 480p $2.536512 · 720p $5.7024 · 1080p $14.11344 · 4K $43.01 (price list v12)
+**Rerun cost** for 22 s: 480p $2.536512 · 720p $5.7024 · 1080p $14.11344 · 4K $43.01 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

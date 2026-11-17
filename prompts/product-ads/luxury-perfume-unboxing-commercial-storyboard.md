@@ -14,7 +14,7 @@ A 12-panel agency-style storyboard prompt for a 30-second unboxing ad of a premi
 
 **Seedance 2.0** · prompt by [@Ciri_ai](https://x.com/Ciri_ai/status/2076552852194123851) · 2026-07-13 · ♥ 358
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 30 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 30 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,556 characters)</summary>

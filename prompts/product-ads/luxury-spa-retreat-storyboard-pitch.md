@@ -14,7 +14,7 @@ A two-step prompt that first builds a 12-frame luxury spa storyboard grid and th
 
 **Seedance 2.0** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2053876767178506301) · 2026-05-11 · ♥ 140
 
-**Rerun cost** for 14 s: 720p $2.3856 · 1080p $5.95392 (price list v12)
+**Rerun cost** for 14 s: 720p $2.3856 · 1080p $5.95392 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,047 characters)</summary>

@@ -14,7 +14,7 @@ A 30-second sequence where a sports car, motorcycle, tank and fighter jet each t
 
 **Seedance 2.5** · prompt by [@laviniavelle](https://x.com/laviniavelle/status/2108404878590857384) · 2026-10-09 · ♥ 192
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (521 characters)</summary>

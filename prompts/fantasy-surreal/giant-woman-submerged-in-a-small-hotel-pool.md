@@ -14,7 +14,7 @@ A surreal comedy in a plain indoor pool where an enormous woman fills the water 
 
 **Seedance 2.5** · prompt by [@YourAlphaMom](https://x.com/YourAlphaMom/status/2088749172543410403) · 2026-08-15 · ♥ 736
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,474 characters)</summary>

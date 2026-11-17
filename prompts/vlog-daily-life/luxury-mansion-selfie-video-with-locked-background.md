@@ -14,7 +14,7 @@ A 15-second selfie of a woman in a marble-columned living room, with her identit
 
 **Seedance 2.5** · prompt by [@rovvmut_](https://x.com/rovvmut_/status/2088872188321636593) · 2026-08-16 · ♥ 156
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

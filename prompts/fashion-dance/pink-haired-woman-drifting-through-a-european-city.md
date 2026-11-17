@@ -14,7 +14,7 @@ A roughly 20-second fashion short with a pastel-haired woman moving through Haus
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2102013620066636225) · 2026-09-21 · ♥ 250
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

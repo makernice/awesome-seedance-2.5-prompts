@@ -14,7 +14,7 @@ A cinematic vlog following a woman from a cozy apartment on a rainy day through 
 
 **Seedance 2.5** · prompt by [@Lianaalane](https://x.com/Lianaalane/status/2106951270380802264) · 2026-10-05 · ♥ 235
 
-**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v12)
+**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,413 characters)</summary>

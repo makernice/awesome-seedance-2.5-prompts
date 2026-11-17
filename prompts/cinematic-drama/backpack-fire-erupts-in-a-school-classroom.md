@@ -14,7 +14,7 @@ A 9:16 classroom scene where a red-haired student reacts as flames burst from a 
 
 **Seedance 2.0** · prompt by [@AIwithMinal](https://x.com/AIwithMinal/status/2105518415201083496) · 2026-10-01 · ♥ 659
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 20 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 20 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (544 characters)</summary>

@@ -14,7 +14,7 @@ A 30-second Korean live-action thriller continuation that picks up from the exac
 
 **Seedance 2.5** · prompt by [@navi_Ai2](https://x.com/navi_Ai2/status/2115811148796678209) · 2026-10-29 · ♥ 303
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

@@ -14,7 +14,7 @@ A close-up of a hand touching a rainy car window with blurred city lights behind
 
 **Seedance 2.0** · prompt by [@AIwithMinal](https://x.com/AIwithMinal/status/2093560634822762971) · 2026-08-29 · ♥ 104
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (477 characters)</summary>

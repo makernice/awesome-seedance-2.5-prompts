@@ -14,7 +14,7 @@ A realistic travel vlog filmed as if by a friend, keeping the woman's identity f
 
 **Seedance 2.5** · prompt by [@BubbleBrain](https://x.com/BubbleBrain/status/2083659648108990925) · 2026-08-01 · ♥ 929
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

@@ -14,7 +14,7 @@ A 30-second food vlog that has to look like a real flagship phone recording, fol
 
 **Seedance 2.5** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2088605003112235033) · 2026-08-15 · ♥ 292
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,459 characters)</summary>

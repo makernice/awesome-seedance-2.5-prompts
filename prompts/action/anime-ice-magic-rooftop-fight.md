@@ -14,7 +14,7 @@ A pastel-purple-haired schoolgirl dodges attacks with magical ice powers on a ni
 
 **Seedance 2.5** · prompt by [@laviniavelle](https://x.com/laviniavelle/status/2096437174942204277) · 2026-09-06 · ♥ 284
 
-**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v12)
+**Rerun cost** for 29 s: 480p $3.343584 · 720p $7.5168 · 1080p $18.60408 · 4K $56.695 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (482 characters)</summary>

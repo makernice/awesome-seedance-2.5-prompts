@@ -14,7 +14,7 @@ A 3D-rendered post-apocalyptic chase where a rocket-boosted dune buggy races a m
 
 **Seedance 2.5** · prompt by [@Zyrellix](https://x.com/Zyrellix/status/2092438692820295703) · 2026-08-26 · ♥ 208
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (907 characters)</summary>

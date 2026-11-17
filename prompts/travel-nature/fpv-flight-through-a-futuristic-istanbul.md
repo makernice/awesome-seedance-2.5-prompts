@@ -14,7 +14,7 @@ A 30-second drone-style travel film blending cyberpunk technology with historic 
 
 **Seedance 2.5** · prompt by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2106439652278411435) · 2026-10-03 · ♥ 433
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,833 characters)</summary>

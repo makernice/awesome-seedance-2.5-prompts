@@ -14,7 +14,7 @@ A 30-second scene built from two 15-second prompts stitched together, with an en
 
 **Seedance 2.5** · prompt by [@YourAlphaMom](https://x.com/YourAlphaMom/status/2089412506716721609) · 2026-08-17 · ♥ 796
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

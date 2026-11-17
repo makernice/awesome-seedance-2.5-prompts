@@ -14,7 +14,7 @@ A light-blue-haired anime-style girl fights a blonde rival with a handgun and a 
 
 **Seedance 2.5** · prompt by [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2093540453261946900) · 2026-08-29 · ♥ 318
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (557 characters)</summary>

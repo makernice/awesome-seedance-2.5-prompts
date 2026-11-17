@@ -14,7 +14,7 @@ A seamless 27-second transformation chain from a beach runner to a panther, fier
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2109857577920344375) · 2026-10-13 · ♥ 248
 
-**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v12)
+**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (609 characters)</summary>

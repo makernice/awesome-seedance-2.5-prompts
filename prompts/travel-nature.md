@@ -14,7 +14,7 @@ A 30-second travel vlog of a woman on a night helicopter flight above Tokyo, wit
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2113594768400023908) · 2026-10-23 · ♥ 274
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (5,666 characters)</summary>
@@ -152,7 +152,7 @@ A 30-second cinematic clip starting with a woman launching a drone, then flying 
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2113472557827645730) · 2026-10-23 · ♥ 146
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,752 characters)</summary>
@@ -190,7 +190,7 @@ A fast 30-second FPV drone shot weaving between skyscrapers and over busy crossi
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2113109872707502464) · 2026-10-22 · ♥ 211
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,933 characters)</summary>
@@ -226,7 +226,7 @@ A 25-second lifestyle film moving from a coffee shop to seaside moments in a coa
 
 **Seedance 2.5** · prompt by [@aiwithaayat](https://x.com/aiwithaayat/status/2110600258871013510) · 2026-10-15 · ♥ 239
 
-**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v12)
+**Rerun cost** for 25 s: 480p $2.8824 · 720p $6.48 · 1080p $16.038 · 4K $48.875 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,321 characters)</summary>
@@ -252,7 +252,7 @@ A 30-second drone-style travel film blending cyberpunk technology with historic 
 
 **Seedance 2.5** · prompt by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2106439652278411435) · 2026-10-03 · ♥ 433
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,833 characters)</summary>
@@ -301,7 +301,7 @@ A 20-second vlog with timed scenes of a woman in a pink jacket camping in a pine
 
 **Seedance 2.5** · prompt by [@alixbuilds](https://x.com/alixbuilds/status/2105892094032404502) · 2026-10-02 · ♥ 228
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,873 characters)</summary>
@@ -343,7 +343,7 @@ A 30-second photorealistic travel vlog with timecoded segments, following a youn
 
 **Seedance 2.5** · prompt by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2103533820263944679) · 2026-09-25 · ♥ 483
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,054 characters)</summary>
@@ -401,7 +401,7 @@ Blue ocean waves turn into misty mountains, autumn trees, cherry blossoms and a 
 
 **Seedance 2.5** · prompt by [@noorwithwifi](https://x.com/noorwithwifi/status/2101683541629354348) · 2026-09-20 · ♥ 72
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (667 characters)</summary>
@@ -427,7 +427,7 @@ A traveler moves through architecture, food, fashion and landscapes in a premium
 
 **Seedance 2.5** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2099726668164444397) · 2026-09-15 · ♥ 172
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (7,866 characters)</summary>
@@ -533,7 +533,7 @@ A young woman films her first train trip on her own smartphone and speaks fluent
 
 **Seedance 2.5** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2094635608849166589) · 2026-09-01 · ♥ 171
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,677 characters)</summary>
@@ -559,7 +559,7 @@ A 30-second travel vlog of one young European woman on a high-quality handheld c
 
 **Seedance 2.5** · prompt by [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2094280707422191705) · 2026-08-31 · ♥ 171
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (8,779 characters)</summary>
@@ -794,7 +794,7 @@ A luxury real-estate tour of a white hillside villa, combining circling drone sh
 
 **Seedance 2.5** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2092109145055150431) · 2026-08-25 · ♥ 197
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 53 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 53 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,441 characters)</summary>
@@ -822,7 +822,7 @@ A 30-second handheld vacation vlog following one woman through travel spots, wit
 
 **Seedance 2.5** · prompt by [@oggii_0](https://x.com/oggii_0/status/2091820691100496381) · 2026-08-24 · ♥ 264
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -916,7 +916,7 @@ A 10-second locked-off time-lapse that continues from a reference image of a see
 
 **Seedance 2.5** · prompt by [@Yesandyou_](https://x.com/Yesandyou_/status/2088998841395921185) · 2026-08-16 · ♥ 153
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -958,7 +958,7 @@ A documentary-style tracking shot of a young woman at a luxury island resort wit
 
 **Seedance 2.5** · prompt by [@techhalla](https://x.com/techhalla/status/2088099038839316601) · 2026-08-14 · ♥ 141
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,583 characters)</summary>
@@ -1010,7 +1010,7 @@ A 15-second travel vlog that must pass as real creator footage, written as timec
 
 **Seedance 2.5** · prompt by [@SyntheSarah](https://x.com/SyntheSarah/status/2087737206459044262) · 2026-08-13 · ♥ 283
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,121 characters)</summary>
@@ -1058,7 +1058,7 @@ A 30-second action-camera sequence from catching and cleaning a trout to grillin
 
 **Seedance 2.5** · prompt by [@abxxai](https://x.com/abxxai/status/2087189194720657649) · 2026-08-11 · ♥ 484
 
-**Rerun cost** for 28 s: 480p $3.228288 · 720p $7.2576 · 1080p $17.96256 · 4K $54.74 (price list v12)
+**Rerun cost** for 28 s: 480p $3.228288 · 720p $7.2576 · 1080p $17.96256 · 4K $54.74 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -1135,7 +1135,7 @@ A 15-second tropical vacation montage with the same young woman in every shot, w
 
 **Seedance 2.5** · prompt by [@im_shahid7](https://x.com/im_shahid7/status/2086677274217381905) · 2026-08-10 · ♥ 244
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,862 characters)</summary>
@@ -1174,7 +1174,7 @@ A 30-second travel vlog that must look like real phone footage, with subtle shak
 
 **Seedance 2.5** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2085307691937767921) · 2026-08-06 · ♥ 300
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,130 characters)</summary>
@@ -1209,7 +1209,7 @@ A live-action style travel vlog that keeps the same paragliding outfit and woman
 
 **Seedance 2.0** · prompt by [@CaliraVal](https://x.com/CaliraVal/status/2079422224004698416) · 2026-07-21 · ♥ 214
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 33 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 33 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,723 characters)</summary>
@@ -1250,7 +1250,7 @@ A cheerful traveler films scenery from a Japanese bullet train and steps out at 
 
 **Seedance 2.0** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2078794504354799754) · 2026-07-19 · ♥ 143
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (550 characters)</summary>

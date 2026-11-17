@@ -14,7 +14,7 @@ A single continuous 22-second POV take through a basalt canyon in a pine forest,
 
 **Seedance 2.5** · prompt by [@abxxai](https://x.com/abxxai/status/2103861170625286334) · 2026-09-26 · ♥ 377
 
-**Rerun cost** for 22 s: 480p $2.536512 · 720p $5.7024 · 1080p $14.11344 · 4K $43.01 (price list v12)
+**Rerun cost** for 22 s: 480p $2.536512 · 720p $5.7024 · 1080p $14.11344 · 4K $43.01 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (6,271 characters)</summary>

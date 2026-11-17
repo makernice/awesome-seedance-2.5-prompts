@@ -14,7 +14,7 @@ A 10-second beauty-commercial makeup transformation from bare face to glam, with
 
 **Seedance 2.5** · prompt by [@MissDelulu9](https://x.com/MissDelulu9/status/2108101531426083045) · 2026-10-08 · ♥ 171
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (916 characters)</summary>

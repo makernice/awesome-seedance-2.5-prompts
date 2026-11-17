@@ -14,7 +14,7 @@ A 60-second realistic day-in-the-life of one cat from waking to sleeping, with a
 
 **Seedance 2.5** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2091385137133219971) · 2026-08-23 · ♥ 306
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 60 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 60 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (3,986 characters)</summary>

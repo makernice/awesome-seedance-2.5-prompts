@@ -14,7 +14,7 @@ A quiet 30-second afternoon where a young woman prepares a cold fruit snack, usi
 
 **Seedance 2.5** · prompt by [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2094633575547314503) · 2026-09-01 · ♥ 317
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

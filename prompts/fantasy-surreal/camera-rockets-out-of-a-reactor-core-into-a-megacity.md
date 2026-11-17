@@ -14,7 +14,7 @@ A single sweeping camera move that bursts from a reactor core through energy rin
 
 **Seedance 2.0** · prompt by [@umesh_ai](https://x.com/umesh_ai/status/2057101102370463951) · 2026-05-20 · ♥ 125
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,836 characters)</summary>

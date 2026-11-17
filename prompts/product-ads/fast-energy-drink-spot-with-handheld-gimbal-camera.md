@@ -14,7 +14,7 @@ A 30-second drink commercial opens in desaturated gray-blue and speeds up with w
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2099717908482207928) · 2026-09-15 · ♥ 132
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

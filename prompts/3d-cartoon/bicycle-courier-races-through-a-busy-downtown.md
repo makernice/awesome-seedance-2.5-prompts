@@ -14,7 +14,7 @@ A 15-second animated-style urban delivery run that opens with a low-angle street
 
 **Seedance 2.5** · prompt by [@Elvorya](https://x.com/Elvorya/status/2102622012351131832) · 2026-09-23 · ♥ 228
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,616 characters)</summary>

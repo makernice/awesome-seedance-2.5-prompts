@@ -14,7 +14,7 @@ A top-down view of a woman resting on a Persian rug in a warm living room, seen 
 
 **Seedance 2.5** · prompt by [@Zoyavelle](https://x.com/Zoyavelle/status/2108060187840180394) · 2026-10-08 · ♥ 399
 
-**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v12)
+**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,349 characters)</summary>

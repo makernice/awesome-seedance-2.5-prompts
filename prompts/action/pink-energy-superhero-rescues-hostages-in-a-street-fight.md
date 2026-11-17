@@ -14,7 +14,7 @@ A hero with glowing red eyes and pink energy trails takes on masked criminals ou
 
 **Seedance 2.5** · prompt by [@itsSaira_1](https://x.com/itsSaira_1/status/2101911598889857028) · 2026-09-21 · ♥ 298
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 32 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 32 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,215 characters)</summary>

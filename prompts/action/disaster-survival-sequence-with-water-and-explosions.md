@@ -14,7 +14,7 @@ A 30-second blockbuster-style disaster scene following a soaked young woman from
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2087774014957850843) · 2026-08-13 · ♥ 335
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,778 characters)</summary>

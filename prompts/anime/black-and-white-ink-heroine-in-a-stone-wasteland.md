@@ -14,7 +14,7 @@ A 30-second anime action sequence with timecoded moves, a calm heroine, ink-spre
 
 **Seedance 2.5** · prompt by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2107164974078722307) · 2026-10-05 · ♥ 49
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,455 characters)</summary>

@@ -14,7 +14,7 @@ A single-take POV from inside a knight's helmet at dusk, with the ogre's size an
 
 **Seedance 2.0** · prompt by [@aimikoda](https://x.com/aimikoda/status/2025195077451350197) · 2026-02-21 · ♥ 412
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,079 characters)</summary>

@@ -14,7 +14,7 @@ A horror sequence in which a clerk freezes at the scanner, convulses and rises a
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2087759896901284150) · 2026-08-13 · ♥ 240
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,755 characters)</summary>

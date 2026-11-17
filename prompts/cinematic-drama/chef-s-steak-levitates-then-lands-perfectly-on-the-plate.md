@@ -14,7 +14,7 @@ A young chef watches her dish float in slow motion, sees it settle on the plate 
 
 **Seedance 2.5** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2088108029522911384) · 2026-08-14 · ♥ 282
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (598 characters)</summary>

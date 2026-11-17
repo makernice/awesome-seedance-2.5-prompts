@@ -14,7 +14,7 @@ Casual smartphone-style footage of a roadside stop with natural handheld shake a
 
 **Seedance 2.0** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2079204021072716193) · 2026-07-20 · ♥ 249
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,472 characters)</summary>

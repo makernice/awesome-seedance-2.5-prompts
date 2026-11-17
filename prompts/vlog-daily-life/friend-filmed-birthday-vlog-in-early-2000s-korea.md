@@ -14,7 +14,7 @@ A 30-second birthday vlog styled as casual consumer camcorder footage from the e
 
 **Seedance 2.5** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2105146792681832481) · 2026-09-30 · ♥ 914
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,676 characters)</summary>

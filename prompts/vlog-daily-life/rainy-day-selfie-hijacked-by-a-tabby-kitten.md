@@ -14,7 +14,7 @@ A woman tries a peaceful rainy selfie while one small kitten steals the scene; t
 
 **Seedance 2.5** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2098256490238755226) · 2026-09-11 · ♥ 229
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

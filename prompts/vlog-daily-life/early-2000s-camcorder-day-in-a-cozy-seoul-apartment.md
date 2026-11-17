@@ -14,7 +14,7 @@ A 5-shot, 15-second clip in a 4:3 handheld home-video style, following a young w
 
 **Seedance 2.5** · prompt by [@iamahmedfaraz66](https://x.com/iamahmedfaraz66/status/2089683226696577531) · 2026-08-18 · ♥ 232
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,555 characters)</summary>

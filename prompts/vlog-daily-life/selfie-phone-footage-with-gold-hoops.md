@@ -14,7 +14,7 @@ An ultra-realistic selfie-style phone clip of a woman filming herself, with iden
 
 **Seedance 2.5** · prompt by [@HustleXR](https://x.com/HustleXR/status/2092492677384437909) · 2026-08-26 · ♥ 232
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,720 characters)</summary>

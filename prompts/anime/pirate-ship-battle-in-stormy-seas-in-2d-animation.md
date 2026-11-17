@@ -14,7 +14,7 @@ A timecoded sequence of short shots in a stylized 2D animated look, with a rival
 
 **Seedance 2.0** · prompt by [@itsshara_ai](https://x.com/itsshara_ai/status/2079565454436426187) · 2026-07-21 · ♥ 166
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,840 characters)</summary>

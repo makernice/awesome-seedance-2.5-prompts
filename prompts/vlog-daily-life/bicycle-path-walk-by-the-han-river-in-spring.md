@@ -14,7 +14,7 @@ A documentary-realism clip of a young woman by a river path with cherry trees, s
 
 **Seedance 2.0** · prompt by [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2081195428922708039) · 2026-07-26 · ♥ 133
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,043 characters)</summary>

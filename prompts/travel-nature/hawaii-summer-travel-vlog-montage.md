@@ -14,7 +14,7 @@ A 15-second tropical vacation montage with the same young woman in every shot, w
 
 **Seedance 2.5** · prompt by [@im_shahid7](https://x.com/im_shahid7/status/2086677274217381905) · 2026-08-10 · ♥ 244
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,862 characters)</summary>

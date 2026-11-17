@@ -14,7 +14,7 @@ A photoreal fashion video mixed with crisp 2D pixel dress-up game UI in a carame
 
 **Seedance 2.5** · prompt by [@MissDelulu9](https://x.com/MissDelulu9/status/2094272120289415188) · 2026-08-31 · ♥ 103
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

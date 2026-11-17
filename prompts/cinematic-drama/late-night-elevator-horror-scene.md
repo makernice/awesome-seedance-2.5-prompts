@@ -14,7 +14,7 @@ A young woman rides an empty apartment elevator that stops at strange floors, wr
 
 **Seedance 2.5** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2091483449815126134) · 2026-08-23 · ♥ 236
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,551 characters)</summary>

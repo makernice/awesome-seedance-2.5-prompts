@@ -14,7 +14,7 @@ A stylish woman walks a golden-hour New York sidewalk with a phone, iced coffee 
 
 **Seedance 2.5** · prompt by [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2094420859960045616) · 2026-08-31 · ♥ 128
 
-**Rerun cost** for 12 s: 480p $1.383552 · 720p $3.1104 · 1080p $7.69824 · 4K $23.46 (price list v12)
+**Rerun cost** for 12 s: 480p $1.383552 · 720p $3.1104 · 1080p $7.69824 · 4K $23.46 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (726 characters)</summary>

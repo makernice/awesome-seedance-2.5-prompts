@@ -14,7 +14,7 @@ A 16-frame, 4 by 4 storyboard grid listing each construction stage from bare lan
 
 **Seedance 2.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2050843651379744922) · 2026-05-03 · ♥ 273
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,091 characters)</summary>

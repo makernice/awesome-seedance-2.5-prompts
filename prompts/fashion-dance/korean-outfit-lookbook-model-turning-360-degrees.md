@@ -14,7 +14,7 @@ A 4-second fashion lookbook animation that starts from a layout image and keeps 
 
 **Seedance 2.5** · prompt by [@AI__TSUBAKI](https://x.com/AI__TSUBAKI/status/2102459655700287648) · 2026-09-22 · ♥ 1,177
 
-**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v12)
+**Rerun cost** for 17 s: 480p $1.960032 · 720p $4.4064 · 1080p $10.90584 · 4K $33.235 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

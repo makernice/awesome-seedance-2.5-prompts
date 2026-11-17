@@ -14,7 +14,7 @@ A 30-second first-person clip styled as a camcorder tape with a timestamp, using
 
 **Seedance 2.5** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2112745556644946344) · 2026-10-21 · ♥ 236
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,912 characters)</summary>

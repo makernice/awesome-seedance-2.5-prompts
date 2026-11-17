@@ -14,7 +14,7 @@ A short documentary-style run with a controlled 180 jump and freestyle butter, a
 
 **Seedance 2.5** · prompt by [@nawalsehar](https://x.com/nawalsehar/status/2088854230626865490) · 2026-08-16 · ♥ 167
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (402 characters)</summary>

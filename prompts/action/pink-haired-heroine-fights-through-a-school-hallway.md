@@ -14,7 +14,7 @@ A dynamic action shot of a pink-haired young woman in a leather jacket confronti
 
 **Seedance 2.5** · prompt by [@juliaevee](https://x.com/juliaevee/status/2103665834019209256) · 2026-09-26 · ♥ 178
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (628 characters)</summary>

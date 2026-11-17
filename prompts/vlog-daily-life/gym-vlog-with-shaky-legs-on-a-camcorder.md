@@ -14,7 +14,7 @@ A tape-camcorder style gym vlog where a Korean idol character complains and laug
 
 **Seedance 2.5** · prompt by [@QAiStudio](https://x.com/QAiStudio/status/2102992059938587000) · 2026-09-24 · ♥ 674
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,531 characters)</summary>

@@ -14,7 +14,7 @@ A claymation caricature of a blond footballer in a red kit walking across a plai
 
 **Seedance 2.0** · prompt by [@noorwithwifi](https://x.com/noorwithwifi/status/2079818537137475762) · 2026-07-22 · ♥ 864
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (635 characters)</summary>

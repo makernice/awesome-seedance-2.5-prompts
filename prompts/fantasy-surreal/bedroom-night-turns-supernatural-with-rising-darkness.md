@@ -14,7 +14,7 @@ A woman in white pajamas senses something strange in a dim bedroom, and a dark s
 
 **Seedance 2.5** · prompt by [@Zyrellix](https://x.com/Zyrellix/status/2097594855946113177) · 2026-09-09 · ♥ 464
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12; original is 31 s, max 30 s per run)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15; original is 31 s, max 30 s per run)
 
 <details>
 <summary><b>Prompt</b> (1,973 characters)</summary>

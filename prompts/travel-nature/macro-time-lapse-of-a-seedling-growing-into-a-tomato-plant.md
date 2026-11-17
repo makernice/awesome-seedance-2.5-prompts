@@ -14,7 +14,7 @@ A 10-second locked-off time-lapse that continues from a reference image of a see
 
 **Seedance 2.5** · prompt by [@Yesandyou_](https://x.com/Yesandyou_/status/2088998841395921185) · 2026-08-16 · ♥ 153
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

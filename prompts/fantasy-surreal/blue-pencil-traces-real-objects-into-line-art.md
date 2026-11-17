@@ -14,7 +14,7 @@ A first-person clip where a hand with a blue pencil turns a real train, cat and 
 
 **Seedance 2.5** · prompt by [@Sairah_0](https://x.com/Sairah_0/status/2089556355384512991) · 2026-08-18 · ♥ 359
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,720 characters)</summary>

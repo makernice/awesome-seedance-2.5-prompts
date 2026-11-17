@@ -14,7 +14,7 @@ A 30-second 2003-style camcorder vlog of a woman preparing for an interview, wit
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2112407770427458041) · 2026-10-20 · ♥ 399
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,036 characters)</summary>

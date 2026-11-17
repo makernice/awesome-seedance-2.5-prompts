@@ -14,7 +14,7 @@ Filmed from inside a moving car, two cats ride a small red motorcycle down a sub
 
 **Seedance 2.0** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2084901309988425731) · 2026-08-05 · ♥ 314
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (982 characters)</summary>

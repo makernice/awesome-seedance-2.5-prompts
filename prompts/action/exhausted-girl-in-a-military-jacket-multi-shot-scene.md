@@ -14,7 +14,7 @@ A hard-cut multi-shot sequence following a dirty, tired 18-year-old in a faded g
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2095351192054595892) · 2026-09-03 · ♥ 449
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,980 characters)</summary>

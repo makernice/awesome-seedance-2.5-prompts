@@ -14,7 +14,7 @@ A timeline-based live-action adventure prompt with fixed style, character, camer
 
 **Seedance 2.0** · prompt by [@NababUddin2](https://x.com/NababUddin2/status/2079428121133240602) · 2026-07-21 · ♥ 2
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,842 characters)</summary>

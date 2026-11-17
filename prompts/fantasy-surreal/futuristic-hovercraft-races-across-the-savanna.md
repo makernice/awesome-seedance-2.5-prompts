@@ -14,7 +14,7 @@ A single continuous 10-second shot opening with a high aerial orbit, then follow
 
 **Seedance 2.0** · prompt by [@umesh_ai](https://x.com/umesh_ai/status/2025151963386548438) · 2026-02-21 · ♥ 214
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,009 characters)</summary>

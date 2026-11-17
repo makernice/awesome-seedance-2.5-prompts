@@ -14,7 +14,7 @@ A woman in a cream faux-fur coat walks toward camera carrying skis at golden hou
 
 **Seedance 2.5** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2096826123330138410) · 2026-09-07 · ♥ 246
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (675 characters)</summary>

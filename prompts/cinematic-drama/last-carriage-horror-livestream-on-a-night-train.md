@@ -14,7 +14,7 @@ A woman livestreams on a dark train until a coughing passenger and a blackout tu
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2098639106712784933) · 2026-09-12 · ♥ 196
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

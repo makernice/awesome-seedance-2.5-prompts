@@ -14,7 +14,7 @@ A timecoded diner scene where a young woman sips a milkshake as a waitress, coff
 
 **Seedance 2.5** · prompt by [@techhalla](https://x.com/techhalla/status/2083389002552664385) · 2026-08-01 · ♥ 2,865
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,587 characters)</summary>

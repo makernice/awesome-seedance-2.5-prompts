@@ -14,7 +14,7 @@ A 10-second 3D animation rebuilt from an uploaded storyboard, with timecoded ste
 
 **Seedance 2.0** · prompt by [@HaniaAi12](https://x.com/HaniaAi12/status/2076979039747920309) · 2026-07-14 · ♥ 116
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

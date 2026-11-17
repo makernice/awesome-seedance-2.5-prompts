@@ -14,7 +14,7 @@ A vertical 30-second rider's-eye view of a large obsidian and crimson dragon, wi
 
 **Seedance 2.5** · prompt by [@frametheory058](https://x.com/frametheory058/status/2087007818721423855) · 2026-08-11 · ♥ 340
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,201 characters)</summary>

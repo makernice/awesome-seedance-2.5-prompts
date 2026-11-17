@@ -14,7 +14,7 @@ A 10-second 4K clip of a woman in pastel clothes on a sloping coastal street, wr
 
 **Seedance 2.5** · prompt by [@MissDelulu9](https://x.com/MissDelulu9/status/2113151262103621812) · 2026-10-22 · ♥ 214
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (811 characters)</summary>

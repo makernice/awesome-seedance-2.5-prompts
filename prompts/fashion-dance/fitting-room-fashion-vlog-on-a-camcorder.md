@@ -14,7 +14,7 @@ A playful backstage fitting-room vlog filmed on a handheld camcorder, with mirro
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2081353850779550056) · 2026-07-26 · ♥ 233
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,117 characters)</summary>

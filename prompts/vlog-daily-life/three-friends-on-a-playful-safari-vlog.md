@@ -14,7 +14,7 @@ A 16:9 documentary and travel-vlog hybrid of three friends on a safari, built on
 
 **Seedance 2.5** · prompt by [@AIwithWania](https://x.com/AIwithWania/status/2106971093592691077) · 2026-10-05 · ♥ 187
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

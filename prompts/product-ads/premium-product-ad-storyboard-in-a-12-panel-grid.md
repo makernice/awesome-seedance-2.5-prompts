@@ -14,7 +14,7 @@ A request for an A3 landscape commercial storyboard with twelve panels in a four
 
 **Seedance 2.0** · prompt by [@Ciri_ai](https://x.com/Ciri_ai/status/2076891330622689602) · 2026-07-14 · ♥ 221
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 27 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 27 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (2,052 characters)</summary>

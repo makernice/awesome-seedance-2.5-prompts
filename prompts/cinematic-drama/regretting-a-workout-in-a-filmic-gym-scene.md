@@ -14,7 +14,7 @@ A handheld gym comedy shot with 35mm-film look settings listed in the prompt, su
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2104153857542553754) · 2026-09-27 · ♥ 229
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,224 characters)</summary>

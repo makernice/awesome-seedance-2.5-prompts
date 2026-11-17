@@ -14,7 +14,7 @@ A 20-second ultra-realistic lifestyle vlog with natural handheld feel and shallo
 
 **Seedance 2.5** · prompt by [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2091345498909319528) · 2026-08-23 · ♥ 259
 
-**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v12)
+**Rerun cost** for 20 s: 480p $2.30592 · 720p $5.184 · 1080p $12.8304 · 4K $39.10 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

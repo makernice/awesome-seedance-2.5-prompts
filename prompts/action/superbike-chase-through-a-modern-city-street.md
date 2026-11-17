@@ -14,7 +14,7 @@ A woman in a black racing suit rides a fast superbike through city streets; the 
 
 **Seedance 2.0** · prompt by [@AIwithMinal](https://x.com/AIwithMinal/status/2098633792126677496) · 2026-09-12 · ♥ 135
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 51 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 51 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (652 characters)</summary>

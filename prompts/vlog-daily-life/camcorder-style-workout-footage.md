@@ -14,7 +14,7 @@ A shaky 16mm DV tape camcorder look following a self-filmed workout, with a deta
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2093191801763233991) · 2026-08-28 · ♥ 267
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,587 characters)</summary>

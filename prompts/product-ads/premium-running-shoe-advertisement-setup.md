@@ -14,7 +14,7 @@ A product-ad prompt that builds a reference image of a white-mesh running shoe w
 
 **Seedance 2.5** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2104507598695489678) · 2026-09-28 · ♥ 166
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,182 characters)</summary>

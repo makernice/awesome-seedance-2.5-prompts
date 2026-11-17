@@ -14,7 +14,7 @@ A tense multi-part short set in a dim wooden cabin, opening on a close-up of a m
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2103857991917433061) · 2026-09-26 · ♥ 303
 
-**Rerun cost** for 26 s: 480p $2.997696 · 720p $6.7392 · 1080p $16.67952 · 4K $50.83 (price list v12)
+**Rerun cost** for 26 s: 480p $2.997696 · 720p $6.7392 · 1080p $16.67952 · 4K $50.83 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,509 characters)</summary>

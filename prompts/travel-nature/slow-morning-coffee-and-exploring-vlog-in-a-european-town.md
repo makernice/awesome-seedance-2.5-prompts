@@ -14,7 +14,7 @@ A 15-second travel vlog that must pass as real creator footage, written as timec
 
 **Seedance 2.5** · prompt by [@SyntheSarah](https://x.com/SyntheSarah/status/2087737206459044262) · 2026-08-13 · ♥ 283
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,121 characters)</summary>

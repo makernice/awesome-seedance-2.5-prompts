@@ -14,7 +14,7 @@ A 30-second travel vlog of a woman on a night helicopter flight above Tokyo, wit
 
 **Seedance 2.5** · prompt by [@Just_sharon7](https://x.com/Just_sharon7/status/2113594768400023908) · 2026-10-23 · ♥ 274
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (5,666 characters)</summary>

@@ -14,7 +14,7 @@ A 10-second animated gag that starts from a supplied cartoon desktop image as th
 
 **Seedance 2.0** · prompt by [@itxabdullaa](https://x.com/itxabdullaa/status/2102239560914841864) · 2026-09-22 · ♥ 117
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

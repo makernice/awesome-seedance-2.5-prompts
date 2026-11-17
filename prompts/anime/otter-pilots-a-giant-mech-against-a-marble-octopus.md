@@ -14,7 +14,7 @@ A short anime concept with quick cuts of gears and mechanical parts, a grim thum
 
 **Seedance 2.0** · prompt by [@emollick](https://x.com/emollick/status/2021412306291392535) · 2026-02-11 · ♥ 2,212
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (280 characters)</summary>

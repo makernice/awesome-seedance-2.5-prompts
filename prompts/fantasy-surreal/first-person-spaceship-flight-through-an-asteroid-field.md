@@ -14,7 +14,7 @@ A pilotless cockpit view with no HUD, launching into deep space and snap-rolling
 
 **Seedance 2.0** · prompt by [@LudovicCreator](https://x.com/LudovicCreator/status/2080593896451473497) · 2026-07-24 · ♥ 96
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,142 characters)</summary>

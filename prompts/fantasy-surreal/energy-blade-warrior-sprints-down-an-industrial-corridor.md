@@ -14,7 +14,7 @@ A sci-fi action shot of a warrior in a flowing beige outfit running with a glowi
 
 **Seedance 2.0** · prompt by [@AIwithMinal](https://x.com/AIwithMinal/status/2106610541636837770) · 2026-10-04 · ♥ 194
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 40 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 40 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (534 characters)</summary>

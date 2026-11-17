@@ -14,7 +14,7 @@ A documentary-style tracking shot of a young woman at a luxury island resort wit
 
 **Seedance 2.5** · prompt by [@techhalla](https://x.com/techhalla/status/2088099038839316601) · 2026-08-14 · ♥ 141
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,583 characters)</summary>

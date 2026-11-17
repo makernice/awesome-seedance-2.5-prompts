@@ -14,7 +14,7 @@ A 15-second continuous sequence following a precise match progression from stare
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2051883545807999024) · 2026-05-06 · ♥ 145
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (768 characters)</summary>

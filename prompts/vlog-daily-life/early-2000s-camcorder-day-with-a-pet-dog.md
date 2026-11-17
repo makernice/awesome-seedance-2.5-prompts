@@ -14,7 +14,7 @@ A 30-second Seoul neighborhood walk with a dog filmed in a retro DV camcorder lo
 
 **Seedance 2.5** · prompt by [@AIwithkhan](https://x.com/AIwithkhan/status/2107320440683417827) · 2026-10-06 · ♥ 425
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,193 characters)</summary>

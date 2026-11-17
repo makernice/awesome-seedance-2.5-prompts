@@ -14,7 +14,7 @@ A 10-second anime food video showing a chef cubing and seasoning meat for skewer
 
 **Seedance 2.5** · prompt by [@aiwithlumi](https://x.com/aiwithlumi/status/2095496077764100446) · 2026-09-03 · ♥ 164
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (541 characters)</summary>

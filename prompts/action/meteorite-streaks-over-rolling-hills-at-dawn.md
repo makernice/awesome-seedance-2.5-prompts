@@ -14,7 +14,7 @@ An ultra-wide pre-dawn aerial shot that moves fast over green hills and a calm l
 
 **Seedance 2.0** · prompt by [@umesh_ai](https://x.com/umesh_ai/status/2056340933273358676) · 2026-05-18 · ♥ 200
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (774 characters)</summary>

@@ -14,7 +14,7 @@ A bright summer fashion clip that preserves one reference character's face, hair
 
 **Seedance 2.0** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2081383131668701519) · 2026-07-26 · ♥ 120
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

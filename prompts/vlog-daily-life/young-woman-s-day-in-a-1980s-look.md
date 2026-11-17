@@ -14,7 +14,7 @@ A 15-second nostalgic video following a young woman through her day, with period
 
 **Seedance 2.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2048593804547215837) · 2026-04-27 · ♥ 167
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,673 characters)</summary>

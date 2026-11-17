@@ -14,7 +14,7 @@ Spheres, bars and cylinders rain down, assemble into a stylized Tokyo skyline, s
 
 **Seedance 2.5** · prompt by [@noorwithwifi](https://x.com/noorwithwifi/status/2091194579689394463) · 2026-08-22 · ♥ 93
 
-**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v12)
+**Rerun cost** for 15 s: 480p $1.72944 · 720p $3.888 · 1080p $9.6228 · 4K $29.325 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (524 characters)</summary>

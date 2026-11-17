@@ -14,7 +14,7 @@ A 24-second emotional fantasy short on a misty cliff edge with a character block
 
 **Seedance 2.5** · prompt by [@itsshara_ai](https://x.com/itsshara_ai/status/2109150045706895457) · 2026-10-11 · ♥ 466
 
-**Rerun cost** for 24 s: 480p $2.767104 · 720p $6.2208 · 1080p $15.39648 · 4K $46.92 (price list v12)
+**Rerun cost** for 24 s: 480p $2.767104 · 720p $6.2208 · 1080p $15.39648 · 4K $46.92 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,283 characters)</summary>

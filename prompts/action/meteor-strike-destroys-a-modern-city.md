@@ -14,7 +14,7 @@ A single-paragraph disaster prompt stacking a collapsing bridge, exploding skysc
 
 **Seedance 2.0** · prompt by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2023928376655048994) · 2026-02-18 · ♥ 486
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12; original is 86 s, max 15 s per run)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15; original is 86 s, max 15 s per run)
 
 <details>
 <summary><b>Prompt</b> (546 characters)</summary>

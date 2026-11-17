@@ -14,7 +14,7 @@ A bald bearded man's comedic morning, from a messy bedroom to a bathroom, filmed
 
 **Seedance 2.5** · prompt by [@techhalla](https://x.com/techhalla/status/2087667201788555282) · 2026-08-12 · ♥ 432
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,390 characters)</summary>

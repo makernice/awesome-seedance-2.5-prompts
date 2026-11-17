@@ -14,7 +14,7 @@ A young woman records herself on a grainy 16mm-style camcorder, and the prompt i
 
 **Seedance 2.0** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2084614599928852918) · 2026-08-04 · ♥ 192
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,909 characters)</summary>

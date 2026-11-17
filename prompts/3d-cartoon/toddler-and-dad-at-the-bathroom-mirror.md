@@ -14,7 +14,7 @@ A funny 9:16 3D animated scene of a toddler on the bathroom floor with a soap di
 
 **Seedance 2.5** · prompt by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai/status/2106560621932384657) · 2026-10-04 · ♥ 1,394
 
-**Rerun cost** for 21 s: 480p $2.421216 · 720p $5.4432 · 1080p $13.47192 · 4K $41.055 (price list v12)
+**Rerun cost** for 21 s: 480p $2.421216 · 720p $5.4432 · 1080p $13.47192 · 4K $41.055 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,690 characters)</summary>

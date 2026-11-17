@@ -14,7 +14,7 @@ A cozy 90s-style pink bedroom leads into a glamorous fashion transformation; the
 
 **Seedance 2.5** · prompt by [@noorlewisx](https://x.com/noorlewisx/status/2097545178013950280) · 2026-09-09 · ♥ 176
 
-**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v12)
+**Rerun cost** for 27 s: 480p $3.112992 · 720p $6.9984 · 1080p $17.32104 · 4K $52.785 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,868 characters)</summary>

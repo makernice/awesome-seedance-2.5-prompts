@@ -14,7 +14,7 @@ A 30-second comedy with timed beats where a sleeping night watchwoman knocks out
 
 **Seedance 2.5** · prompt by [@doctorwasif](https://x.com/doctorwasif/status/2104921034571046998) · 2026-09-29 · ♥ 315
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,624 characters)</summary>

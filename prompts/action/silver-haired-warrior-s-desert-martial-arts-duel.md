@@ -14,7 +14,7 @@ A white-robed warrior with long silver hair fights in a stormy desert in a 17-se
 
 **Seedance 2.5** · prompt by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43/status/2100085430976930255) · 2026-09-16 · ♥ 183
 
-**Rerun cost** for 18 s: 480p $2.075328 · 720p $4.6656 · 1080p $11.54736 · 4K $35.19 (price list v12)
+**Rerun cost** for 18 s: 480p $2.075328 · 720p $4.6656 · 1080p $11.54736 · 4K $35.19 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,724 characters)</summary>

@@ -14,7 +14,7 @@ A 30-second anime action sequence with timecoded moves, a calm heroine, ink-spre
 
 **Seedance 2.5** · prompt by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2107164974078722307) · 2026-10-05 · ♥ 49
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,455 characters)</summary>
@@ -60,7 +60,7 @@ A hand-drawn 2D girl in a pink apron makes a huge bowl of popcorn in a realistic
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2105619247393321169) · 2026-10-01 · ♥ 197
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,134 characters)</summary>
@@ -114,7 +114,7 @@ A hand-drawn 2D girl in a yellow apron cooks inside a photorealistic kitchen, mi
 
 **Seedance 2.5** · prompt by [@AIwithSynthia](https://x.com/AIwithSynthia/status/2105129836750786993) · 2026-09-30 · ♥ 255
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,803 characters)</summary>
@@ -165,7 +165,7 @@ A hand-drawn 2D girl on a skateboard rides over real office desk items, combinin
 
 **Seedance 2.5** · prompt by [@harboriis](https://x.com/harboriis/status/2104106520808157221) · 2026-09-27 · ♥ 226
 
-**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v12)
+**Rerun cost** for 30 s: 480p $3.45888 · 720p $7.776 · 1080p $19.2456 · 4K $58.65 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,836 characters)</summary>
@@ -211,7 +211,7 @@ A 10-second animated gag that starts from a supplied cartoon desktop image as th
 
 **Seedance 2.0** · prompt by [@itxabdullaa](https://x.com/itxabdullaa/status/2102239560914841864) · 2026-09-22 · ♥ 117
 
-**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v12)
+**Rerun cost** for 10 s: 720p $1.704 · 1080p $4.2528 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -280,7 +280,7 @@ A 10-second anime food video showing a chef cubing and seasoning meat for skewer
 
 **Seedance 2.5** · prompt by [@aiwithlumi](https://x.com/aiwithlumi/status/2095496077764100446) · 2026-09-03 · ♥ 164
 
-**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v12)
+**Rerun cost** for 10 s: 480p $1.15296 · 720p $2.592 · 1080p $6.4152 · 4K $19.55 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (541 characters)</summary>
@@ -306,7 +306,7 @@ A timecoded sequence of short shots in a stylized 2D animated look, with a rival
 
 **Seedance 2.0** · prompt by [@itsshara_ai](https://x.com/itsshara_ai/status/2079565454436426187) · 2026-07-21 · ♥ 166
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,840 characters)</summary>
@@ -362,7 +362,7 @@ A short anime concept with quick cuts of gears and mechanical parts, a grim thum
 
 **Seedance 2.0** · prompt by [@emollick](https://x.com/emollick/status/2021412306291392535) · 2026-02-11 · ♥ 2,212
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (280 characters)</summary>
@@ -390,7 +390,7 @@ An anime crossover where a relaxed wooden-sword narrator announces tournament ru
 
 **Seedance 2.0** · prompt by [@NACHOS2D_](https://x.com/NACHOS2D_/status/2021295886978908547) · 2026-02-10 · ♥ 288
 
-**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v12)
+**Rerun cost** for 15 s: 720p $2.556 · 1080p $6.3792 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,495 characters)</summary>
